@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Phase Flow</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="description" content="Phase Flow Podcast | Official Website | Info, episodes, socials and more"/>
+  <meta name="Keywords" content="i, am, eyemax, phaseflow, podcast, live, progressive, electro, deep, house, beats, dj, dance, electro, chart, hit, mashup, remix, recordings">  
+  <meta name="robots" content="all"/>
+  <meta name="yandex-verification" content="ed38a49d4ef62d30" />
+  <meta name="theme-color" content="#03A9F4"/>
+
+  <!-- links  -->
+
+ 
+  <!--styles-->
+  <style id="inlinecss" type="text/css">
+    /* put a border around the canvas element */
+    #canvas  
+    {  
+      background-color: #acece6;
+      margin-top:10px; 
+      cursor:pointer;
+    }
+  </style>
+      <!--.playerbtn{display:inline-block;background:#2a5885;color:#ffd;margin:5px 5px 0 0;border:1px hidden #2a5885;border-radius:5px;cursor:pointer;box-shadow:rgba(0, 0, 0, 0.65) 2px 2px;}
+    .playerbtn:hover{background:#3F85C6;color:#fff;box-shadow:rgba(0, 0, 0, 0.5) 4px 4px;margin:3px 5px 0 0;}
+    .playerbtn:active{background:#3F9BC3;color:#fff;box-shadow:rgba(0, 0, 0, 0.65) 2px 2px}-->
+
+
+</head>
+<body id="0" style="background-image:url(https://www.toptal.com/designers/subtlepatterns/patterns/p6.png)">
+  
+  <div class="section blur row" id="playersection"
+             style="display:none;position:fixed;bottom:0;left:0;right:0;margin-left:auto;margin-right:auto;margin-bottom:-10px;
+                            z-index:5;background-color:rgba(255, 255, 255, 0.75);border-top:1px solid #2a5885;">
+            
+              
+                <audio class="col s12 m6 l8" controls id="player" type="audio/mpeg" src=""
+                            style="background:2a5885;border:1px solid #fff;border-radius:2px;margin:10px auto 0 auto">
+                        Sorry, but your device doesn't support HTML5 audio
+                </audio>
+                
+              
+              <div class="col s12 m6 l4">                
+              <div class="row valign-wrapper"> 
+                <div class="btn waves-effect col s3 setbtn" onclick="stop()">
+                    ■
+                    <!--<button onclick="rewind()" id="rewindbutton" class="btn waves-effect" style="display: inline-block;">
+                        <-30
+                    </button>-->
+                </div>               
+                <div class="btn waves-effect col s3 setbtn" onclick="rewind()">
+                    ◄◄
+                    <!--<button onclick="rewind()" id="rewindbutton" class="btn waves-effect" style="display: inline-block;">
+                        <-30
+                    </button>-->
+                </div>
+                <div class="btn waves-effect col s3 setbtn" onclick="forward()">
+                    ►►
+                    <!--<button onclick="forward()" id="forwardbutton" class="btn waves-effect" style="display: inline-block;">
+                        +30&gt;
+                    </button>-->
+                </div>
+                <div class="btn waves-effect col s3 setbtn" onclick="voldn()">
+                    ♫–
+                    <!--<button onclick="voldn()" id="forwardbutton" class="btn waves-effect" style="display: inline-block;">
+                        ♫+
+                    </button>-->
+                </div>
+                <div class="btn waves-effect col s3 setbtn" onclick="volup()">
+                    ♫+
+                    
+                </div>
+            </div>
+          </div>
+
+        </div>
+
+  <!-- NAVBAR -->
+  <div class="navbar-fixed ph_hide" id="header">
+  <!--nav class="deep-purple darken-3" role="navigation"-->
+  <!--nav class="" role="navigation" style="background-color: #4376B7" style="background-color: rgba(255,255,255,1)-->
+  <nav class="ph_nav" role="navigation" >
+    
+  <div class="nav-wrapper container" >
+    <img class="logo color-invert" src="images/logo16T150.png" alt="reload page"/>
+    <a id="logo-container"  class="brand-logo pink-text" >Phase Flow</a>
+    
+  <!-- WIDE SCREEN -->
+    <ul class="right hide-on-med-and-down">
+        <li class="waves-effect " id="btn3" ><a class="ph_a pink-text" >News</a></li>
+        <li class="waves-effect " id="btn1" ><a class="ph_a pink-text" >Playlist</a></li>
+        <!--li><a href="#3" class="ph_a">About</a></li-->
+   </ul>
+  <!-- MOBILE -->
+      <ul id="nav-mobile" class="side-nav blur" >
+        <li id="btn4"><a class="ph_a waves-effect waves-light" >News</a></li>
+        <li id="btn2"><a class="ph_a waves-effect waves-light" >Playlist</a></li>
+        <!--li><a href="#">About</a></li-->
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="waves-effect button-collapse">
+        <!--i class="mdi-navigation-menu"></i-->
+        
+        <svg fill="#fff" height="48" viewBox="-6 -10 36 36" width="48" xmlns="http://www.w3.org/2000/svg">
+         <path d="M0 0h24v24H0z" fill="none"/>
+         <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+        
+      </a>
+    </div>
+  </nav>
+
+  </div>  
+  <div id="content"> 
+    <div id="space" style="height:2560px;"></div>
+  </div>
+
+  <footer class="page-footer white">
+    <div class ="divider"></div>
+    <div class="footer-copyright">
+    <!--div class="footer-copyright blue darken-1" style="background-color: #4376B7"--><!--original-->
+      <div class="container" style="color:#939699">
+      Made by
+        <a class="waves-effect pink-text" href="http://vk.com/yegui">EYEMAX</a>
+        <a class="waves-effect black-text right" href="#0"> 
+          <svg fill="#1565C0" height="18" viewBox="0 0 20 20" width="18" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 0h24v24H0V0z" fill="none"/>
+            <path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"/>
+          </svg><!-- fill="#939699"-->
+           Наверх 
+        </a>
+      </div>
+    </div>
+  </footer>
+  
+</body>
+</html>
