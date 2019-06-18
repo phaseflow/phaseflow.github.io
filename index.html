@@ -11,7 +11,7 @@
   <meta name="theme-color" content="#03A9F4"/>
 
   <!-- links  -->
-
+  <link rel="shortcut icon" href="images/favicon.png" type="image/png" /> 
  
   <!--styles-->
   <style id="inlinecss" type="text/css">
@@ -26,7 +26,8 @@
       <!--.playerbtn{display:inline-block;background:#2a5885;color:#ffd;margin:5px 5px 0 0;border:1px hidden #2a5885;border-radius:5px;cursor:pointer;box-shadow:rgba(0, 0, 0, 0.65) 2px 2px;}
     .playerbtn:hover{background:#3F85C6;color:#fff;box-shadow:rgba(0, 0, 0, 0.5) 4px 4px;margin:3px 5px 0 0;}
     .playerbtn:active{background:#3F9BC3;color:#fff;box-shadow:rgba(0, 0, 0, 0.65) 2px 2px}-->
-
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />  
 
 </head>
 <body id="0" style="background-image:url(https://www.toptal.com/designers/subtlepatterns/patterns/p6.png)">
@@ -136,3 +137,21 @@
   
 </body>
 </html>
+<!--scripts-->
+  <script src="js/jquery-3.1.1.min.js"></script>
+  <script defer src="js/materialize.js"></script>
+  <script>
+    function show()
+      {
+        $.ajax({
+          url: "playlist.html",
+          cache: false,
+          success: function(html){$("#content").html(html);}
+        });
+      }
+    $(document).ready(function(){show();});  
+  </script>
+  <!--script src="js/hide.js"></script-->
+  <script defer src="js/init.js"></script>
+  <script defer src="js/load.js"></script>
+  <script async src="js/player.js"></script>
