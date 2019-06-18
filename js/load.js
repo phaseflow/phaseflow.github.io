@@ -1,0 +1,1 @@
+$(document).ready(function(){$('#btn1,#btn2').click(function(){$.ajax({url:"playlist.html",cache:false,success:function(html){$("#content").html(html);}});});$('#btn3,#btn4').click(function(){$.ajax({url:"news.html",cache:false,success:function(html){$("#content").html(html);}});});});
