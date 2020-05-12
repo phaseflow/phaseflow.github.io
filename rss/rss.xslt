@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:pippa="http://www.dev.pippa.io/pippaRSSModule"  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="1.0">
     <xsl:output method="html" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"/>
     <xsl:variable name="title" select="/rss/channel/title"/>
     <xsl:variable name="feedDesc" select="/rss/channel/description"/>
     <xsl:variable name="copyright" select="/rss/channel/copyright"/>
     <xsl:variable name="feedUrl" select="/rss/channel/atom:link[@rel='self']/@href" xmlns:atom="http://www.w3.org/2005/Atom"/>
-    <xsl:variable name="baseURL" select="'//static.pippa.io/feed'" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <!-- <xsl:variable name="baseURL" select="''" xmlns:atom="http://www.w3.org/2005/Atom"/> -->
     <xsl:variable name="rssPath" select="'rss'" xmlns:atom="http://www.w3.org/2005/Atom"/>
 
     <xsl:template match="/">
@@ -14,14 +14,14 @@
                 <title><xsl:value-of select="$title"/></title>
                 <!-- <link href="{$baseURL}/styles.css" rel="stylesheet" type="text/css" media="all"/> -->
                 <link href="{$rssPath}/rss.css" rel="stylesheet" type="text/css" media="all"/>
-                <xsl:element name="script">
+                <!-- <xsl:element name="script">
                     <xsl:attribute name="type">text/javascript</xsl:attribute>
                     <xsl:attribute name="src"><xsl:copy-of select="$baseURL"/>/jquery.min.js</xsl:attribute>
                 </xsl:element>
                 <xsl:element name="script">
                     <xsl:attribute name="type">text/javascript</xsl:attribute>
                     <xsl:attribute name="src"><xsl:copy-of select="$baseURL"/>/rss.js</xsl:attribute>
-                </xsl:element>
+                </xsl:element> -->
             </head>
             <xsl:apply-templates select="rss/channel"/>
         </xsl:element>
@@ -58,7 +58,7 @@
                 </div>
                 <div id="footer">
                     <div>
-                        Powered by <a target="_blank" href="http://phaseflow.ru">phaseflow.ru</a>
+                        Powered by <a target="_blank" href="https://phaseflow.github.io">phaseflow.github.io</a>
                     </div>
                 </div>
             </div>
@@ -67,13 +67,32 @@
 
     <xsl:template match="item" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 
-        <ul xmlns="http://www.w3.org/1999/xhtml">
-            <li class="regularitem">
+        <xsl:variable name="artwork" select="itunes:image/@href"/>
+        <xsl:variable name="thumbnail" select="concat(substring($artwork, 1, string-length($artwork)-4),'_thumb.jpg')" />
+
+        <ul xmlns="http://www.w3.org/1999/xhtml" >
+            <!-- style="background: url({$thumbnail}) no-repeat center; background-size: cover;"> -->
+            <img src="{$thumbnail}" style="width:100%; object-fit: cover;
+            position: absolute;left:0; right:0;z-index: 0; filter:blur(8px)"/>
+            <li class="regularitem" style="z-index: 2;
+            position: relative; margin-top:50px;">
                 
                 <h4 class="itemtitle">
                     <a href="{link}">
+                        <xsl:element name="img" namespace="http://www.w3.org/1999/xhtml">
+                            <xsl:attribute name="src">
+                                 <xsl:value-of select="$thumbnail"/>
+                            </xsl:attribute>
+                            <xsl:attribute name="alt">Link to <xsl:value-of select="title"/></xsl:attribute>
+                            <xsl:attribute name="class">img-responsive</xsl:attribute>
+                         <xsl:attribute name="style">width:100%; max-width:96px</xsl:attribute>
+                        </xsl:element>
                         <xsl:value-of select="title"/>
-                    </a>
+                        <!-- <xsl:value-of select="$artwork"/> -->
+                        <!-- <p>
+                            <xsl:value-of select="$thumbnail"/>
+                        </p> -->
+                    </a>                    
                 </h4>
 
                 <div class="mediaenclosure">
@@ -102,7 +121,6 @@
                             <xsl:element name="audio" namespace="http://www.w3.org/1999/xhtml">
                                 <xsl:attribute name="controls" />
                                 <xsl:attribute name="preload">none</xsl:attribute>
-
                                 <xsl:element name="source" namespace="http://www.w3.org/1999/xhtml">
                                     <xsl:attribute name="src">
                                         <xsl:value-of select="enclosure/@url"/>

@@ -3,16 +3,16 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" >
 <channel>
-<atom:link href="http://www.phaseflow.ru/podcast.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://phaseflow.github.io/podcast.xml" rel="self" type="application/rss+xml"/>
 <title>Phase Flow</title>
-<link>http://www.phaseflow.ru</link>
+<link>http://phaseflow.github.io</link>
 <language>en-us</language>
 <copyright> &#xA9; 2015  EYEMVX </copyright>
 <description>Phase Flow Podcast is the high-quality source of the best electronic music from around the world, hosted by EYEMVX. Listen and be in touch with new trends in modern music!</description>
 <image>
-  <url>http://www.phaseflow.ru/images/logo_podcast.jpg</url>
+  <url>http://phaseflow.github.io/images/logo_podcast.jpg</url>
   <title>Phase Flow</title>
-  <link><![CDATA[http://www.phaseflow.ru]]></link>
+  <link><![CDATA[http://phaseflow.github.io]]></link>
 </image>
 <!--______ iTunes section ______-->  
 <itunes:subtitle>Podcasts and live sets</itunes:subtitle>
@@ -21,17 +21,17 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 <itunes:summary>Phase Flow Podcast is the high-quality source of the best electronic music from around the world, hosted by EYEMVX. Listen and be in touch with new trends in modern music! </itunes:summary>
 <itunes:owner>
   <itunes:name>Egor Antonov</itunes:name>
-  <itunes:email>eyemax@phaseflow.ru</itunes:email>
+  <itunes:email>eyemvx@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="http://www.phaseflow.ru/images/logo_podcast.jpg" />
+<itunes:image href="http://phaseflow.github.io/images/logo_podcast.jpg" />
 <itunes:keywords>house, dj, dance, future house, deep house, progressive house, future house, trap, eyemax, phaseflow, podcast</itunes:keywords>
 <itunes:category text="Music"/>
 <!--______ Google Play Section ______-->  
 <googleplay:author>EYEMVX</googleplay:author>
 <googleplay:explicit>No</googleplay:explicit>
 <googleplay:description>Phase Flow Podcast is the high-quality source of the best electronic music from around the world, hosted by EYEMVX. Listen and be in touch with new trends in modern music!</googleplay:description>
-<googleplay:email>eyemax@phaseflow.ru</googleplay:email>
-<googleplay:image href="http://www.phaseflow.ru/images/logo_podcast.jpg" />
+<googleplay:email>eyemvx@gmail.com</googleplay:email>
+<googleplay:image href="http://phaseflow.github.io/images/logo_podcast.jpg" />
 <googleplay:category text="Music" />
 
 <!--______ Items Section ______-->
@@ -48,7 +48,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 <p><strong>Tracklist:</strong></p>
 <p>
 </p>
-<a href="http://www.phaseflow.ru" style="color:#ca3495">Website</a><br>
+<a href="http://phaseflow.github.io" style="color:#ca3495">Website</a><br>
 <a href="http://vk.com/eyemvx" style="color:#039be5">VK</a><br>
 <a href="http://pca.st/wpos" style="color:#f44336">Pocket Casts</a><br> 
 <a href="http://twitter.com/phaseflow" style="color:#1da1f2">Twitter</a><br>
@@ -67,7 +67,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
   length=""
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode </guid>
-<pubDate>Sat,  2018 22:00:00 GMT</pubDate>
+<pubDate>Sat,  2020 22:00:00 GMT</pubDate>
 <itunes:duration>60:00</itunes:duration>
 </item-->
 
@@ -98,7 +98,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 15. Loge21 – Move Higher [CONFESSION]<br>
 16. Spada – Aphrodite [TRAUM]<br>
 17. Wlady & T.N.Y. & Richard Grey – In The Club (Gary Caos Edit) [CASA ROSSA]</p>
-<a href="http://www.phaseflow.ru" style="color:#ca3495">Website</a><br>
+<a href="http://phaseflow.github.io" style="color:#ca3495">Website</a><br>
 <a href="http://vk.com/eyemvx" style="color:#039be5">VK</a><br>
 <a href="http://pca.st/wpos" style="color:#f44336">Pocket Casts</a><br> 
 <a href="http://twitter.com/phaseflow" style="color:#1da1f2">Twitter</a><br>
@@ -308,14 +308,14 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 03. Humain & Sander – Choice [MIXMASH DEEP]<br>
 04. Jyye – Look At You [AFRTR:HRS]<br>
 05. SDJM & Conor Maynard – That Way (VIP Mix) [BIG BEAT ]<br>
-06. Laidback Luke & Ale Mora feat. Shermanology – Milkshake [MIXMASH]<br>
+06. Laidback Luke & Ale Mora ft. Shermanology – Milkshake [MIXMASH]<br>
 07. Lucas & Steve – Home [SPINNIN']<br>
 08. DJ Snake & MERCER ft. Jermaine Dupri – Let's Get Ill [GEFFEN]<br>
 09. David Guetta & Showtek – Your Love [PARLOPHONE]<br>
 10. MOGUAI & Macon – I Like It [HELDEEP]<br>
 11. Toby Green – In Too Deep [MUSICAL FREEDOM]<br>
 12. UMEK – Amnesiac [FILTH ON ACID]<br>
-13. Bottai feat. Mayenne – Plenitudo [DOORN]<br>
+13. Bottai ft. Mayenne – Plenitudo [DOORN]<br>
 14. Avao – Must Go Faster! [REACHING ALTITUDE]<br>
 15. Paris Blohm & Taylr Renee – Left Behinds [REVEALED]<br>
 16. DubVision – Steal The Moon [ARMADA]<br>
@@ -565,7 +565,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 <p><strong>Tracklist:</strong></p>
 <p>01. Scott Forshaw & Greg Stainer – I Don't Know [PINKSTAR]<br>
 02. Sons Of Maria – Break Through [ENORMOUS TUNES]<br>
-03. The Cages feat. Fiora – Behind<br>
+03. The Cages ft. Fiora – Behind<br>
 04. Lucas & Steve x Brandy – I Could Be Wrong [SPINNIN']<br>
 05. Bolier & Joe Stone – Keep This Fire Burning [SPINNIN']<br>
 06. Bottai – Assioma [DOORN (SPINNIN')]<br>
@@ -1087,18 +1087,18 @@ house, deep house, progressive house, edm, trap
 05. Gil Glaze – Wild and Free [ARMADA DEEP]<br>
 06. Sam Feldt & Alex Schulz – Be My Lover (Toby Green Remix) [SPINNIN']<br>
 07. Samlight – In My Mind [FUTURE HOUSE CLOUD]<br>
-08. David Guetta & Afrojack feat. Charli XCX & French Montana – Dirty Sexy Money (Joe Stone Remix)<br>
+08. David Guetta & Afrojack ft. Charli XCX & French Montana – Dirty Sexy Money (Joe Stone Remix)<br>
 09. VY•DA & Miss Ghyss – Run Away [ARMADA DEEP]<br>
 10. Lost Frequencies – Crazy [ARMADA]<br>
 11. Sagan – We Are Lost [SPINNIN' COPYRIGHT FREE]<br>
-12. Maxim Schunk x Raven & Kreyn feat. BISHØP – Say My Name [ENHANCED]<br>
+12. Maxim Schunk x Raven & Kreyn ft. BISHØP – Say My Name [ENHANCED]<br>
 13. CID – I Miss You [HEXAGON]<br>
 14. Inpetto – G-String [MIXMASH]<br>
 15. Aevion & Steff Da Campo – Keep On Rockin’ [CONFESSION]<br>
 16. twoloud & Kyanu – Six Beats [PLAYBOX]<br>
 17. Teamworx & Sunstars  – Playin' Around [PROTOCOL]<br>
 18. SAYMYNAME – Bounce [THRIVE]<br>
-19. Don Diablo feat. Paije – People Say [HEXAGON]<br></p>]]>
+19. Don Diablo ft. Paije – People Say [HEXAGON]<br></p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF112/112.jpg" />
 <itunes:keywords>
@@ -1185,7 +1185,7 @@ house, deep house, progressive house, edm, trap
 17. Ummet Ozcan, Lucas & Steve – Higher<br>
 18. StadiumX – It's Not Right But It's Okay<br>
 19. Aevion – Rave<br>
-20. Tchami – World To Me (ft. MNEK)<br>
+20. Tchami ft. MNEK – World To Me<br>
 21. CID ft. Conrad Sewell  – Secrets<br>
 22. JLV – Back To You<br>
 23. Mesto ft. Brielle Von Hugel – Chances<br>
@@ -1277,13 +1277,13 @@ house, deep house, progressive house, edm, trap
 09. Bougenvilla – Nagini [SPINNIN']<br>
 10. Dazers ft. Lana Lubany – Want Me [FREE]<br>
 11. Florian Picasso – Obsession [Musical Freedom]<br>
-12. TJR feat. Fatman Scoop – Check This [SPINNIN']<br>
+12. TJR ft. Fatman Scoop – Check This [SPINNIN']<br>
 13. Firebeatz – Burn It Down [IGNITE]<br>
 14. Picco ft. Lunascope – Broke [KONTOR]<br>
 15. Empire Of The Sun – Walking On A Dream (FREQNCY Remix)<br>
 16. R3hab & Krewella – Ain't That Why [R3HAB]<br>
 17. BlasterJaxx – Follow [MAXXIMIZE]<br>
-18. Unity & Pyrodox feat. The Baron – Good On Me [MIXMASH]
+18. Unity & Pyrodox ft. The Baron – Good On Me [MIXMASH]
 </p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF109/109.jpg" />
@@ -1336,7 +1336,7 @@ house, deep house, progressive house, edm, trap
 <itunes:keywords>
    house, deep house, progressive house, future house, trap, eyemax, phaseflow, podcast, live, progressive, electro, deep, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/390/501/3905014595.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF108]]></link>
 <enclosure
   url="http://archive.org/download/PF108/108.mp3"
   length="144148991"
@@ -1363,17 +1363,17 @@ house, deep house, progressive house, edm, trap
 05. Sagan – Tempus [HEXAGON]<br>
 06. Swanky Tunes & Going Deeper – One Million Dollars [HEXAGON]<br>
 07. Zomboy – Saints & Sinners (Habstrakt Remix) [NEVER SAY DIE]<br>
-08. Yellow Claw – Open (feat. Moksi & Jonna Fraser) [MAD DECENT]<br>
+08. Yellow Claw ft. Moksi & Jonna Fraser – Open [MAD DECENT]<br>
 09. Will K – Sour Milk [AXTONE]<br>
 10. Lucas & Steve x Firebeatz ft. Little Giants – Keep Your Head Up (Club Mix) [SPINNIN']<br>
 11. Suyano & Robert Falcon – Loved By You [AFTR:HRS]<br>
 12. Claude VonStroke – The Rain Break [DIRTYBIRD]<br>
-13. Above & Beyond feat. Richard Bedford – Northern Soul  [ANJUNABEATS]<br>
+13. Above & Beyond ft. Richard Bedford – Northern Soul  [ANJUNABEATS]<br>
 14. Mark Sixma & Emma Hewitt – Missing [ARMADA CAPTIVATING]<br>
-15. Alexander Popov & Tenishia feat. Thomas T – Play Your Cards (Alternative Mix) [INTERPLAY]<br>
-16. Tiësto feat. Stargate & Aloe Blacc – Carry You Home (Tiësto Big Room Mix) [MUSICAL FREEDOM]<br>
+15. Alexander Popov & Tenishia ft. Thomas T – Play Your Cards (Alternative Mix) [INTERPLAY]<br>
+16. Tiësto ft. Stargate & Aloe Blacc – Carry You Home (Tiësto Big Room Mix) [MUSICAL FREEDOM]<br>
 17. Breath Carolina – This Again (Dropgun & Taku-Hero Remix) [SPINNIN']<br>
-18. Jonas Blue feat. Moelogo – We Could Go Back (Jonas Blue & Jack Wins Club Mix) [VIRGIN EMI]<br>
+18. Jonas Blue ft. Moelogo – We Could Go Back (Jonas Blue & Jack Wins Club Mix) [VIRGIN EMI]<br>
 19. Schella & Pexem – I Can Feel U [IGNITE]<br>
 20. Kaskade – Nobody Like You [ARKADE]<br></p>]]>
 </description>
@@ -1401,21 +1401,21 @@ house, deep house, progressive house, edm, trap
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 106: Autumn Deep Mix</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>01. LVNDSCAPE feat. Cathrine Lassen – Dive With Me [SPINNIN']<br>
-02. Don Diablo feat. A R I Z O N A – Take Her Place [HEXAGON]<br>
+<p>01. LVNDSCAPE ft. Cathrine Lassen – Dive With Me [SPINNIN']<br>
+02. Don Diablo ft. A R I Z O N A – Take Her Place [HEXAGON]<br>
 03. MOGUAI & Polina – Say A Little Prayer [SPINNIN' DEEP]<br>
 04. Malachi ft. Moji – How It Feels [FULL INTENTION]<br>
 05. Keanu Silva – On My Way [MIXMASH]<br>
-06. Hardsoul & Ill Phil feat. The Rise – You & I [GET TWISTED]<br>
+06. Hardsoul & Ill Phil ft. The Rise – You & I [GET TWISTED]<br>
 07. Aevion – Rave [SPINNIN' COPYRIGHT FREE]<br>
 08. Jack Wins – I Need Your Love [LYD]<br>
 09. Joe Stone – Let's Go Together [SPINNIN']<br>
 10. Dankann – How Deep Is Your Love [SPINNIN' PREMIUM]<br>
 11. Bougenvilla – Amazon [SPINNIN' DEEP]<br>
 12. BLR x Rave & Crave – TAJ [SPINNIN' DEEP]<br>
-13. Ben Delay feat. Alexandra Prince – Out of My Life (Calippo Remix) [ENORMOUS TUNES]<br>
+13. Ben Delay ft. Alexandra Prince – Out of My Life (Calippo Remix) [ENORMOUS TUNES]<br>
 14. Sam Feldt & Alex Schulz – Be My Lover [SPINNIN']<br>
-15. Alok & Liu feat. Stonefox – All I Want (Sons Of Maria Remix) [ARMADA DEEP]<br></p>]]>
+15. Alok & Liu ft. Stonefox – All I Want (Sons Of Maria Remix) [ARMADA DEEP]<br></p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF_106/106.jpg" />
 <itunes:keywords>
@@ -1445,8 +1445,8 @@ house, deep house, progressive house, edm, trap
 03. CMC$ & Conor Maynard – Understand Me (Bougenvilla Remix) [STMPD]<br>
 04. Lucas & Steve x Madison Mars – Stardust [SPINNIN']<br>
 05. The Parakit ft. Alden Jacob & Lola Bambola – Without You [SPINNIN']<br>
-06. Kungs feat. Olly Murs & Coely – More Mess (Hugel Remix) [SOUND OF BARCLAY]<br>
-07. Armin van Buuren feat. Josh Cumbee – Sunny Days (Tom Swoon Extended Remix) [ARMADA]<br>
+06. Kungs ft. Olly Murs & Coely – More Mess (Hugel Remix) [SOUND OF BARCLAY]<br>
+07. Armin van Buuren ft. Josh Cumbee – Sunny Days (Tom Swoon Extended Remix) [ARMADA]<br>
 08. Loopers  – Blaze It Up [STMPD]<br>
 09. Wax Motif – Tokyo [CONFESSION]<br>
 10. Tchami & ANGELZ – Love Language [CONFESSION]<br>
@@ -1454,10 +1454,10 @@ house, deep house, progressive house, edm, trap
 12. Garmiani – Fogo [SPINNIN']<br>
 13. Say My Name – Drop It [THRIVE MUSIC]<br>
 14. Tony Junior x Stuk – Smoke [SPINNIN' PREMIUM]<br>
-15. Justin Prime & Onderkoffer feat. Taylor Jones – Lights Off [TRAP CITY]<br>
-16. Lady Bee feat. Tropkillaz & Oktavian – Murder [TRAP CITY]<br>
-17. Pyrodox feat. Martyn Ell – Never Gonna Leave My Mind [MIXMASH]<br>
-18. Robin Schulz feat. Marc Scibilia – Unforgettable [TONSPIEL]</p>]]>
+15. Justin Prime & Onderkoffer ft. Taylor Jones – Lights Off [TRAP CITY]<br>
+16. Lady Bee ft. Tropkillaz & Oktavian – Murder [TRAP CITY]<br>
+17. Pyrodox ft. Martyn Ell – Never Gonna Leave My Mind [MIXMASH]<br>
+18. Robin Schulz ft. Marc Scibilia – Unforgettable [TONSPIEL]</p>]]>
 </description>
 <itunes:image href="http://archive.org/download/ADE2017/105.jpg" />
 <itunes:keywords>
@@ -1485,7 +1485,7 @@ house, deep house, progressive house, edm, trap
 <p><strong>Tracklist:</strong></p>
 <p>01. Breathe Carolina & Flatdisk – Hotel [SOURCE]<br>
 02. Avicii – So Much Better (Avicii Remix)<br>
-03. Deepend feat. Deb's Daughter – Every Little Thing (Bazzflow Remix) [SPINNIN' REMIXES]<br>
+03. Deepend ft. Deb's Daughter – Every Little Thing (Bazzflow Remix) [SPINNIN' REMIXES]<br>
 04. BANKEWITZ – Get Up [MIXMASH DEEP]<br>
 05. Marnik & Blazars – King In The North [SPINNIN' COPYRIGHT FREE]<br>
 06. La Fuente – Bring The House Down [HELDEEP]<br>
@@ -1493,7 +1493,7 @@ house, deep house, progressive house, edm, trap
 08. TJR & Chris Bushnell – Higher State [SPINNIN']<br>
 09. HI-LO & ALOK – Alien Technology [HELDEEP]<br>
 10. Yellow Claw – Run Away (Moksi Remix)<br>
-11. DLMT & Ellis feat. AWR – How Does It Feel [FHM]<br>
+11. DLMT & Ellis ft. AWR – How Does It Feel [FHM]<br>
 12. JLV – Look Away [SPINNIN' COPYRIGHT FREE]<br>
 13. GM – Twenty-Two [PHASE FLOW DEMO]<br>
 14. Tiesto & John Christian – Scream [MUSICAL FREEDOM]<br>
@@ -1530,7 +1530,7 @@ house, deep house, progressive house, edm, trap
 <p>01. CamelPhat & Elderbrook – Cola [DEFECTED] <br>
 02. Leon Lour – Equilibrium [ARMADA DEEP] <br>
 03. Redondo – Instant Moments [SPINNIN' DEEP] <br>
-04. Firebeatz feat. Vertel – Till The Sun Comes Up [IGNITE] <br>
+04. Firebeatz ft. Vertel – Till The Sun Comes Up [IGNITE] <br>
 05. French Montana & Swae Lee – Unforgettable (Tiesto & Dzeko's AFTR HRS remix) [EPIC] <br>
 06. Madison Mars – Atom [SPINNIN' COPYRIGHT FREE] <br>
 07. Joey Rumble – Anywhere [LOWLY HOUSE / FREE] <br>
@@ -1572,7 +1572,7 @@ house, deep house, progressive house, edm, trap
 <p>01. Tim Mason – Twelve Beats [DOORN] <br>
 02. BLR & SBNC – Varca [DOORN] <br>
 03. Tom Budin – Trompeta [CLUB CARTEL] <br>
-04. Tchami feat. Taiki Nulight – Godspell [CONFESSION] <br>
+04. Tchami ft. Taiki Nulight – Godspell [CONFESSION] <br>
 05. Mark Ursa & Yuga – SAY (Dirty Papy Remix) [MOSTIKO] <br>
 06. Fedde Le Grand & Dannic vs. Coco Star – Coco's Miracle [SPINNIN'] <br>
 07. Dua Lipa – New Rules (Alison Wonderland Remix) [WARNER MUSIC] <br>
@@ -1583,8 +1583,8 @@ house, deep house, progressive house, edm, trap
 12. Gramercy – Sparks ft. Sharna Bass (Mr. Belt & Wezol Remix) [ARMADA] <br>
 13. Dirty Rush & Gregor Es – Brass [LYD] <br>
 14. PBH & Jack Shizzle – Bring The House [HEXAGON] <br>
-15. Plastik Funk feat. Alex Prince – Damaged Heart (Plastik Funk Club Mix) [ARMADA DEEP] <br>
-16. Keanu Silva & Gil Sanders feat. Jacob Wellfair – Loud & Clear [MIXMASH] <br>
+15. Plastik Funk ft. Alex Prince – Damaged Heart (Plastik Funk Club Mix) [ARMADA DEEP] <br>
+16. Keanu Silva & Gil Sanders ft. Jacob Wellfair – Loud & Clear [MIXMASH] <br>
 17. Calippo – The Flavor [ENORMOUS TUNES] <br>
 18. Robert Burian – To The Top [NO DEFINITION]<br></p>]]>
 </description>
@@ -1663,14 +1663,14 @@ house, deep house, progressive house, edm, trap
 3. Fox Stevenson – Arigatou [SPINNIN']<br>
 4. Gianluca Vacchi – Viento [SPRS]<br>
 5. Jack Wins – Soulshaking [FREE]<br>
-6. David Guetta & Afrojack feat. Ester Dean – Another Life (The Him Remix) [WALL]<br>
+6. David Guetta & Afrojack ft. Ester Dean – Another Life (The Him Remix) [WALL]<br>
 7. Vicetone ft. Rosi Golan – Collide [SPINNIN']<br>
 8. FootriX – It's Back On [SHOWLAND]<br>
 9. Slushii – Step by Step [Slushii]<br>
 10. Marshmello – LoVe U [FREE]<br>
 11. Lady Bee – Hype Dem Hoes [OTW]<br>
 12. Sikdope & Star Kim – Mind [FREE]<br>
-13. Illenium & Gryffin feat. Daya – Feel Good (Crankdat Remix) [INTERSCOPE]<br>
+13. Illenium & Gryffin ft. Daya – Feel Good (Crankdat Remix) [INTERSCOPE]<br>
 14. D-Wayne x Bobby Rock – Getaway [FUTURE HOUSE MUSIC]<br>
 15. Calligra, Jake Dile & The Trixx – Fall For You [SEVENEVES]<br>
 16. Throttle – Baddest Behaviour [SPINNIN']</p>]]>
@@ -1789,18 +1789,18 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 <![CDATA[ 
 <p>EYEMVX comes back again to StriveCast with the special workout mix! Outside the rules, beyond borders – only music and sport.</a></p>
 <p><strong>Tracklist:</strong></p>
-<p>01 Pink Panda feat. Zy – Follow Me<br>
+<p>01 Pink Panda ft. Zy – Follow Me<br>
 02 Sons Of Maria – Best Days of My Life<br>
 03 Angelika Vee – Coco Jamboo (Calippo Remix)<br>
 04 Bobby Rock & Nathan Nicholson – Baby<br>
 05 Lost Frequencies – What Is Love 2016 (Hugel & Adam Trigger Remix)<br>
 06 Doctor Y – Show Me Love<br>
 07 Throttle – Hit The Road Jack<br>
-08 Calvin Harris feat. Ellie Goulding – I Need Your Love<br>
+08 Calvin Harris ft. Ellie Goulding – I Need Your Love<br>
 09 The Trixx, Christy Million & Steven Maar – Working Hard<br>
 10 The Chainsmokers – Paris (Beau Collins Remix)<br>
 11 Dzeko – Fluxland 2017<br>
-12 David Guetta feat. Ne-Yo & Akon – Play Hard<br>
+12 David Guetta ft. Ne-Yo & Akon – Play Hard<br>
 13 Curbi – Some Shots<br>
 14 Abel Ramos & Albert Neve – Flat Beat<br>
 15 Diplo & AutoErotique – Waist Time<br>
@@ -1809,17 +1809,17 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 18 Herve Pagez – BANGIT<br>
 19 Beauty Brain & 8Er$ – Latin Chorus<br>
 20 Riggi & Piros vs. UNKWN – Berserk<br>
-21 David Guetta feat. Nicki Minaj & Lil Wayne – Light My Body Up (Tujamo Remix)<br>
-22 Blasterjaxx feat. Lara – Do Or Die<br>
+21 David Guetta ft. Nicki Minaj & Lil Wayne – Light My Body Up (Tujamo Remix)<br>
+22 Blasterjaxx ft. Lara – Do Or Die<br>
 23 JAGGS – Doinky<br>
 24 Maeva Carter – Life Is Short (Blasterjaxx Remix)<br>
 25 Crazibiza & Dragonfly – Got The Love (Sante Cruze Remix)<br>
-26 Twenty Feet Down feat. Annabel Turner – Talking to You<br>
+26 Twenty Feet Down ft. Annabel Turner – Talking to You<br>
 27 Disclosure & Sam Smith – Latch<br>
-28 LA Riots feat. Great Good Fine OK – Real Love<br>
+28 LA Riots ft. Great Good Fine OK – Real Love<br>
 29 Deepend – Every Little Thing<br>
 30 Tove Lo – Talking Body (Gryffin Remix)<br></p>
-<a href="http://www.phaseflow.ru" style="color:#ca3495">Website</a><br>
+<a href="http://phaseflow.github.io" style="color:#ca3495">Website</a><br>
 <a href="http://vk.com/phaseflow" style="color:#039be5">VK</a><br>
 <a href="http://pca.st/wpos" style="color:#f44336">Pocket Casts</a><br> 
 <a href="http://twitter.com/phaseflow" style="color:#1da1f2">Twitter</a><br>
@@ -1833,7 +1833,7 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 <itunes:keywords>
    house, workout, gym, future house, deep house, progressive house, future house, trap, eyemax, phaseflow, podcast, live, progressive, electro, deep, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
-<link>http://soundcloud.com/strivelifeathletics/mix51</link>
+<link>http://archive.org/details/strivecast2017</link>
 <enclosure
   url="http://archive.org/download/strivecast2017/mix.mp3"
   length="72569093"
@@ -1854,22 +1854,22 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 <p>Episode 97: Summer Mix 2017</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1 AlunaGeorge – Turn Up The Love<br>
-2 HARR$ & Anakyn feat. Jytte – One More Time (Extended Mix)<br>
-3 WHYLO feat. Swedish Red Elephant – Next Summer<br>
-4 This Diamond Life feat. Karen Harding – The Weekend<br>
+2 HARR$ & Anakyn ft. Jytte – One More Time (Extended Mix)<br>
+3 WHYLO ft. Swedish Red Elephant – Next Summer<br>
+4 This Diamond Life ft. Karen Harding – The Weekend<br>
 5 Sons Of Maria – Best Days of My Life<br>
 6 Angelika Vee – Coco Jamboo (Calippo Remix)<br>
-7 Mesto feat. Brielle Von Hugel vs. JLV – Chances Back To You (EYEMVX Mashup)<br>
+7 Mesto ft. Brielle Von Hugel vs. JLV – Chances Back To You (EYEMVX Mashup)<br>
 8 Federico Scavo, Provenzano – Folegandros (Kryder Remix)<br>
-9 Armin van Buuren feat. Josh Cumbee – Sunny Days (Club Mix)<br>
-10 Olav Basoski feat. Spyder – Waterman 2017<br>
+9 Armin van Buuren ft. Josh Cumbee – Sunny Days (Club Mix)<br>
+10 Olav Basoski ft. Spyder – Waterman 2017<br>
 11 Oliver Heldens – Ibiza 77 (Can You Feel It) [Chocolate Puma Remix]<br>
 12 George Greaves & GG90 – Alegria<br>
 13 Hunkaar – Flames<br>
 14 Joe Stone – Make Love<br>
 15 Calippo – We'll Be Heard<br>
-16 Dizkodude & Pat Krimson feat. Luke August – Living For The Weekend<br>
-17 Bruno Martini feat. Isadora – Sun Goes Down<br>
+16 Dizkodude & Pat Krimson ft. Luke August – Living For The Weekend<br>
+17 Bruno Martini ft. Isadora – Sun Goes Down<br>
 18 Retrovision – The Night<br></p><br>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF097/097.jpg" />
@@ -1898,21 +1898,21 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 <p><strong>Tracklist:</strong></p>
 <p>1 Lost Frequencies & Netsky – Here With You<br>
 2 HIDDN & LEVV – Blood on My Hands<br>
-3 3LAU feat. Yeah Boy – On My Mind (Kyco Remix)<br>
+3 3LAU ft. Yeah Boy – On My Mind (Kyco Remix)<br>
 4 Fedde Le Grand vs. Ian Carey – Keep On Rising<br>
-5 Bakermat feat. Kiesza – Don't Want You Back<br>
+5 Bakermat ft. Kiesza – Don't Want You Back<br>
 6 Igor Blaska & eSQUIRE ft. Yvan Franel – Embrace<br>
 7 Bougenvilla – Onik<br>
 8 Skitzofrenix & Jeff Doubleu – Clubtrack<br>
 9 Don Diablo – Momentum<br>
 10 Bout – Gone Away<br>
-11 Sam Feldt X Lush & Simon feat. INNA – Fade Away (Robbie Mendez Remix)<br>
+11 Sam Feldt X Lush & Simon ft. INNA – Fade Away (Robbie Mendez Remix)<br>
 12 R3HAB & VERITE – Trouble (Mike Williams Remix)<br>
 13 Dualmind – Warfare<br>
 14 Gerald Le Funk – Beast Mode<br>
-15 Cedric Gervais feat. Liza Owen – Somebody New (Just Kiddin Remix)<br>
+15 Cedric Gervais ft. Liza Owen – Somebody New (Just Kiddin Remix)<br>
 16 Kokiri – Other Side Of Love<br>
-17 BOXINLION feat. MJ Ultra – No Sounds<br>
+17 BOXINLION ft. MJ Ultra – No Sounds<br>
 </p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF096/096.jpg" />
@@ -1953,10 +1953,10 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 12 Vanilla Ace – Whistle Blower<br>
 13 Pierre Oliver – Euphoria<br>
 14 Aryue & Basalto – Big Party<br>
-15 Robin Schulz feat. James Blunt – OK (Heyder Remix)<br>
+15 Robin Schulz ft. James Blunt – OK (Heyder Remix)<br>
 16 Nicky Romero and NERVO – Like Home (Stadiumx Remix)<br>
 17 Jamiroquai – Superfresh (Oliver Heldens Remix)<br>
-18 Krosses & Heart FX feat. Trouze – Waterfall<br>
+18 Krosses & Heart FX ft. Trouze – Waterfall<br>
 </p>
 ]]>
 </description>
@@ -1985,12 +1985,12 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 <p>Episode 94</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1 Flatdisk & Iossa – Best of Me<br>
-2 The Him feat. Cub Rayan – Secrets<br>
-3 Going Deeper & Deep Matter feat. AWR – First Glimpse<br>
+2 The Him ft. Cub Rayan – Secrets<br>
+3 Going Deeper & Deep Matter ft. AWR – First Glimpse<br>
 4 Mashd N Kutcher – Pretend (Tom Budin Remix)<br>
 5 EDX – Voyage<br>
 6 Nora En Pure – Tears In Your Eyes<br>
-7 Twenty Feet Down feat. Annabel Turner – Talking to You<br>
+7 Twenty Feet Down ft. Annabel Turner – Talking to You<br>
 8 Kirstin – Break A Little (Madison Mars Remix)<br>
 9 Jordi Rivera & Sonny Bass – Bubblegum<br>
 10 Lucky Charmes – What's Poppin'<br>
@@ -1999,9 +1999,9 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 13 Jay Eskar & Nova – Split<br>
 14 Mick Mazoo – Never Came True<br>
 15 Lucas & Steve – Up Till Dawn (On The Move) (Club Mix)<br>
-16 Martin Solveig feat. Alma – All Stars<br>
-17 Dzeko feat. Brynn Elliott – California<br>
-18 Emmit Fenn feat. Nylo – Oceans
+16 Martin Solveig ft. Alma – All Stars<br>
+17 Dzeko ft. Brynn Elliott – California<br>
+18 Emmit Fenn ft. Nylo – Oceans
 </p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF094/094.jpg" />
@@ -2030,11 +2030,11 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 <p><strong>Tracklist:</strong></p>
 <p>1 Sons Of Maria – Best Days of My Life<br>
 2 Passenger 10 – Artifact<br>
-3 Bassjackers x Lucas & Steve feat. Caroline Pennell – These Heights<br>
+3 Bassjackers x Lucas & Steve ft. Caroline Pennell – These Heights<br>
 4 Kygo & Selena Gomez – It Ain't Me (Tommy Jayden & Kovan Remix)<br>
 5 Adrian Lux – All Aloud (Svanteg Remix)<br>
 6 Oliver Heldens – Ibiza 77 (Can You Feel It)<br>
-7 Gareth Emery feat. Christina Novelli – Concrete Angel (Dash Berlin Remix)<br>
+7 Gareth Emery ft. Christina Novelli – Concrete Angel (Dash Berlin Remix)<br>
 8 Redondo & Junior J – Exhale<br>
 9 Calvo – In Love With You<br>
 10 Firebeatz – Trigga Finga<br>
@@ -2043,8 +2043,8 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 13 Abel Ramos & Albert Neve – Flat Beat<br>
 14 Magnificence & Venomenal – With You (Suyano Remix)<br>
 15 Keanu Silva – Close 2 You<br>
-16 Cheat Codes feat. Demi Lovato – No Promises (Bassjackers Remix)<br>
-17 Audien vs. 3LAU  feat. Victoria Zaro – Hot Water<br>
+16 Cheat Codes ft. Demi Lovato – No Promises (Bassjackers Remix)<br>
+17 Audien vs. 3LAU  ft. Victoria Zaro – Hot Water<br>
 </p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF093/093.jpg" />
@@ -2145,7 +2145,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
   url="http://archive.org/download/PF091/091.mp3"
   length="137435872"
   type="audio/mpeg" />
-<guid isPermaLink="false">Episode 91</guid>
+<guid isPermaLink="false">Episode 091</guid>
 <pubDate>Sat, 03 Jun 2017 17:00:00 GMT</pubDate>
 <itunes:duration>57:12</itunes:duration>
 </item>
@@ -2195,7 +2195,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
   url="http://archive.org/download/PF090/090.mp3"
   length="143697072"
   type="audio/mpeg" />
-<guid isPermaLink="false">Episode 90</guid>
+<guid isPermaLink="false">Episode 090</guid>
 <pubDate>Sat, 27 May 2017 17:00:00 GMT</pubDate>
 <itunes:duration>59:45</itunes:duration>
 </item>
@@ -2213,13 +2213,13 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <p>1. ArtLec – White Bay<br>
 2. Monogem – Take It Slow (Deep Chills Remix)<br>
 3. KUURO – Possession<br>
-4. Pep & Rash feat. D-Double – Break Down<br>
-5. Gil Sanders & Tom Ferro feat. Rhea Raj – Overdrive<br>
+4. Pep & Rash ft. D-Double – Break Down<br>
+5. Gil Sanders & Tom Ferro ft. Rhea Raj – Overdrive<br>
 6. Tom Swoon & Maximals – Helter Skelter<br>
-7. Alan Walker feat. Gavin James – Tired<br>
-8. Zeskullz & The Dual Personality feat. Nessa – You<br>
+7. Alan Walker ft. Gavin James – Tired<br>
+8. Zeskullz & The Dual Personality ft. Nessa – You<br>
 9. Ariana Grande ft. The Weeknd – Love Me Harder (DLMT Remix)<br>
-10. The Knocks feat. Absofacto – Trouble (Sagan Remix)<br>
+10. The Knocks ft. Absofacto – Trouble (Sagan Remix)<br>
 11. RetroVision & Domastic – SICC<br>
 12. Funkin Маtt  – Аurora<br>
 13. Brohug X Moby – Natural Blues<br>
@@ -2236,7 +2236,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF089/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/119/032/1190325067.mp3"
+  url="http://archive.org/download/PF089/089.mp3"
   length="144231380"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 089</guid>
@@ -2262,7 +2262,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 6. EDX – Feel The Rush<br>
 7. Ralph Felix & SDJM – The Heat (I Wanna Dance With Somebody)<br>
 8. Going Deeper – Explorer<br>
-9. JuicyTrax & Aldor feat. Amber Revival – Baby's Got A Secret<br>
+9. JuicyTrax & Aldor ft. Amber Revival – Baby's Got A Secret<br>
 10. Kygo & Ellie Goulding – First Time (Robbie Mendez Remix)<br>
 11. Tommy Jayden – Infected<br>
 12. Martin Blomen – Infinite Energy<br>
@@ -2270,9 +2270,9 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 14. Subshock & Evangelos x Michael White – Hauscore<br>
 15. Throttle – Found You (Make Me Yours)<br>
 16. Ralvero & Redhead Roman – Bubblegum<br>
-17. Joyzu feat. Karra – Looking For You<br>
+17. Joyzu ft. Karra – Looking For You<br>
 18. Matthew Koma & Ghastly – We Might Fall<br>
-19. Aerreo & Stereohats feat. Matthew Steeper – Speed Of Sound<br>
+19. Aerreo & Stereohats ft. Matthew Steeper – Speed Of Sound<br>
 20. Sophie Francis – Lovedrunk<br>
 </p>]]>
 </description>
@@ -2280,9 +2280,9 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap, eyemax, phaseflow, podcast, live, progressive, electro, deep, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
-<link><![CDATA[http://audio.geometria.ru/d/mp3/380/840/3808403384.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF088]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/380/840/3808403384.mp3"
+  url="http://archive.org/download/PF088/088.mp3"
   length="144172918"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 088</guid>
@@ -2307,7 +2307,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 5. Dirty Palm – Go Down<br>
 6. Showtek ft. MC Ambush – 90's By Nature (Curbi Remix)<br>
 7. Cash Cash ft. ROZES – Matches (Holl & Rush Remix)<br>
-8. Ellis & Beau Collins – Anyway (ft. joegarratt)<br>
+8. Ellis & Beau Collins ft. joegarratt – Anyway<br>
 9. graves & Boombox Cartel – Hilo<br>
 10. David Guetta & Afrojack ft. Ester Dean – Another Life<br>
 11. Beauty Brain & 8Er$ Latin Chorus<br>
@@ -2324,9 +2324,9 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <itunes:image href="http://archive.org/download/PF087/087.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/327/412/3274122312.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF087]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/327/412/3274122312.mp3"
+  url="http://archive.org/download/PF087/087.mp3"
   length="146745005"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 087</guid>
@@ -2348,9 +2348,9 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <p>1. JLV – Soaring<br>
 2. Joey Dale – Show Me<br>
 3. HAEVN – Finding Out More (EDX's Acapulco At Night Remix)<br>
-4. Loud Luxury feat. Nikki's Wives – Show Me<br>
+4. Loud Luxury ft. Nikki's Wives – Show Me<br>
 5. Lucas & Steve – Up Till Dawn (On The Move)<br>
-6. MOTi feat. Yton – The Game<br>
+6. MOTi ft. Yton – The Game<br>
 7. Richard Reynolds – Chasing The Love<br>
 8. Ummet Ozcan – Don't Stop (Bobby Rock Remix)<br>
 9. The Chainsmokers – Young (Dazers Remix)<br>
@@ -2369,9 +2369,9 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <itunes:keywords>
    deep, progressive, electro, future, house, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/141/032/1410327367.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF086]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/141/032/1410327367.mp3"
+  url="http://archive.org/download/PF086/086.mp3"
   length="141965892"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 086</guid>
@@ -2394,15 +2394,15 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 3. Florian Picasso & Blinders – Genesis<br>
 4. 4B x Junkie Kid – Love is Dead<br>
 5. Teri Miko – Kolavo<br>
-6. Paris Blohm feat. Karra – Let Me Go<br>
+6. Paris Blohm ft. Karra – Let Me Go<br>
 7. Qulinez – Who You Want<br>
-8. LA Riots & Damaged Goods feat. Karina – Stupid Love<br>
+8. LA Riots & Damaged Goods ft. Karina – Stupid Love<br>
 9. Mike Williams ft. Brezy – Don't Hurt<br>
 10. RetroVision – Up & Down<br>
 11. Cuebrick & Karra – Smoke and Fire<br>
 12. Funkybeat & Asters – Jupiter<br>
 13. Throttle – Hit The Road Jack (Cazztek Remix)<br>
-14. Ron Reeser feat. Diana Leah – Lose It All (Ducka Shan Remix)<br>
+14. Ron Reeser ft. Diana Leah – Lose It All (Ducka Shan Remix)<br>
 15. Vato Gonzalez – Bassline Riddim<br>
 16. Martin Garrix – Scared To Be Lonely (LOOPERS Remix)<br>
 17. Andy Sherman – Swagga<br>
@@ -2412,9 +2412,9 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap
 </itunes:keywords>
-<link><![CDATA[http://audio.geometria.ru/d/mp3/186/103/1861033928.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF085]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/186/103/1861033928.mp3"
+  url="http://archive.org/download/PF085/085.mp3"
   length="142134842"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 085</guid>
@@ -2432,24 +2432,24 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 84</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Zeds Dead x Diplo feat. Elliphant – Blame (Gorgon City Remix)<br>
+<p>1. Zeds Dead x Diplo ft. Elliphant – Blame (Gorgon City Remix)<br>
 2. Anna Lunoe, Valentino Khan & Wuki – Bullseye<br>
 3. Curbi X Mesto – BRUH<br>
 4. Mr. Belt & Wezol – Good Times<br>
-5. Mr. Oizo feat. Skrillex – End Of The World<br>
+5. Mr. Oizo ft. Skrillex – End Of The World<br>
 6. Bobby Rock – You Know You Like It<br>
 7. Don Diablo & Marnik – Children Of A Miracle (Don Diablo’s VIP Mix)<br>
 8. Promise Land – Geyser<br>
 9. Ace Of Base – All She Wants (SNBRN x KLATCH Remix)<br>
-10. Flatdisk & Gil Sanders – Lost (feat. Jacob Wellfair)<br>
+10. Flatdisk & Gil Sanders ft. Jacob Wellfair – Lost<br>
 11. Ghost – The Top<br>
-12. Linkin Park feat. Kiiara – Heavy<br>
+12. Linkin Park ft. Kiiara – Heavy<br>
 13. Daniel Garrick x Karra – What It Looks Like<br>
 14. Row Rocka – Nighthawk<br>
 15. Michael Feiner – Bababa<br>
 16. Tiesto & Sevenn – Boom<br>
-17. 3LAU feat. Yeah Boy – On My Mind<br>
-18. Vato Gonzalez feat. Kris Kiss – X-Ray Vision<br>
+17. 3LAU ft. Yeah Boy – On My Mind<br>
+18. Vato Gonzalez ft. Kris Kiss – X-Ray Vision<br>
 19. Joyryde – I Ware House<br>
 20. Le Castle Vania – LED Spirals<br>
 21. Ten Walls – Walking With Elephants<br></p>]]>
@@ -2457,9 +2457,9 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <itunes:image href="http://archive.org/download/PF084/084.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio.geometria.ru/d/mp3/391/433/3914339612.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF085]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/391/433/3914339612.mp3"
+  url="http://archive.org/download/PF085/085.mp3"
   length="143482291"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 084</guid>
@@ -2478,15 +2478,15 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <p>Episode 83</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Katy Perry – Chained To The Rhythm (Oliver Heldens Remix)<br>
-2. Mark Villa & Keanu Silva – Lots To Say (Keanu Silva VIP MIX) (feat. F51)<br>
-3. Laidback Luke & Made In June feat. Bright Lights – Paradise<br>
-4. Bougenvilla feat. LZRZ – No Sleep<br>
-5. Lost Frequencies feat. Axel Ehnstrom – All or Nothing (Bolier Remix)<br>
+2. Mark Villa & Keanu Silva ft. F51 – Lots To Say (Keanu Silva VIP MIX)<br>
+3. Laidback Luke & Made In June ft. Bright Lights – Paradise<br>
+4. Bougenvilla ft. LZRZ – No Sleep<br>
+5. Lost Frequencies ft. Axel Ehnstrom – All or Nothing (Bolier Remix)<br>
 6. Lucas & Steve x Pep & Rash – Feel Alive<br>
 7. Martin Garrix & Dua Lipa – Scared To Be Lonely (Funkin Matt Remix)<br>
-8. DVBBS & CMC$ feat. Gia Koka – Not Going Home (Mesto Remix)<br>
+8. DVBBS & CMC$ ft. Gia Koka – Not Going Home (Mesto Remix)<br>
 9. EDX – All I Know<br>
-10. KATO & Sigala feat. Hailee Steinfeld – Show You Love<br>
+10. KATO & Sigala ft. Hailee Steinfeld – Show You Love<br>
 11. Sgt Slick – Get Loose<br>
 12. Zedd Ft. Alessia Cara – Stay (Chris Robleda Remix)<br>
 13. GoodLuck – I've Been Thinking About You<br>
@@ -2494,19 +2494,19 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 15. HI-LO – The Answer (Oliver Heldens Extended Edit)<br>
 16. Anna Lunoe & Sleepy Tom  – Stay Awake<br>
 17. Quintino & Nervo – Lost In You<br>
-18. David Guetta – Light My Body Up (ft. Nicki Minaj & Lil Wayne)<br>
+18. David Guetta ft. Nicki Minaj & Lil Wayne – Light My Body Up<br>
 19. KUURO – Bandit<br>
-20. KURA feat. Melody Noel – Paper Roses<br>
-21. LVNDSCAPE feat. Kaptan – Walk Away<br>
+20. KURA ft. Melody Noel – Paper Roses<br>
+21. LVNDSCAPE ft. Kaptan – Walk Away<br>
 22. KEV – Moments (Filatov & Karas Remix)<br>
 </p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF083/083.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/152/490/1524908583.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF085]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/152/490/1524908583.mp3"
+  url="http://archive.org/download/PF085/085.mp3"
   length="145835950"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 083</guid>
@@ -2527,11 +2527,11 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 <p>01. DJ Licious – Calling (Zonderling Edit)<br>
 02. Funkin Matt – From The Ashes<br>
 03. Muzzaik & Stadiumx – Last Night A D.J. Saved My Life<br>
-04. Showtek & Brooks feat. Natalie Major – On Our Own<br>
+04. Showtek & Brooks ft. Natalie Major – On Our Own<br>
 05. The Chainsmokers – The One<br>
 06. Funkybeat – Ocean Drive<br>
-07. The Him feat. LissA – I Wonder (Curbi Remix) vs. Don Diablo ft. DYU – Drifter (EYEMVX Mashup)<br>
-08. Jax Jones feat. RAYE – You Don't Know Me (NVOY Remix)<br>
+07. The Him ft. LissA – I Wonder (Curbi Remix) vs. Don Diablo ft. DYU – Drifter (EYEMVX Mashup)<br>
+08. Jax Jones ft. RAYE – You Don't Know Me (NVOY Remix)<br>
 09. Florian Picasso – Blast From The Past<br>
 10. Lady Bee ft. Jalise Romy – Rebel<br>
 11. Ummet Ozcan – Showdown<br>
@@ -2542,7 +2542,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 16. Tom Budin – Freek<br>
 17. Brohug – Paparazzi<br>
 18. Still Young – White Label (Is This Love)<br>
-19. Watermät feat. Kelli-Leigh – Won't Stop<br>
+19. Watermät ft. Kelli-Leigh – Won't Stop<br>
 Phase Flow Classic:<br>
 20. Mobin Master And Ian Carey – Lights Out (Ian Carey Club Mix)<br>
 </p>]]>
@@ -2550,9 +2550,9 @@ Phase Flow Classic:<br>
 <itunes:image href="http://archive.org/download/PF082/082.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/154/944/154944463.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF082]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/154/944/154944463.mp3"
+  url="http://archive.org/download/PF082/082.mp3"
   length="141774018"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 082</guid>
@@ -2572,13 +2572,13 @@ Phase Flow Classic:<br>
 <p><strong>Tracklist:</strong></p>
 <p>01. Starley – Call on Me (Odd Mob Remix)<br>
 02. Farleon – Encore<br>
-03. Khrebto – After All (feat. Aiaya)<br>
-04. Mark Villa & Keanu Silva – Lots To Say (feat. F51)<br>
+03. Khrebto ft. Aiaya – After All<br>
+04. Mark Villa & Keanu Silva ft. F51 – Lots To Saybr>
 05. Anjey & Mikael Weermets ft Kayla Renee – Walk Away (Radio Edit)<br>
-06. Ryan Blyth x After 6 – Special (feat. Luther Soul)<br>
+06. Ryan Blyth x After 6 ft. Luther Soul – Special <br>
 07. Miike Snow – The Heart Of Me (The Him Remix)<br>
-08. Magnificence & Venomenal – With You (feat. Emelie Cyre us)<br>
-09. KSHMR & Crossnaders feat. Micky Blue – Back To Me  <br>
+08. Magnificence & Venomenal ft. Emelie Cyréus – With You<br>
+09. KSHMR & Crossnaders ft. Micky Blue – Back To Me  <br>
 10. Buku – Ready 4<br>
 11. Felmax – Back<br>
 12. Borgeous vs. Riggi & Piros – Feel So Good<br>
@@ -2591,7 +2591,7 @@ Phase Flow Classic:<br>
 19. Tom & Jame x Holl & Rush – Move On Me<br>
 20. Bassjackers & Brooks – Joyride<br>
 21. NEIKED Ft. Dyo – Sexual (Vincent Cargill Remix)<br>
-22. RetroVision feat. AWR – We Are Together<br>
+22. RetroVision ft. AWR – We Are Together<br>
 23. Antoine Delvig & Paul Vinx – Blondies<br>
 24. KIIDA vs. J-Trick – Lose It<br>
 Phase Flow Classic:<br>
@@ -2601,9 +2601,9 @@ Phase Flow Classic:<br>
 <itunes:image href="http://archive.org/download/PF081/081.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/346/383/3463833053.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF081]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/346/383/3463833053.mp3"
+  url="http://archive.org/download/PF081/081.mp3"
   length="137590402"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 081</guid>
@@ -2629,9 +2629,9 @@ Press play and enjoy your weekend.</p>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap
 </itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/233/163/2331635317.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF080]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/233/163/2331635317.mp3"
+  url="http://archive.org/download/PF080/080.mp3"
   length="150500817"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 080</guid>
@@ -2649,12 +2649,12 @@ Press play and enjoy your weekend.</p>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 79</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Cazzette feat. Leo Stannard – Oceans (Dave Winnel Remix)<br>
-2. Jerome Price feat. Karen Harding – Nobody<br>
+<p>1. Cazzette ft. Leo Stannard – Oceans (Dave Winnel Remix)<br>
+2. Jerome Price ft. Karen Harding – Nobody<br>
 3. Jay Eskar – Oblivion<br>
 4. Sem Vox – Waiting For You (DLDK Amsterdam 2017 Anthem)<br>
 5. Curbi – Shinai<br>
-6. Sean Finn feat. Amanda Wilson – For Tonight<br>
+6. Sean Finn ft. Amanda Wilson – For Tonight<br>
 7. Green Ketchup – Bubble (twoloud Remix)<br>
 8. Florian Picasso & Loopers – Suwave<br>
 9. Lucky Charmes & AWIIN – Bass 187<br>
@@ -2666,18 +2666,18 @@ Press play and enjoy your weekend.</p>
 15. Calvo, Donata – Hard 2 Find<br>
 16. Andry J – Rock Da House<br>
 17. REZarin & Bluckther – Set Me Free<br>
-18. Bass King feat. Warships – City Lights <br>
+18. Bass King ft. Warships – City Lights <br>
 Phase Flow Classic:<br>
-19. Leon Else feat. Oliver – The City Don't Care<br>
+19. Leon Else ft. Oliver – The City Don't Care<br>
 </p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF079/079.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap
 </itunes:keywords>
-<link><![CDATA[http://audio.geometria.ru/d/mp3/194/357/1943572359.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF079]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/194/357/1943572359.mp3"
+  url="http://archive.org/download/PF079/079.mp3"
   length="148797228"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 079</guid>
@@ -2699,18 +2699,18 @@ Phase Flow Classic:<br>
 02. The Chainsmokers & Coldplay – Something Just Like This<br>
 03. The Magician & Julian Perretta – Tied Up<br>
 04. Steve Aoki & Louis Tomlinson – Just Hold On (DVBBS Remix)<br>
-05. Mike Williams feat. Matluck – Another Night<br>
+05. Mike Williams ft. Matluck – Another Night<br>
 06. The Aston Shuffle – Pass You By<br>
-07. Röyksopp feat. Susanne Sundfør – Never Ever (Hotel Garuda Remix)<br>
+07. Röyksopp ft. Susanne Sundfør – Never Ever (Hotel Garuda Remix)<br>
 08. Rave Vegas – To the Top (Calvo Remix)<br>
-09. Dave Winnel & Alex Preston feat. Javeon – Never Meant to Last (VIP Mix)<br>
-10. Bart B More x Steff Da Campo feat. Simon Franks – Jump!<br>
+09. Dave Winnel & Alex Preston ft. Javeon – Never Meant to Last (VIP Mix)<br>
+10. Bart B More x Steff Da Campo ft. Simon Franks – Jump!<br>
 11. Klaaze & Sam Koxx – Push<br>
 12. Matroda x Raven & Kreyn – Back To The Future<br>
 13. Rhannes – Ü (Make Me Smile)<br>
-14. Tom & Jame feat. Joshua Khane – Nobody But You<br>
+14. Tom & Jame ft. Joshua Khane – Nobody But You<br>
 15. Eurythmics – Sweat Dreams (Ummet Ozcan Remix)<br>
-16. Wiwek & Yellow Claw feat. Lil Debbie – Pop It (Mightyfools Remix)<br>
+16. Wiwek & Yellow Claw ft. Lil Debbie – Pop It (Mightyfools Remix)<br>
 Phase Flow Classic:<br>
 17. Johann Stone – Elsa (Yang Remix)<br>
 </p>]]>
@@ -2718,9 +2718,9 @@ Phase Flow Classic:<br>
 <itunes:image href="http://archive.org/download/PF078/078.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio.geometria.ru/d/mp3/113/996/1139964456.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF078]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/113/996/1139964456.mp3"
+  url="http://archive.org/download/PF078/078.mp3"
   length="144063532"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 078</guid>
@@ -2741,17 +2741,17 @@ The second part of this show is taken over by Kom with massive bass house guest 
 <p>Episode 77 + Kom Guest Mix</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>
-1. Tom Ferro & Gil Sanders feat. Rhea Raj — Tidal Waves<br>
+1. Tom Ferro & Gil Sanders ft. Rhea Raj — Tidal Waves<br>
 2. Redondo — I Can Cast a Spell<br>
 3. Moe Aly & Robin Hustin — Apora<br>
 4. JuicyTrax — Sometimes<br>
 5. Sagan — Banzai<br>
-6. William Harrison & ALARY feat. Nino Lucarelli — Can't Stop Us<br>
+6. William Harrison & ALARY ft. Nino Lucarelli — Can't Stop Us<br>
 7. Amba Shepherd — Wide Awake & Dreaming (Inpetto Remix)<br>
 8. Shelco Garcia & TEENWOLF — Back To Baesics<br>
-9. Laidback Luke & Ralvero feat. Ina — XOXO<br>
+9. Laidback Luke & Ralvero ft. Ina — XOXO<br>
 10. Fabian Mazur — Young Once<br>
-11. Helena Legend feat. Blake Rose — Getaway<br>
+11. Helena Legend ft. Blake Rose — Getaway<br>
 12. James Vincent McMorrow — Get Low (Sander Kleinenberg Remix)<br>
 13. Headhunterz — Landslide<br>
 14. Subshock & Evangelos x Michael<br> White — Be Good<br>
@@ -2760,9 +2760,9 @@ The second part of this show is taken over by Kom with massive bass house guest 
 <itunes:image href="http://archive.org/download/PF077/077.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/163/268/1632688978.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF077]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/163/268/1632688978.mp3"
+  url="http://archive.org/download/PF077/077.mp3"
   length="144044724"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 077</guid>
@@ -2780,22 +2780,22 @@ The second part of this show is taken over by Kom with massive bass house guest 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 76</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Kovan & Tommy Jayden feat. Reece Lemonius – Summer Of Love<br>
+<p>1. Kovan & Tommy Jayden ft. Reece Lemonius – Summer Of Love<br>
 2. Gramercy – Changes (Curbi Remix)<br>
 3. Faruk Sabanci – Yummy<br>
 4. Vanilla Ice – Little Pigs<br>
-5. Kygo feat. Andrew Jackson – Cruise<br>
-6. The Him feat. LissA – I Wonder<br>
-7. Not Your Dope feat. Oly – What You Do To Me<br>
+5. Kygo ft. Andrew Jackson – Cruise<br>
+6. The Him ft. LissA – I Wonder<br>
+7. Not Your Dope ft. Oly – What You Do To Me<br>
 8. Timmy Trumpet & Qulinez – Satellites<br>
 9. CADE – Sorry For Myself<br>
 10. Sophie Francis – Without You<br>
-11. Tchami – World To Me (feat. MNEK)<br>
+11. Tchami ft. MNEK – World To Me<br>
 12. Triple M – 2GETHER<br>
 13. Matroda x Dustycloud – Come Back<br>
 14. TAAMY & Point Blvnk – Tantrum<br>
-15. Robin Schulz & David Guetta feat. Cheat Codes – Shed A Light (MOTI Remix)<br>
-16. Klosman feat. Vita Schmidt – All In<br>
+15. Robin Schulz & David Guetta ft. Cheat Codes – Shed A Light (MOTI Remix)<br>
+16. Klosman ft. Vita Schmidt – All In<br>
 17. 7UBO, VIVID & Gino G – Circles<br>
 18. Alok & Bhaskar – Fuego<br>
 Phase Flow Classic:<br>
@@ -2805,9 +2805,9 @@ Phase Flow Classic:<br>
 <itunes:image href="http://archive.org/download/PF076/076.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
-<link><![CDATA[http://audio.geometria.ru/d/mp3/554/931/554931087.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF076]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/554/931/554931087.mp3"
+  url="http://archive.org/download/PF076/076.mp3"
   length="141694141"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 076</guid>
@@ -2827,10 +2827,10 @@ Phase Flow Classic:<br>
 <p><strong>Tracklist:</strong></p>
 <p>01. Vigiland – Let's Escape (Lucky Charmes Remix)<br>
 02. David Guetta vs. Laidback Luke – Bad Chase (EYEMVX Mashup)<br>
-03. Cazzette – Oceans (feat. Leo Stannard)<br>
+03. Cazzette ft. Leo Stannard – Oceans<br>
 04. Throttle – Hit The Road Jack<br>
 05. Alesso – Falling<br>
-06. Shapov feat. MEG X NERAK – Breathing Deeper<br>
+06. Shapov ft. MEG X NERAK – Breathing Deeper<br>
 07. G-Eazy, Bebe Rexha – Me, Myself & I (Mesto Remix)<br>
 08. ANG – Take Me Away<br>
 09. MOTi & Kenneth G & Olly James – Omen<br>
@@ -2849,10 +2849,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/250/947/2509476068.mp3"
+  url="http://archive.org/download/PF076/076.mp3"
   length="144098932"
   type="audio/mpeg" />
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/250/947/2509476068.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF076]]></link>
 <guid isPermaLink="false">Episode 075</guid>
 <pubDate>Sat, 11 Feb 2017 17:00:00 GMT</pubDate>
 <itunes:duration>60:00</itunes:duration>
@@ -2868,36 +2868,36 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 74</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. LA Riots feat. Great Good Fine OK – Real Love<br>
+<p>1. LA Riots ft. Great Good Fine OK – Real Love<br>
 2. Sage the Gemini – Now & Later (Merk & Kremont Remix)<br>
-3. CID feat. Conrad Sewell  – Secrets<br>
+3. CID ft. Conrad Sewell  – Secrets<br>
 4. Loud Luxury & Ryan Shepherd – Something to Say<br>
-5. HEART FX feat. Jazelle Paris – Pull You Closer<br>
+5. HEART FX ft. Jazelle Paris – Pull You Closer<br>
 6. Lost Frequencies – What Is Love 2016 (Hugel & Adam Trigger Remix)<br>
-7. The Dirty Code x Skyknock feat. Bettina – Must Be More<br>
+7. The Dirty Code x Skyknock ft. Bettina – Must Be More<br>
 8. Tchami – Adieu<br>
 9. Sikdope – Old School<br>
-10. Zedd & Grey feat. Hailee Steinfeld – Starving (KIIDA Remix)<br>
+10. Zedd & Grey ft. Hailee Steinfeld – Starving (KIIDA Remix)<br>
 11. Our Psych & Clarx – Vox<br>
-12. Martin Solveig feat. Ina Wroldsen – Places (Conro Remix)<br>
+12. Martin Solveig ft. Ina Wroldsen – Places (Conro Remix)<br>
 13. San Holo – Light (Crankdat Re-Crank)<br>
-14. Shelco Garcia & Teenwolf x ETC!ETC! feat. Milana – Follow<br>
+14. Shelco Garcia & Teenwolf x ETC!ETC! ft. Milana – Follow<br>
 15. SvanteG – Mind Games<br>
 16. Chocolate Puma x Pep & Rash – The Stars Are Mine<br>
 17. DBN & Paul Vinx – Get a Moev On<br>
 18. EDX – Dharma<br>
 19. Nora En Pure – Caught in the Act<br>
-20. Flatdisk feat. Dave Thomas Jr. – Higher (Sam Feldt Edit)
+20. Flatdisk ft. Dave Thomas Jr. – Higher (Sam Feldt Edit)
 </p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF074/074.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://audio2.geometria.ru/d/mp3/217/115/2171152068.mp3"
+    url="http://archive.org/download/PF074/074.mp3"
     length="141653722"
     type="audio/mpeg" />
-<link><![CDATA[http://audio2.geometria.ru/d/mp3/217/115/2171152068.mp3]]></link>
+<link><![CDATA[http://archive.org/details/PF074]]></link>
 <guid isPermaLink="false">Episode 074</guid>
 <pubDate>Sat, 04 Feb 2017 17:00:00 GMT</pubDate>
 <itunes:duration>59:00</itunes:duration>
@@ -2916,20 +2916,20 @@ Phase Flow Classic:<br>
 <p>1. Zonderling – Tunnel Vision (Don Diablo Edit)<br>
 2. Bart B More – Chu Want Dat<br>
 3. Loge21 – Flip The Funk<br>
-4. GTA feat. Jarina De Marco – True Romance (Chris Lake Remix)<br>
+4. GTA ft. Jarina De Marco – True Romance (Chris Lake Remix)<br>
 5. The Chainsmokers – Paris (Beau Collins Remix)<br>
-6. Clean Bandit feat. Sean Paul & Anne-Marie – Rockabye (Robby East & STVCKS Remix)<br>
+6. Clean Bandit ft. Sean Paul & Anne-Marie – Rockabye (Robby East & STVCKS Remix)<br>
 7. DJs From Mars & John Christian – Don't Come Back<br>
 8. Raven & Kreyn – With You<br>
 9. W&W – Whatcha Need<br>
 10. Martin Garrix & Dua Lipa – Scared To Be Lonely<br>
-11. Paris Blohm feat. Elle Vee – Into Dust<br>
+11. Paris Blohm ft. Elle Vee – Into Dust<br>
 12. Dyro x Goja – Alive<br>
 13. JVST SAY YES – Got The Love<br>
 14. Dannic & DBSTF – Noise<br>
-15. Ummet Ozcan feat. Ambush – Bombjack<br>
-16. DEVI feat. Y.A.S – Next to Me<br>
-17. Malik Mustache, N.E.O.N, Vinne – Rock U feat. Samantha Nova<br>
+15. Ummet Ozcan ft. Ambush – Bombjack<br>
+16. DEVI ft. Y.A.S – Next to Me<br>
+17. Malik Mustache, N.E.O.N, Vinne – Rock U ft. Samantha Nova<br>
 18. Tom Reason – I Miss You
 </p> ]]>
 </description>
@@ -2937,7 +2937,7 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://audio.geometria.ru/d/mp3/426/197/4261977551.mp3"
+    url="http://archive.org/download/PF073/073.mp3"
     length="144043929"
     type="audio/mpeg" />
 <guid isPermaLink="false">Episode 073</guid>
@@ -2956,20 +2956,20 @@ Phase Flow Classic:<br>
 <p>Episode 72</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Galavant — Youth<br> 
-2. Trobi feat. Junglebae — In The Studio<br> 
-3. Naughty Boy feat. Kyla & Popcaan — Should've Been Me (Jack Wins Remix)<br> 
-4. Breathe Carolina & Bassjackers feat. CADE — Can't Take It<br> 
+2. Trobi ft. Junglebae — In The Studio<br> 
+3. Naughty Boy ft. Kyla & Popcaan — Should've Been Me (Jack Wins Remix)<br> 
+4. Breathe Carolina & Bassjackers ft. CADE — Can't Take It<br> 
 5. Acris & Infra — Synergy<br> 
 6. Sonic One & Konih — Basted (Bounce Inc. Remix)<br> 
-7. Disco Fries feat. Dee Roze — My World<br> 
+7. Disco Fries ft. Dee Roze — My World<br> 
 8. Oliver Heldens — I Don't Wanna Go Home<br> 
 9. Felicity & Thomas Feelman — Together<br> 
 10. Kristine Blond — Love Shy (James Hype Remix)<br> 
-11. David Gravell feat. Christon — It's In Your Heart (Dekagram Remix)<br> 
+11. David Gravell ft. Christon — It's In Your Heart (Dekagram Remix)<br> 
 12. Zara Larsson — I Would Like (Culture Code Remix)<br> 
-13. Mickey Valen feat. Noé — Meet Me (MRKL X OYSTRA Remix)<br> 
-14. ETC!ETC! & Corporate Slackrs feat. Petey Pablo — Raise Up (VIP Mix)<br> 
-15. Seven Lions & Jason Ross feat. Paul Meany — Higher Love<br> 
+13. Mickey Valen ft. Noé — Meet Me (MRKL X OYSTRA Remix)<br> 
+14. ETC!ETC! & Corporate Slackrs ft. Petey Pablo — Raise Up (VIP Mix)<br> 
+15. Seven Lions & Jason Ross ft. Paul Meany — Higher Love<br> 
 16. Kuuro — Savage<br> 
 17. DubVision — Geht's Noch<br> 
 18. Brohug — Giggle Juice<br> 
@@ -2980,10 +2980,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://ia601503.us.archive.org/10/items/PF072/072.mp3"
+    url="http://archive.org/download/PF072/072.mp3"
     length="140098588"
     type="audio/mpeg" />
-<guid>http://ia601503.us.archive.org/10/items/PF072/072.mp3</guid>
+<guid>http://archive.org/download/PF072/072.mp3</guid>
 <pubDate>Sat, 21 Jan 2017 20:00:00 GMT</pubDate>
 <itunes:duration>58:20</itunes:duration>
 </item>
@@ -2999,8 +2999,8 @@ Phase Flow Classic:<br>
 <p>Episode 71</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1. KOM – Bad Whine<br> 
-2. Raiden – Heart Of Steel (feat. Bright Lights)<br> 
-3. Dante Klein feat. HAILZ – Harder<br> 
+2. Raiden ft. Bright Lights – Heart Of Steel<br> 
+3. Dante Klein ft. HAILZ – Harder<br> 
 4. Holl & Rush – Feel Free<br> 
 5. Aanysa – Burn Break Crash (Madison Mars Remix)<br> 
 6. Suyano & Rivero – Otherside<br> 
@@ -3008,11 +3008,11 @@ Phase Flow Classic:<br>
 8. MAKJ – Work Me (MAKJ Deeper Edit)<br> 
 9. Diplo & Autoerotique – Waist Time<br> 
 10. Funkin Matt – Phoenix<br> 
-11. Klave – Apocalypse (feat. Kédo Rebelle)<br> 
-12. Qulinez feat. Koko LaRoo – Closer<br> 
+11. Klave ft. Kédo Rebelle – Apocalypse<br> 
+12. Qulinez ft. Koko LaRoo – Closer<br> 
 13. The Chainsmokers – Paris<br> 
-14. LOUDPVCK & Rickyxsan feat. Karra – More Than I Can Take<br> 
-15. Flume – Say It (feat. Tove Lo) [Illenium Remix]<br> 
+14. LOUDPVCK & Rickyxsan ft. Karra – More Than I Can Take<br> 
+15. Flume ft. Tove Lo – Say It (Illenium Remix)<br> 
 16. Zara Larsson & MNEK – Never Forget You (Pyrodox Remix)<br> 
 17. Slushii – I Still Recall<br> 
 18. Diamond Pistols ft. Ian Everson – Run Away
@@ -3022,10 +3022,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://ia601503.us.archive.org/25/items/phaseflow071/071.mp3"
+    url="http://archive.org/download/phaseflow071/071.mp3"
     length="142901235"
     type="audio/mpeg" />
-<guid>http://ia601503.us.archive.org/25/items/phaseflow071/071.mp3</guid>
+<guid>http://archive.org/download/phaseflow071/071.mp3</guid>
 <pubDate>Sat, 14 Jan 2017 20:00:00 GMT</pubDate>
 <itunes:duration>59:30</itunes:duration>
 </item>
@@ -3040,22 +3040,22 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 70</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Armin van Buuren & Garibay feat. Olaf Blackwood – I Need You<br>
+<p>1. Armin van Buuren & Garibay ft. Olaf Blackwood – I Need You<br>
 2. Sons Of Maria – Take It to the Beat (Instrumental Mix)<br>
-3. Tritonal + SJ feat. Emma Gatsby – Hung Up<br>
+3. Tritonal + SJ ft. Emma Gatsby – Hung Up<br>
 4. Lika Morgan – Feel the Same (EDX Dubai Skyline Remix)<br>
 5. Ferreck Dawn – Higher<br>
 6. Lucas & Steve, Jake Reese – Calling On You (Club Mix)<br>
 7. Don Diablo – Switch<br>
-8. GFDM & MD Electro feat. NÉONHÈART – Right On Time (MD Electro Remix)<br>
-9. Rootkit – Good 2 Go (feat. Tylor Maurer)<br>
-10. A Tigers Blood feat. Roxy Cottontail – BANG<br>
+8. GFDM & MD Electro ft. NÉONHÈART – Right On Time (MD Electro Remix)<br>
+9. Rootkit ft. Tylor Maurer – Good 2 Go<br>
+10. A Tigers Blood ft. Roxy Cottontail – BANG<br>
 11. Dirty Heads – Oxygen (Borgeous Remix)<br>
 12. Fox Stevenson & Mesto – Chatterbox<br>
 13. Mike Williams – Bambini<br>
 14. Hardwell – Party Till The Daylight<br>
-15. Pegboard Nerds & NGHTMRE feat. Krewella – Superstar (Aero Chord Remix)<br>
-16. CMC$ – Keys (feat. Jalise Romy)<br>
+15. Pegboard Nerds & NGHTMRE ft. Krewella – Superstar (Aero Chord Remix)<br>
+16. CMC$ ft. Jalise Romy – Keys<br>
 17. Univz – Stardust<br>
 18. Afrojack & Jay Karama – Diamonds
 </p>]]>
@@ -3064,10 +3064,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://ia601504.us.archive.org/3/items/phaseflow070/070.mp3"
+    url="http://archive.org/download/phaseflow070/070.mp3"
     length="144084076"
     type="audio/mpeg" />
-<guid>http://ia601504.us.archive.org/3/items/phaseflow070/070.mp3</guid>
+<guid>http://archive.org/download/phaseflow070/070.mp3</guid>
 <pubDate>Sat, 07 Jan 2017 20:00:00 GMT</pubDate>
 <itunes:duration>60:00</itunes:duration>
 </item>
@@ -3083,50 +3083,50 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 69: YearMix – Part II</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Sam Feldt X Lucas & Steve feat. Wulf – Summer On You (Club Mix)<br>
+<p>1. Sam Feldt X Lucas & Steve ft. Wulf – Summer On You (Club Mix)<br>
 2. Akami & Funkybeat – Skirts <br>
-3. Martin Solveig feat. Ina Wroldsen – Places<br>
+3. Martin Solveig ft. Ina Wroldsen – Places<br>
 4. Netsky & Jauz – Higher<br>
 5. Matt Nash – Know My Love<br>
 6. Afrojack & Fais – Used To Have It All<br>
 7. Mike Posner – I Took A Pill In Ibiza (Seeb Extended Remix)<br>
-8. Ralvero feat. Ina – Run Wild<br>
+8. Ralvero ft. Ina – Run Wild<br>
 9. R3hab & Quintino – Freak (VIP Remix)<br>
-10. Jack Wins feat. Francci Richard – I Used To Love You<br>
-11. Inpetto & Johnny Bravo feat. Kelli Leigh – U Got A Friend <br>
+10. Jack Wins ft. Francci Richard – I Used To Love You<br>
+11. Inpetto & Johnny Bravo ft. Kelli Leigh – U Got A Friend <br>
 12. Bassjackers & Crossnaders – SPCMN<br>
 13. W&W – How Many<br>
 14. Morten & twoloud – Certified<br>
 15. NERVO & Askery ft. Brielle Von Hugel – Alone (Mesto Remix)<br>
 16. Robin Schulz & J.U.D.G.E. – Show Me Love (Calvo Remix)<br>
 17. Swanky Tunes & Going Deeper – Drownin'<br>
-18. Aaron Jackson feat. Megan Hamilton – Told You So<br>
+18. Aaron Jackson ft. Megan Hamilton – Told You So<br>
 19. Tchami & Malaa – Prophecy<br>
 20. Michael Woods – Gold (Lucky Charmes Extended Remix)<br>
 21. Roulsen x East & Young – Summer<br>
 22. Dropgun – Nobody<br>
-23. MOTi Feat. Nabiha – Turn Me Up (ViP Mix)<br>
+23. MOTi ft. Nabiha – Turn Me Up (ViP Mix)<br>
 24. NIGHTOWLS X SAM F – SUS<br>
 25. Deepend – I'm Intoxicated (Extended Mix)<br>
-26. M35 & Wasback feat. Elle Vee – Let It Go<br>
-27. Ryos feat. Karra – Where We Are<br>
-28. StadiumX, Baha & Markquis feat. Delaney Jane – Another Life<br>
-29. Headhunterz – Live Before We Die (feat. KiFi)<br>
+26. M35 & Wasback ft. Elle Vee – Let It Go<br>
+27. Ryos ft. Karra – Where We Are<br>
+28. StadiumX, Baha & Markquis ft. Delaney Jane – Another Life<br>
+29. Headhunterz ft. KiFi – Live Before We Die<br>
 30. Marshmello – Alone<br>
 31. Justin Prime & We Are Loud – Drowning<br>
 32. Jane XØ x Dannic – Undone<br>
-33. DVBBS & Shaun Frank feat. Delaney Jane – La La Land<br>
+33. DVBBS & Shaun Frank ft. Delaney Jane – La La Land<br>
 34. Cheat Codes x Kris Kross Amsterdam – Sex
 </p> ]]>
 </description>
-<itunes:image href="http://www.phaseflow.ru/images/logo_69.jpg" />
+<itunes:image href="http://phaseflow.github.io/images/logo_69.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
     url="http://archive.org/download/phaseflow69/PhaseFlow69.mp3"
     length="144075320"
     type="audio/mpeg" />
-<guid>https://archive.org/download/phaseflow69/PhaseFlow69.mp3</guid>
+<guid>http://archive.org/download/phaseflow69/PhaseFlow69.mp3</guid>
 <pubDate>Sat, 31 Dec 2016 12:00:00 GMT</pubDate>
 <itunes:duration>60:00</itunes:duration>
 </item>
@@ -3143,28 +3143,28 @@ Phase Flow Classic:<br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Lucas & Steve X Pep & Rash – Enigma<br>
 2. Holl & Rush – Rhythm Is Love<br>
-3. Tritonal feat. Steph Jones – Blackout<br>
+3. Tritonal ft. Steph Jones – Blackout<br>
 4. Eiffel 65 – Blue (Da Ba Dee) (Boostedkids & Monkey Bros Remix)<br>
-5. Lucky Charmes feat. Da Professor – Ready<br>
+5. Lucky Charmes ft. Da Professor – Ready<br>
 6. Sander van Doorn – You&apos;re Not Alone<br>
 7. Tujamo – Drop That Low<br>
-8. MOTi feat. Katt Niall – Livin&apos; 4 Ya<br>
+8. MOTi ft. Katt Niall – Livin&apos; 4 Ya<br>
 9. Keanu Silva – Children<br>
 10. Quintino & Cheat Codes – Can&apos;t Fight It<br>
 11. HEART FX – Thinking Of You (Roulsen Remix)<br>
 12. Steve Aoki & Autoerotique – ILYSM<br>
 13. R3hab & BURNS – Near Me<br>
-14. BURNS feat. Elvis Brown – Wave<br>
-15. The Magician feat. Brayton Bowman – Shy (Club Mix)<br>
+14. BURNS ft. Elvis Brown – Wave<br>
+15. The Magician ft. Brayton Bowman – Shy (Club Mix)<br>
 16. Don Diablo – Drifter<br>
 17. Phats & Small – Turn Around (Calvo Remix)<br>
-18. Elephante Feat. Trouze & Damon Sharpe – Age Of Innocence (Crankdat Remix) vs. Matroda – Chronic<br>
-19. Hardwell feat. Craig David – No Holding Back<br>
+18. Elephante ft. Trouze & Damon Sharpe – Age Of Innocence (Crankdat Remix) vs. Matroda – Chronic<br>
+19. Hardwell ft. Craig David – No Holding Back<br>
 20. Galantis – No Money<br>
 21. Out Of Cookies – Fugazy<br>
 22. Martin Garrix & Bebe Rexha – In The Name Of Love<br>
-23. Eva Shaw feat. Mally Mall & Sonny Wilson – U<br>
-24. Merk & Kremont feat. Steffen Morrison – Don&apos;t Need No Money<br>
+23. Eva Shaw ft. Mally Mall & Sonny Wilson – U<br>
+24. Merk & Kremont ft. Steffen Morrison – Don&apos;t Need No Money<br>
 25. Mike Mago & Dragonette – Secret Stash<br>
 26. Calvin Harris & Rihanna – This Is What You Came For<br>
 27. CID & Kaskade – Sweet Memories<br>
@@ -3207,23 +3207,23 @@ Phase Flow Classic:<br>
 7. Breathe Carolina & Dropgun – Atlantis<br>
 8. Sam Feldt – What About The Love<br>
 9. Niall Horan – This Town (Cheats Codes Remix)<br>
-10. Louis The Child feat. Evalyn – Fire<br>
+10. Louis The Child ft. Evalyn – Fire<br>
 11. K. Flay – Blood In The Cut (Lash Remix)<br>
 12. Timmy Trumpet – Oracle<br>
 13. Mike Mago & Dragonette – Secret Stash (The Him Remix)<br>
-14. The Chainsmokers feat. Phoebe Ryan – All We Know (Oliver Heldens Remix)<br>
+14. The Chainsmokers ft. Phoebe Ryan – All We Know (Oliver Heldens Remix)<br>
 15. Fly & Leo Grand – Music is Calling<br>
 16. Just Kiddin – Won&apos;t Let You Down<br>
 17. Bob Sinclar – Stand Up<br>
 18. John Dahlback – Candy<br>
-19. Charli XCX – After The Afterparty (feat. Lil Yachty) [Chocolate Puma Remix]
+19. Charli XCX ft. Lil Yachty – After The Afterparty (Chocolate Puma Remix)
 </p> ]]>
 </description>
-<itunes:image href="http://www.phaseflow.ru/images/logo_67.jpg" />
+<itunes:image href="http://phaseflow.github.io/images/logo_67.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://ia801503.us.archive.org/15/items/phaseflow67/PhaseFlow67.mp3"
+    url="http://archive.org/download/phaseflow67/PhaseFlow67.mp3"
     length="56717045"
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow67/PhaseFlow67.mp3</guid>
@@ -3241,7 +3241,7 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 66</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Savi feat. Bryce Fox – Breathe It In (Anevo Remix)<br>
+<p>1. Savi ft. Bryce Fox – Breathe It In (Anevo Remix)<br>
 2. Holly & Spaces – Wish I Had<br>
 3. Julian Calor – Totoro<br>
 4. Don Diablo & Steve Aoki x Lush & Simon – What We Started (Don Diablo's VIP Mix)<br>
@@ -3258,15 +3258,15 @@ Phase Flow Classic:<br>
 15. Holl & Rush – Hydra<br>
 16. Hasse De Moor & GLD – Work<br>
 17. Matthew Koma – Kisses Back (FLØRALS Remix)<br>
-18. Thomas Gold feat. Jillian Edwards – Magic (Angemi Remix)<br>
-19. M35 & Wasback feat. Elle Vee – Let It Go<br>
+18. Thomas Gold ft. Jillian Edwards – Magic (Angemi Remix)<br>
+19. M35 & Wasback ft. Elle Vee – Let It Go<br>
 </p> ]]>
 </description>
-<itunes:image href="http://www.phaseflow.ru/images/logo_66.jpg" />
+<itunes:image href="http://phaseflow.github.io/images/logo_66.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://ia801509.us.archive.org/1/items/phaseflow66/PhaseFlow66.mp3"
+    url="http://archive.org/download/phaseflow66/PhaseFlow66.mp3"
     length="57661587"
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow66/PhaseFlow66.mp3</guid>
@@ -3284,28 +3284,28 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 65</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Shelco Garcia & Teenwolf – Sky High (Original Mix) (feat. Leelee Haxi)<br>
+<p>1. Shelco Garcia & Teenwolf ft. Leelee Haxi – Sky High<br>
 2. Wiwek & Skrillex – Killa (Slushii Remix)<br>
- vs. Borgore feat. Juicy J – Magic Trick [EYEMVX Mashup]<br>
-3. Swanky Tunes & Going Deeper – Be Okay (feat. Boogshe)<br>
+ vs. Borgore ft. Juicy J – Magic Trick [EYEMVX Mashup]<br>
+3. Swanky Tunes & Going Deeper ft. Boogshe – Be Okay<br>
 4. Zara Larsson – I Would Like (STVCKS Remix)<br>
 5. SCNDL – Find My Way (Original & Tom Budin Mix)<br>
-6. David Guetta & Cedric Gervais feat. Chris Willis – Would I Lie To You (Cash Cash Remix)<br>
-7. Martin Solveig feat. Ina Wroldsen – Places<br>
+6. David Guetta & Cedric Gervais ft. Chris Willis – Would I Lie To You (Cash Cash Remix)<br>
+7. Martin Solveig ft. Ina Wroldsen – Places<br>
 8. DJ Snake & Justin Bieber – Let Me Love You (Don Diablo Remix)<br>
-9. Arston – Beautiful Asian (Alexander Popov Extended Remix) (feat. Johnny Kelvin)<br>
+9. Arston ft. Johnny Kelvin – Beautiful Asian (Alexander Popov Remix)<br>
 10. Matt Nash – Know My Love (MazZz & Constantin Remix)<br>
 11. Dr. Dre – The Next Episode (We Are Nuts! Remix)<br>
 12. Fugees – Ready Or Not (Bougenvilla & Marc MacRowland Rework)<br>
 13. Vato Gonzalez – U Name It Riddim<br>
 14. Avicii – Levels (Willcox 2k17 Re-Edit)<br>
-15. Plastik Funk feat. Katt Rose – Sunrise<br>
+15. Plastik Funk ft. Katt Rose – Sunrise<br>
 16. CID & Kaskade – Sweet Memories<br>
 17. BLR – Cha Preto<br>
 18. Felguk & Ricci – Small Town
 </p> ]]>
 </description>
-<itunes:image href="http://www.phaseflow.ru/images/logo_65.jpg" />
+<itunes:image href="http://phaseflow.github.io/images/logo_65.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
@@ -3328,15 +3328,15 @@ Phase Flow Classic:<br>
 <p>Episode 64</p><br>
 <p>Released: 04.12.2016</p>
 <p><strong>Tracklist:</strong></p>
-<p> 1. Marshmello – Keep It Mellow (feat. Omar Linx)<br>
+<p> 1. Marshmello ft. Omar Linx – Keep It Mellow<br>
 2. San Holo – Light<br>
-3. Zeds Dead x Diplo – Blame (feat. Elliphant)<br>
-4. Karim Mika feat. DVNNI – Stars<br>
+3. Zeds Dead x Diplo ft. Elliphant – Blame<br>
+4. Karim Mika ft. DVNNI – Stars<br>
 5. HI-LO & Sander van Doorn – WTF<br>
-6. DVBBS feat. Ramriddlz – Doja (No Lie)<br>
+6. DVBBS ft. Ramriddlz – Doja (No Lie)<br>
 7. Starley – Call on Me (Ryan Riback Remix)<br>
-8. Nevada – The Mack (feat. Mark Morrison & Fetty Wap)<br>
-9. KREAM feat. Clara Mae – Taped Up Heart<br>
+8. Nevada ft. Mark Morrison & Fetty Wap – The Mack<br>
+9. KREAM ft. Clara Mae – Taped Up Heart<br>
 10. Croatia Squad – Walking Up The Neighbors<br>
 11. Bougenvilla – I Got My<br>
 12. Olly James & LoaX – Wait For Me<br>
@@ -3347,7 +3347,7 @@ Phase Flow Classic:<br>
 
 </p> ]]>
 </description>
-<itunes:image href="http://www.phaseflow.ru/images/logo_64.jpg" />
+<itunes:image href="http://phaseflow.github.io/images/logo_64.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
@@ -3374,14 +3374,14 @@ Phase Flow Classic:<br>
 3. Going Deeper – Mighty Fun Splasher<br>
 4. DubVision & Justin Oh – Under The Stars<br>
 5. Bombs Away & Neon Giants – Move On Up<br>
-6. Hardwell feat. Jay Sean – Thinking About You (Hardwell & Kaaze Instrumental Mix)<br>
+6. Hardwell ft. Jay Sean – Thinking About You (Hardwell & Kaaze Instrumental Mix)<br>
 7. Dropgun – Nobody<br>
-8. John Dahlback feat. Nick & Simon – Won't Back Away<br>
+8. John Dahlback ft. Nick & Simon – Won't Back Away<br>
 9. Breathe Carolina x IZII – Echo<br>
 10. We Are Loud & Justin Prime – Tomorrow Sounds<br>
-11. Yellow Claw – Blood Diamond (feat. Serebro)<br>
+11. Yellow Claw ft. Serebro – Blood Diamond<br>
 12. Suyano & Adventurer – Overload<br>
-13. Izecold feat. Molly Ann – Close (Brooks Remix)<br>
+13. Izecold ft. Molly Ann – Close (Brooks Remix)<br>
 14. ALARY x CHEDD – Init<br>
 15. Ralvero – Hunkaar<br>
 16. Jus Jack – I Can't Win
@@ -3392,10 +3392,10 @@ Phase Flow Classic:<br>
     <itunes:keywords>
         house, future house, deep house, progressive house, future house, trap    </itunes:keywords>
     <enclosure
-        url="http://ia601504.us.archive.org/7/items/phaseflow63/PhaseFlow63.mp3"
+        url="http://archive.org/download/phaseflow63/PhaseFlow63.mp3"
         length="57636405"
         type="audio/mpeg" />
-    <guid>http://www.phaseflow.ru/PhaseFlow63.mp3</guid>
+    <guid>http://archive.org/download/phaseflow63/PhaseFlow63.mp3</guid>
     <pubDate>Sat, 26 Nov 2016 22:00:00 GMT</pubDate>
     <itunes:duration>01:00:00</itunes:duration>
   </item>  
@@ -3410,23 +3410,23 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 62</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Bakermat feat. Alex Clare – Living (Calvo Remix)<br>
+<p>1. Bakermat ft. Alex Clare – Living (Calvo Remix)<br>
 2. Justin Prime & We Are Loud – Drowning (Avedon Remix)<br>
 3. Lush & Simon – The Next Level<br>
 4. Illenium ft. Liam O'Donnell  – It's All On U (T-Mass & LZRD Remix)<br>
 5. Cazzette – Static<br>
-6. MOTi feat. Katt Niall – Livin' 4 Ya<br>
+6. MOTi ft. Katt Niall – Livin' 4 Ya<br>
 7. Hotel Garuda ft. Violet Days – Fixed On You (Taiki Nulight Remix)<br>
 8. Dishonored 2 – Main Theme (Vato Gonzalez Remix)<br>
 9. Cheat Codes & Dante Klein – Let Me Hold You (Turn Me On) (Swanky Tunes Remix)<br>
 10. NEIKED Ft. Dyo – Sexual (Oliver Nelson Remix)<br>
-11. DVBBS & CMC$ feat. Gia Koka – Not Going Home<br>
-12. Syn Cole feat. Caroline Pennell – Californication (Vip Mix)<br>
-13. Vato Gonzalez feat. Kris Kiss – Sonic Boom<br>
+11. DVBBS & CMC$ ft. Gia Koka – Not Going Home<br>
+12. Syn Cole ft. Caroline Pennell – Californication (Vip Mix)<br>
+13. Vato Gonzalez ft. Kris Kiss – Sonic Boom<br>
 14. Martin Garrix & Florian Picasso – Make Up Your Mind<br>
 15. Jean Beatz & Jegers – Front2Back (twoloud Edit)<br>
 16. Sebjak & Kiano – Peace (Marcus Schossow & Andero Remix)<br>
-17. Sam Feldt & Deepend feat. Teemu – Runaways (Muzzaik & Stadiumx Remix)<br>
+17. Sam Feldt & Deepend ft. Teemu – Runaways (Muzzaik & Stadiumx Remix)<br>
 18. Sia – Move Your Body (Alan Walker Remix)<br>
 19. Ibranovski & Syzz – Muscular<br>
 </p> ]]>
@@ -3435,10 +3435,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://ia601509.us.archive.org/13/items/phaseflow62/PhaseFlow62.mp3"
+    url="http://archive.org/download/phaseflow62/PhaseFlow62.mp3"
     length="57652371"
     type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow62.mp3</guid>
+<guid>http://archive.org/download/phaseflow62/PhaseFlow62.mp3</guid>
 <pubDate>Sat, 19 Nov 2016 21:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>
@@ -3453,23 +3453,23 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 61</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Ralvero feat. Ina – Run Wild<br>
-2. Daft Punk feat. The Weeknd – Starboy (Kygo Remix)<br>
-3. Ravitez & Afrojack feat. Amba Shepherd – The Great Escape<br>
-4. Jack Wins feat. Francci Richard – I Used To Love You<br>
+<p>1. Ralvero ft. Ina – Run Wild<br>
+2. Daft Punk ft. The Weeknd – Starboy (Kygo Remix)<br>
+3. Ravitez & Afrojack ft. Amba Shepherd – The Great Escape<br>
+4. Jack Wins ft. Francci Richard – I Used To Love You<br>
 5. Felix Cartal – Keep Up Ft. Steph Jones (Brohug Remix)<br>
-6. Oliver Heldens feat. Ida Corr – Good Life<br>
+6. Oliver Heldens ft. Ida Corr – Good Life<br>
 7. Martin Garrix & Bebe Rexha – In the Name of Love (Dallask Remix)<br>
 8. Mike Candys – Daylight<br>
 9. Matisse & Sadko – Ninjas<br>
-10. Pep & Rash feat. Polina – Echo<br>
+10. Pep & Rash ft. Polina – Echo<br>
 11. Martin Garrix + Mesto – WIEE<br>
 12. Ferreck Dawn – Mad Love<br>
 13. The Partysquad & Alvaro – Lights Out<br>
-14. Yellow Claw feat. Yade Lauren – Love & War<br>
+14. Yellow Claw ft. Yade Lauren – Love & War<br>
 15. LNY TNZ – Burn It Down<br>
 16. Jonas Aden vs. Kings – Breathe<br>
-17. Throttle feat. LunchMoney Lewis & Aston Merrygold – Money Maker (Mike Williams Remix)<br>
+17. Throttle ft. LunchMoney Lewis & Aston Merrygold – Money Maker (Mike Williams Remix)<br>
 18. Dash Berlin Ft. Do – Heaven (Club Mix)<br>
 19. Autoerotique – Run For Cover<br>
 20. Bali Bandits – KABOOM
@@ -3480,10 +3480,10 @@ Phase Flow Classic:<br>
   house, future house, deep house, progressive house, future house, trap 
 </itunes:keywords>
 <enclosure
-    url="http://ia601501.us.archive.org/21/items/phaseflow61/PhaseFlow61.mp3"
+    url="http://archive.org/download/phaseflow61/PhaseFlow61.mp3"
     length="57628443"
     type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow61.mp3</guid>
+<guid>http://archive.org/download/phaseflow61/PhaseFlow61.mp3</guid>
 <pubDate>Sat, 12 Nov 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>
@@ -3500,13 +3500,13 @@ Phase Flow Classic:<br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Ephwurd – Vibrations<br>
 2. Ookay – New Jack Swing<br>
-3. Dirtcaps feat. Eleni Drake – Foreign Tongues<br>
+3. Dirtcaps ft. Eleni Drake – Foreign Tongues<br>
 4. King Arthur – Pretty Young Money<br>
 5. Kaaze – Haartz<br>
-6. Tritonal and Jenaux feat. Adam Lambert – Broken (Toby Green Remix)<br>
+6. Tritonal and Jenaux ft. Adam Lambert – Broken (Toby Green Remix)<br>
 7. Mike Mago & Dragonette – Secret Stash<br>
 8. Son Of 8 & Phats & Small – With Every Heartbeat<br>
-9. D-Wayne feat. Jack McManus – Love Again (Bolier Remix)<br>
+9. D-Wayne ft. Jack McManus – Love Again (Bolier Remix)<br>
 10. Gryffin & Bipolar Sunshine – Whole Heart (Dave Winnel Remix)<br>
 11. EDX – High On You<br>
 12. Mercer – Opium (VIP Mix)<br>
@@ -3514,7 +3514,7 @@ Phase Flow Classic:<br>
 14. Inpetto – Million Miles<br>
 15. Galantis & Hook N Sling – Love On Me (CID Remix)<br>
 16. Mike La Funk – Going On<br>
-17. M-22 feat. Hayley May – Good For Me (M-22 & Sonic Matta Club Version)<br>
+17. M-22 ft. Hayley May – Good For Me (M-22 & Sonic Matta Club Version)<br>
 18. Moguai – Pray For Rain (Muzzaik Remix)<br>
 </p>
 <p><strong>LINKS:</strong></p> ]]>
@@ -3524,10 +3524,10 @@ Phase Flow Classic:<br>
    house, future house, deep house, progressive house, future house, trap
 </itunes:keywords>
 <enclosure
-    url="http://ia601503.us.archive.org/31/items/phaseflow60/PhaseFlow60.mp3"
+    url="http://archive.org/download/phaseflow60/PhaseFlow60.mp3"
     length="56714451"
     type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow60.mp3</guid>
+<guid>http://archive.org/download/phaseflow60/PhaseFlow60.mp3</guid>
 <pubDate>Sat, 05 Nov 2016 17:00:00 GMT</pubDate>
 <itunes:duration>59:00</itunes:duration>
 </item>
@@ -3542,22 +3542,22 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 59</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Felix Jaehn feat. ALMA – Bonfire (Curbi Remix)<br>
-2. Hydrogenio & Dysomia x WeSee feat. Rita Richi – Breathe Me<br>
-3. Flo Rida feat. Jason Derulo – Hello Friday (Owen Norton Remix)<br>
+<p>1. Felix Jaehn ft. ALMA – Bonfire (Curbi Remix)<br>
+2. Hydrogenio & Dysomia x WeSee ft. Rita Richi – Breathe Me<br>
+3. Flo Rida ft. Jason Derulo – Hello Friday (Owen Norton Remix)<br>
 4. Autoerotique – Slew Dem<br>
 5. Morten & twoloud – Certified<br>
 6. Jonas Aden & Brooks – Take Me Away<br>
-7. Audien feat. Debs Daughter – Crazy Love (MOTi Remix)<br>
+7. Audien ft. Debs Daughter – Crazy Love (MOTi Remix)<br>
 8. On June X KEVI – Sunrise<br>
-9. Dastic feat. CADE – Let Me Love You<br>
-10. KSHMR & Bassjackers feat. Sidnie Tipton – Extreme<br>
+9. Dastic ft. CADE – Let Me Love You<br>
+10. KSHMR & Bassjackers ft. Sidnie Tipton – Extreme<br>
 11. Mickey ft. Malika – Harlem<br>
-12. Monn feat. Dria – Not Missing You (Jack Wins Remix)<br>
+12. Monn ft. Dria – Not Missing You (Jack Wins Remix)<br>
 13. Ashton Love – Love U Need<br>
 14. Chocolate Puma & Tommie Sunshine – Take The Ride<br>
 15. Dimitri Vegas & Like Mike vs. Blasterjaxx – Insanity<br>
-16. Sandro Silva feat. Kepler – Stay Inside<br>
+16. Sandro Silva ft. Kepler – Stay Inside<br>
 </p> ]]>
 </description>
 <itunes:image href="http://archive.org/download/phaseflow59/logo_59.jpg" />
@@ -3565,10 +3565,10 @@ Phase Flow Classic:<br>
 	house, future house, deep house, progressive house, future house, trap
 </itunes:keywords>
 <enclosure
-    url="http://ia801503.us.archive.org/31/items/phaseflow59/PhaseFlow59.mp3"
+    url="http://archive.org/download/phaseflow59/PhaseFlow59.mp3"
     length="54772194"
     type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow59.mp3</guid>
+<guid>http://archive.org/download/phaseflow59/PhaseFlow59.mp3</guid>
 <pubDate>Sat, 29 Oct 2016 17:00:00 GMT</pubDate>
 <itunes:duration>57:00</itunes:duration>
 </item>
@@ -3583,12 +3583,12 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 58</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Daft Punk feat. The Weeknd – Starboy (Sander Kleinenberg Remix)<br>
+<p>1. Daft Punk ft. The Weeknd – Starboy (Sander Kleinenberg Remix)<br>
 2. Bojac vs Lucky Charmes – Six Million Drop That Bass [EYEMVX Mashup]<br>
 3. Sagan – Tell Me Why<br>
-4. Seven Lions & Illenium & Said The Sky – Rush Over Me (feat. HALIENE)<br>
-5. The Chainsmokers – All We Know (feat. Phoebe Ryan)<br>
-6. Mahalo feat. Cat Lewis – Be My Love<br>
+4. Seven Lions & Illenium & Said The Sky ft. HALIENE – Rush Over Me<br>
+5. The Chainsmokers ft. Phoebe Ryan – All We Know<br>
+6. Mahalo ft. Cat Lewis – Be My Love<br>
 7. Brohug – Hooey<br>
 8. ID – Working Hard<br>
 9. Hardwell & Blasterjaxx – Going Crazy<br>
@@ -3596,9 +3596,9 @@ Phase Flow Classic:<br>
 11. Croatia Squad – We Don't Need No Sleep<br>
 12.Victoria Monet x Roulsen – Malice In Wonderland<br>
 13. Alesso – Take My Breath Away<br>
-14. Decoy! & Uplink feat. AWR vs Mike Williams – Take Me Down vs So Playful [EYEMVX Mashup]<br>
+14. Decoy! & Uplink ft. AWR vs Mike Williams – Take Me Down vs So Playful [EYEMVX Mashup]<br>
 15. Cooperated Souls – Don't Stop<br>
-16. Klingande feat. M-22 – Somewhere New<br>
+16. Klingande ft. M-22 – Somewhere New<br>
 17. Matt Nash – Know My Love<br>
 18. Lost Frequencies – What Is Love 2016<br>
 19. Afrojack & Fais – Used To Have It All<br>
@@ -3611,10 +3611,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-    url="http://ia601508.us.archive.org/23/items/phaseflow58/PhaseFlow58.mp3"
+    url="http://archive.org/download/phaseflow58/PhaseFlow58.mp3"
     length="57661587"
     type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow58.mp3</guid>
+<guid>http://archive.org/download/phaseflow58/PhaseFlow58.mp3</guid>
 <pubDate>Sun, 23 Oct 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>
@@ -3646,9 +3646,9 @@ Phase Flow Classic:<br>
 15. R3hab – Icarus<br>
 16. Nicky Romero & Navarra – Crossroads<br>
 17. Kölsch – Grey<br>
-18. Slaptop feat. Will Fraker – Passenger<br>
-19. Sam Feldt & Deepend feat. Teemu – Runaways<br>
-20. Paul Mayson feat. Edison Effect – I'll Come Back<br>
+18. Slaptop ft. Will Fraker – Passenger<br>
+19. Sam Feldt & Deepend ft. Teemu – Runaways<br>
+20. Paul Mayson ft. Edison Effect – I'll Come Back<br>
 21. Subtact – Tunnel Vision<br>
 22. Quintino x Cheat Codes – Can't Fight It (Dewian Gross & Bass King Remix)
 </p> ]]>
@@ -3658,10 +3658,10 @@ Phase Flow Classic:<br>
    house, future house, deep house, progressive house, future house, trap
 </itunes:keywords>
 <enclosure
-  url="http://ia601500.us.archive.org/22/items/phaseflow57/PhaseFlow57.mp3"
+  url="http://archive.org/download/phaseflow57/PhaseFlow57.mp3"
   length="57635987"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow57.mp3</guid>
+<guid>http://archive.org/download/phaseflow57/PhaseFlow57.mp3</guid>
 <pubDate>Sat, 15 Oct 2016 20:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>
@@ -3677,7 +3677,7 @@ Phase Flow Classic:<br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Era Istrefi – Bonbon (Marshmello Remix)<br>
 2. Kungs Vs Cookin' On 3 Burners – This Girl<br>
-3. The Magician feat. Brayton Bowman – Shy (Club Mix)<br>
+3. The Magician ft. Brayton Bowman – Shy (Club Mix)<br>
 4. Favulous – Jenny From The Block<br>
 5. Oliver Heldens x Becky Hill – Gecko (Overdrive)<br>
 6. Don Diablo – Drifter<br>
@@ -3687,26 +3687,26 @@ Phase Flow Classic:<br>
 10. Tujamo – BOOM!<br>
 11. Avicii – Levels<br>
 12. The Weeknd – The Hills (Dimitri Vegas & Like Mike Remix)<br>
-13. John Dahlback feat. Little Boots – Heartbeat<br>
+13. John Dahlback ft. Little Boots – Heartbeat<br>
 14. Showtek – Slow Down<br>
 15. R3hab & Quintino – Freak (VIP Remix)<br>
 16. Steve Aoki & Shaun Frank – Dope Girlz<br>
-17. Inpetto & Johnny Bravo feat. Kelli Leigh – U Got A Friend<br>
+17. Inpetto & Johnny Bravo ft. Kelli Leigh – U Got A Friend<br>
 18. Swanky Tunes & Going Deeper – Far From Home<br>
-19. Ruffneck feat. Yavahn – Everybody Be Somebody (Lucas & Steve Remix)<br>
+19. Ruffneck ft. Yavahn – Everybody Be Somebody (Lucas & Steve Remix)<br>
 20. Calvo – Need U<br>
 21. Cheat Codes x Kris Kross Amsterdam – Sex
 </p> ]]>
 </description>
-<itunes:image href="http://www.phaseflow.ru/images/SGM.jpg" />
+<itunes:image href="http://phaseflow.github.io/images/SGM.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap
 </itunes:keywords>
 <enclosure
-  url="http://promodj.com/download/6053615/EYEMVX_Strivecast_Guest_Mix.mp3"
+  url="http://stream4.mixcloud.com/secure/c/m4a/64/a/3/5/b/a7e9-289c-49d9-8e8d-bfa3981eafde.m4a?sig=jHf14KXwxuRhZWPMXHYquw"
   length="73793120"
   type="audio/mpeg" />
-<guid>http://promodj.com/download/6053615/EYEMVX_Strivecast_Guest_Mix.mp3</guid>
+<guid>http://stream4.mixcloud.com/secure/c/m4a/64/a/3/5/b/a7e9-289c-49d9-8e8d-bfa3981eafde.m4a?sig=jHf14KXwxuRhZWPMXHYquw</guid>
 <pubDate>Fri, 07 Oct 2016 21:00:00 GMT</pubDate>
 <itunes:duration>01:16:50</itunes:duration>
 </item>
@@ -3721,17 +3721,17 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 56</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Hotel Garuda feat. Violet Days – Fixed On You<br>
-2. Dave Winnel feat. Jackie Jaxx – Money (VIP Remix)<br>
-3. Frank Pole feat. Greyson Chance – Anything<br>
+<p>1. Hotel Garuda ft. Violet Days – Fixed On You<br>
+2. Dave Winnel ft. Jackie Jaxx – Money (VIP Remix)<br>
+3. Frank Pole ft. Greyson Chance – Anything<br>
 4. Laidback Luke & KURA – Mad Man<br>
 5. MOTi & Kenneth G – East West<br>
-6. Pyrodox feat. Ina – Never Let Me Go<br>
+6. Pyrodox ft. Ina – Never Let Me Go<br>
 7. Steve Aoki & Marnik & Lil Jon – Supernova<br>
 8. LVNDSCAPE Ft. Mingue – Bigger Than This<br>
 9. Jonas Aden – Feel My Soul<br>
-10. John Dish x Digital Bounze x Allen Wish feat. Paul Aiden – Star<br>
-11. Zeds Dead – Stardust (feat. Twin Shadow)<br>
+10. John Dish x Digital Bounze x Allen Wish ft. Paul Aiden – Star<br>
+11. Zeds Dead ft. Twin Shadow – Stardust<br>
 12. Roulsen x East & Young – Summer<br>
 13. Eurythmics – Sweet Dreams (David Gravell Remix)<br>
 14. Niels van Gogh – Dope (twoloud Remix)<br>
@@ -3739,16 +3739,16 @@ Phase Flow Classic:<br>
 16. Matisse & Sadko – Machine Gun<br>
 17. Bojac & DSTRQT – Formula<br>
 18. Melvin Reese vs. Sunnery James & Ryan Marciano – Lift U Up (Vato Gonzalez & Ibranovski Dirty House Bootleg)<br>
-19. Boston Bun feat. Loreen – Get Into It (1994 Edition)</p>]]>
+19. Boston Bun ft. Loreen – Get Into It (1994 Edition)</p>]]>
 </description>
 <itunes:image href="http://archive.org/download/phaseflow56/logo_56.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601505.us.archive.org/11/items/phaseflow56/PhaseFlow56.mp3"
+  url="http://archive.org/download/phaseflow56/PhaseFlow56.mp3"
   length="52853152"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow56.mp3</guid>
+<guid>http://archive.org/download/phaseflow56/PhaseFlow56.mp3</guid>
 <pubDate>Sun, 2 Oct 2016 17:00:00 GMT</pubDate>
 <itunes:duration>55:00</itunes:duration>
 </item>
@@ -3763,7 +3763,7 @@ Phase Flow Classic:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 55</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. MAKJ & Timmy Trumpet feat. Andrew W.K. – Party Till We Die<br>
+<p>1. MAKJ & Timmy Trumpet ft. Andrew W.K. – Party Till We Die<br>
 2. Ephwurd – Pump The System<br>
 3. Justin Oh – Start Again (Tom Swoon Edit)<br>
 4. Holl & Rush – Rhythm Is Love<br>
@@ -3775,24 +3775,24 @@ Phase Flow Classic:<br>
 10. Sick Individuals x Holl & Rush – Helix<br>
 11. Snavs & Fabian Mazur – Wolves<br>
 12. Suyano – I'll Be There<br>
-13. Two Friends & Exit Friendzone feat. Natalola – Overdose<br>
+13. Two Friends & Exit Friendzone ft. Natalola – Overdose<br>
 14. Mike Hawkins – Hollywood<br>
 15. KEVU & Luke Alive – Final Countdown 2k16<br>
-16. KAAZE feat. Stu Gabriel – Freedom<br>
+16. KAAZE ft. Stu Gabriel – Freedom<br>
 17. Showtek – Swipe<br>
 18. Louis The Child & Icona Pop – Weekend (East & Young Remix)<br>
 19. Crystal Lake – Take Me Away<br>
-20. Inpetto & Hits O Good – Nowhere To Be Found (feat. Neta)</p> 
+20. Inpetto & Hits O Good ft. Neta – Nowhere To Be Found</p> 
  ]]>
 </description>
 <itunes:image href="http://archive.org/download/PhaseFlow55/logo_55.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia801504.us.archive.org/2/items/PhaseFlow55/PhaseFlow55.mp3"
+  url="http://archive.org/download/PhaseFlow55/PhaseFlow55.mp3"
   length="57684742"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow55.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow55/PhaseFlow55.mp3</guid>
 <pubDate>Mon, 26 Sep 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>
@@ -3811,17 +3811,17 @@ Phase Flow Classic:<br>
 2. Felix Jaehn ft. Alma – Bonfire (Chris Lake Remix)<br>
 3. ?d? – This Pleasure Needs Pain (Unsympathy)<br>
 4. Candyland & Ricci – Touch Me<br>
-5. Brooks – Hold It Down (ft. Micah Martin)<br>
+5. Brooks ft. Micah Martin – Hold It Down<br>
 6. Campo – ODISEA<br>
 7. Teddme – Hit Fluffy (Pokemon Go!)<br>
 8. Janieck – Feel The Love (Mike Williams Remix)<br>
 9. Mr. Gonzo – Somebody<br>
-10. Sans Souci feat. Pearl Andersson – Sweet Harmony<br>
+10. Sans Souci ft. Pearl Andersson – Sweet Harmony<br>
 11. Marcus Schossow – Amsterdam<br>
 12. Tony Junior & Tommie Sunshine ft. DJ Isaac – F.D.A.U (Face Down Ass Up)<br>
 13. twoloud & Konih – Gimme Some More<br>
 14. Tchami & Malaa – Prophecy<br>
-15. Shaun Frank feat. Ashe – Let You Get Away<br>
+15. Shaun Frank ft. Ashe – Let You Get Away<br>
 16. DVBBS – Ur on My Mind<br>
 17. Dropgun, Lenx & Denx – A Better Love<br></p>
  ]]>
@@ -3830,10 +3830,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601502.us.archive.org/19/items/phaseflow54/PhaseFlow54.mp3"
+  url="http://archive.org/download/phaseflow54/PhaseFlow54.mp3"
   length="57635621"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow54.mp3</guid>
+<guid>http://archive.org/download/phaseflow54/PhaseFlow54.mp3</guid>
 <pubDate>Mon, 19 Sep 2016 20:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>
@@ -3850,20 +3850,20 @@ Phase Flow Classic:<br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Chicco Secci & Cristian Marchi – Remata (Chicco Secci Tribe Mix)<br>
 2. Vassy – Nothing To Lose<br>
-3. DJ Antoine feat. Conor Maynard – Dancing in the Headlights (Stadiumx Remix)<br>
-4. Ken Loi feat. Thomas Daniel – Don't Want U Back<br>
+3. DJ Antoine ft. Conor Maynard – Dancing in the Headlights (Stadiumx Remix)<br>
+4. Ken Loi ft. Thomas Daniel – Don't Want U Back<br>
 5. Audio Bullys & Surge – It Was A Very Good Year<br>
 6. Michael Woods – Gold (Lucky Charmes Remix)<br>
 7. Cavi – Give Good Love<br>
-8. Going Deeper – If We Try (feat. Joshua Khane)<br>
+8. Going Deeper ft. Joshua Khane – If We Try<br>
 9. Mathieu Koss & Boris Way – Campfire<br>
 10. Mark Villa – No Mercy<br>
-11. The Chainsmokers feat. Halsey – Closer (R3hab Remix)<br>
+11. The Chainsmokers ft. Halsey – Closer (R3hab Remix)<br>
 12. Jessi Malay – Do It (Jebase Remix)<br>
 13. Dirty South – All of Us (Dropout Remix)<br>
 14. Dazers & Todd Helder – 5Grand<br>
 15. Jean Beatz – What You Need<br>
-16. The Him feat. Oktavian – Balance<br>
+16. The Him ft. Oktavian – Balance<br>
 17. Sam F – Unstoppable
 </p> ]]>
 </description>
@@ -3871,10 +3871,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601509.us.archive.org/20/items/PhaseFlow53/PhaseFlow53.mp3"
+  url="http://archive.org/download/PhaseFlow53/PhaseFlow53.mp3"
   length="57678844"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow53.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow53/PhaseFlow53.mp3</guid>
 <pubDate>Mon, 12 Sep 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -3894,17 +3894,17 @@ Phase Flow Classic:<br>
 <strong>Top track:</strong><br>
 3. Jane X? x Dannic – Undone<br>
 4. Julian Calor – Particles<br>
-5. Hardwell feat. Craig David – No Holding Back<br>
+5. Hardwell ft. Craig David – No Holding Back<br>
 6. Swanky Tunes & Dropgun ft. Raign – One World<br>
 7. Yves V – Joker<br>
 8. DBSTF – Everything Changed<br>
 9. Oliver Heldens – Flamingo<br>
 10. Dirty Rush & Gregor Es – EVRBDY<br>
 11. Tchami – SIAW<br>
-12. DANK feat. Jimmy St James – Cold As Ice<br>
+12. DANK ft. Jimmy St James – Cold As Ice<br>
 13. Redondo – Jack My Body<br>
 14. Lincoln Jesser – Lost with You<br>
-15. Alok feat. Iro – Me And You<br>
+15. Alok ft. Iro – Me And You<br>
 16. Kavinsky – Nightcall
 </p>
  ]]>
@@ -3913,10 +3913,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601503.us.archive.org/15/items/PhaseFlow52/PhaseFlow52.mp3"
+  url="http://archive.org/download/PhaseFlow52/PhaseFlow52.mp3"
   length="56670439"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow52.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow52/PhaseFlow52.mp3</guid>
 <pubDate>Sat, 20 Aug 2016 17:00:00 GMT</pubDate>
 <itunes:duration>59:00</itunes:duration>
 </item> 
@@ -3934,7 +3934,7 @@ Phase Flow Classic:<br>
 <p>1. EDX – Roadkill (EDX's Ibiza Sunrise Remix)<br>
 2. Lucky Charmes – Bobotie<br>
 3. Lika Morgan – Shed Light (Luca Debonaire Radio Mix)<br>
-4. Flume feat. Kai – Never Be Like You (Martin Solveig Remix)<br>
+4. Flume ft. Kai – Never Be Like You (Martin Solveig Remix)<br>
 5. Moby – Natural Blues (Bali Bandits Remix)<br>
 6. Dallask – Powertrip<br>
 7. Showtek vs. TnT – Mellow<br>
@@ -3943,7 +3943,7 @@ Phase Flow Classic:<br>
 10. Jack Wins – If You Want Me To Stay<br>
 11. BURNS ft. Elvis Brown – Wave<br>
 12. Reez – Arena<br>
-13. Shanahan & Rob Fion feat. Tima Dee – One Night<br>
+13. Shanahan & Rob Fion ft. Tima Dee – One Night<br>
 14. Zonderling – Be Free<br>
 15. Keanu Silva – Me & You<br>
 16. Ovion – On My Way</p> ]]>
@@ -3952,10 +3952,10 @@ Phase Flow Classic:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601507.us.archive.org/24/items/PhaseFlow51/PhaseFlow51.mp3"
+  url="http://archive.org/download/PhaseFlow51/PhaseFlow51.mp3"
   length="57631433"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow51.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow51/PhaseFlow51.mp3</guid>
 <pubDate>Sat, 13 Aug 2016 21:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -3973,11 +3973,11 @@ Phase Flow Classic:<br>
 <p>1. Bassjackers ft. Luciana – Fireflies<br>
 2. Dimitri Vegas & Like Mike – Island<br>
 3. Twofold – Summer<br>
-4. Flux Pavilion & NGHTMRE – Feel Your Love (feat. Jamie Lewis)<br>
+4. Flux Pavilion & NGHTMRE ft. Jamie Lewis – Feel Your Love<br>
 5. Justin Prime & We Are Loud – Drowning<br>
 Top track:<br>
 6. ZAXX – Phunky<br>
-7. Jay Cosmic feat. Happy Sometimes – Hero<br>
+7. Jay Cosmic ft. Happy Sometimes – Hero<br>
 8. twoloud & Bounce Inc. – Ain't Talkin' Bout Love<br>
 9. Redondo – Turnpike<br>
 10. ATICA – Go Back<br>
@@ -3995,10 +3995,10 @@ Remix of the week:<br>
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601504.us.archive.org/0/items/PhaseFlow50/PhaseFlow50.mp3"
+  url="http://archive.org/download/PhaseFlow50/PhaseFlow50.mp3"
   length="57656035"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow50.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow50/PhaseFlow50.mp3</guid>
 <pubDate>Sat, 06 Aug 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4013,17 +4013,17 @@ Remix of the week:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 49 + Teddme Guest Mix</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>01. Armin van Buuren feat. Kensington – Heading Up High (Swanky Tunes Remix)<br>
+<p>01. Armin van Buuren ft. Kensington – Heading Up High (Swanky Tunes Remix)<br>
 02. Vato Gonzalez & Sebastian Bronk – Hyper Riddim<br>
 03. MOUNT & Nicolas Haelg – Something Good (Leon Lour Remix)<br>
-04. Eva Shaw feat. Poo Bear – Rise N Shine<br>
+04. Eva Shaw ft. Poo Bear – Rise N Shine<br>
 05. Deepend – I'm Intoxicated<br>
-06. Adventurer – Gone (feat. Mican Martin)<br>
-07. Inpetto – Need More (feat. Lauren Mason)<br>
-08. DVBBS & Shaun Frank feat. Delaney Jane – La La Land (Going Deeper Remix)<br>
-09. Monn feat. Dria – Not Missin U<br>
-10. Faruk Sabanci feat. Joshua Khane – The Other Side<br>
-11. Andero & Mydo feat. Niclas Lundin – Bad Things (Arman Adin & Arem Ozguc Remix)<br>
+06. Adventurer ft. Mican Martin – Gone<br>
+07. Inpetto ft. Lauren Mason – Need More<br>
+08. DVBBS & Shaun Frank ft. Delaney Jane – La La Land (Going Deeper Remix)<br>
+09. Monn ft. Dria – Not Missin U<br>
+10. Faruk Sabanci ft. Joshua Khane – The Other Side<br>
+11. Andero & Mydo ft. Niclas Lundin – Bad Things (Arman Adin & Arem Ozguc Remix)<br>
 12. Tiesto & Mike Williams – I Want You<br>
 13. Martin Garrix & Bebe Rexha – In The Name Of Love<br>
 <br>
@@ -4044,15 +4044,15 @@ Teddme played:<br>
 </p>
    ]]>
 </description>
-<itunes:image href="http://ia601505.us.archive.org/19/items/PhaseFlow49/logo_49.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow49/logo_49.jpg" />
 <itunes:keywords>
    i, am, eyemax, phaseflow, podcast, live, progressive, electro, tropical, deep, house, trap, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
 <enclosure
-  url="http://ia601505.us.archive.org/19/items/PhaseFlow49/PhaseFlow49(radio).mp3"
+  url="http://archive.org/download/PhaseFlow49/PhaseFlow49(radio).mp3"
   length="144079564"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow49.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow49/PhaseFlow49(radio).mp3</guid>
 <pubDate>Sat, 30 Jul 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4067,36 +4067,36 @@ Teddme played:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 48</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Jolique feat. Daddy's Girl – Negin<br>
+<p>1. Jolique ft. Daddy's Girl – Negin<br>
 2. Bassjackers & Jay Hardway – Dinosaur<br>
 3. Oliver Heldens, Mr. Belt & Wezol – Pikachu<br>
-4. Martin Solveig – Do It Right (ft. Tkay Maidza) (Zeen & Myer ft. DSTRQT Bootleg)<br>
+4. Martin Solveig ft. Tkay Maidza – Do It Right (Zeen & Myer ft. DSTRQT Bootleg)<br>
 5. Bastille – Good Grief (Don Diablo Remix)<br>
-6. W&W & Hardwell feat. Lil Jon – Live The Night<br>
+6. W&W & Hardwell ft. Lil Jon – Live The Night<br>
 7. Steve Aoki & Autoerotique – ILYSM<br>
-8. CALVO feat. Noubya – Light It Up<br>
+8. CALVO ft. Noubya – Light It Up<br>
 9. Teddme – Release<br>
 10. MOTi – Turn Me Up (Jack Wins Remix)<br>
-11. Flatdisk feat. Rhett Fisher – All Alone<br>
+11. Flatdisk ft. Rhett Fisher – All Alone<br>
 12. twoloud & FRDY – Fix Me (Fuero Remix)<br>
 13. Holl & Rush – Lift Me Up<br>
 14. Plastik Funk – This Is It<br>
 15. 2Elements – Tell Me<br>
 16. Florian Picasso – Final Call (Mesto & Justin Mylo Remix)<br>
-17. Major Lazer – Cold Water (feat. Justin Bieber & M?)
+17. Major Lazer ft. Justin Bieber & MØ – Cold Water
 </p>
 
    ]]>
 </description>
-<itunes:image href="http://ia601500.us.archive.org/30/items/PhaseFlow48/logo_48.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow48/logo_48.jpg" />
 <itunes:keywords>
    i, am, eyemax, phaseflow, podcast, live, progressive, electro, deep, tropical, house, beats, dj, dance, chart, hit, mashup, remix, recordings, summer, night
 </itunes:keywords>
 <enclosure
-  url="http://ia601500.us.archive.org/30/items/PhaseFlow48/PhaseFlow48.mp3"
+  url="http://archive.org/download/PhaseFlow48/PhaseFlow48.mp3"
   length="57656467"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow48.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow48/PhaseFlow48.mp3</guid>
 <pubDate>Sat, 23 Jul 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4111,32 +4111,32 @@ Teddme played:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 47: Summer Mix 2016</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Lady Bee – Homeless Heart (feat. Grace Tither)<br>
+<p>1. Lady Bee ft. Grace Tither – Homeless Heart<br>
 2. Antoine Delvig X Alex Van Diel – Sea, Sex & Sun<br>
 3. Mari Ferrari – Hello, Hello (Going Deeper Remix)<br>
-4. Robin Schulz feat. Akon – Heatwave (HUGEL Remix)<br>
-5. Sam Feldt X Lucas & Steve feat. Wulf – Summer On You<br>
-6. Quintino & Joey Dale feat. Channii – Lights Out (VIP Mix)<br>
+4. Robin Schulz ft. Akon – Heatwave (HUGEL Remix)<br>
+5. Sam Feldt X Lucas & Steve ft. Wulf – Summer On You<br>
+6. Quintino & Joey Dale ft. Channii – Lights Out (VIP Mix)<br>
 7. Robby East – N70<br>
 8. Nick Kershaw – The Riddle (Keanu Silva Remix)<br>
 9. Tiёsto & Jauz – Infected<br>
 10. On June – Stuck On You<br>
 11. Nora En Pure – On the Beach<br>
 12. Megaphonix – Don't Stop<br>
-13. FTampa – Stay (feat. Amanda Wilson)<br>
+13. FTampa ft. Amanda Wilson – Stay<br>
 14. Khrebto – Sydney<br>
 15. GTA & Wax Motif – Get It All<br>
 16. Bolier – Ipanema<br>
 17. Stadiumx, Baha & Markquis feat Delaney Jane – Another Life</p> ]]>
 </description>
-<itunes:image href="http://ia601502.us.archive.org/0/items/PhaseFlow47/logo_47.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow47/logo_47.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601502.us.archive.org/0/items/PhaseFlow47/PhaseFlow47.mp3"
+  url="http://archive.org/download/PhaseFlow47/PhaseFlow47.mp3"
   length="57658515"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow47.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow47/PhaseFlow47.mp3</guid>
 <pubDate>Sat, 16 Jul 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>   
@@ -4152,14 +4152,14 @@ Teddme played:<br>
 <p>Episode 46</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Quintino – Bad Bitches (Deorro VIP Edit)<br>
-2. Michael Calfan – Thorns (feat. Raphaella)<br>
+2. Michael Calfan ft. Raphaella – Thorns<br>
 3. Laidback Luke & TWOLOUD – Fcukin Beats<br>
 4. Bob Sinclar – Someone Who Needs Me (Kryder Remix)<br>
-5. Jonas Blue Feat. Dakota – Fast Car (TWIIG Bootleg)<br>
+5. Jonas Blue ft. Dakota – Fast Car (TWIIG Bootleg)<br>
 6. Justin Mylo – Jumping Jack<br>
 7. Mike Hawkins – I Just Wanna Know<br>
 8. Ellie Goulding – Something In The Way You Move (DEVI Remix)<br>
-9. Tujamo feat. Inaya Day – Keep Pushin<br>
+9. Tujamo ft. Inaya Day – Keep Pushin<br>
 10. Dastic – Go Home<br>
 11. DJ Snake – Propaganda (Jauz Remix)<br>
 12. Robin Schulz & J.U.D.G.E. – Show Me Love (Calvo Remix)<br>
@@ -4168,14 +4168,14 @@ Teddme played:<br>
 15. Niko The Kid X Halogen – Tell Me<br>
 16. Tom & Jame – Rise (Like A Thousand Suns)</p> ]]>
 </description>
-<itunes:image href="http://ia601905.us.archive.org/35/items/phaseflow46/logo_46.jpg" />
+<itunes:image href="http://archive.org/download/phaseflow46/logo_46.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia801905.us.archive.org/35/items/phaseflow46/PhaseFlow46.mp3"
+  url="http://archive.org/download/phaseflow46/PhaseFlow46.mp3"
   length="57660434"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow46.mp3</guid>
+<guid>http://archive.org/download/phaseflow46/PhaseFlow46.mp3</guid>
 <pubDate>Sat, 09 Jul 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>  
@@ -4190,32 +4190,32 @@ Teddme played:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 45</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Kenneth G feat. Ilang – We Are One
+<p>1. Kenneth G ft. Ilang – We Are One
 2. Cheat Codes & Dante Klein – Let Me Hold You (Turn Me On)
-3. Vato Gonzalez – 2 Step (feat. Doctor) [Vato's Dirty House Mix]
+3. Vato Gonzalez  ft. Doctor – 2 Step (Vato's Dirty House Mix)
 4. Jerome Price – Me Minus You (CID Remix)
 5. SLTRY – Eh What
 6. Bali Bandits – Toink
-7. PBH & Jack Shizzle – Feel The Music (feat. Emilie Adams)
+7. PBH & Jack Shizzle ft. Emilie Adams – Feel The Music
 8. Tony Junior & KURA ft. Jimmy Clash – Walk Away
 9. Headhunterz & KSHMR – Dharma
-10. Borgeous vs. Riggi & Piros feat. Lil Jon – Savage
-11. King Arthur feat. TRM – Right Now (Sam Feldt Edit)
-12. Fais feat. Afrojack – Hey (Matisse & Sadko Remix)
-13. Nuits d’Etoiles feat. Nomie – Un Autre Monde
+10. Borgeous vs. Riggi & Piros ft. Lil Jon – Savage
+11. King Arthur ft. TRM – Right Now (Sam Feldt Edit)
+12. Fais ft. Afrojack – Hey (Matisse & Sadko Remix)
+13. Nuits d’Etoiles ft. Nomie – Un Autre Monde
 14. Alex Madden – In The Night
 15. F4ST–Pleyades
 16. Kryder – Selecta (Chocolate Puma Edit)
 17. Dimitri Vegas & Like Mike – Stay A While<p> ]]>
 </description>
-<itunes:image href="http://ia601509.us.archive.org/9/items/PhaseFlow45/logo_45.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow45/logo_45.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601509.us.archive.org/9/items/PhaseFlow45/PhaseFlow45.mp3"
+  url="http://archive.org/download/PhaseFlow45/PhaseFlow45.mp3"
   length="57664659"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow45.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow45/PhaseFlow45.mp3</guid>
 <pubDate>Sat, 02 Jul 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>   
@@ -4234,29 +4234,29 @@ Teddme played:<br>
 2. Switch Off & JuicyTrax – Rabbit</br> 
 3. Dave Winnel – Old School</br>
 4. MERCER – Juicy</br>
-5. Vicetone feat. Cozi Zuehlsdorff – Nevada</br>
+5. Vicetone ft. Cozi Zuehlsdorff – Nevada</br>
 6. Our Psych – Misae</br>
-7. Higher Self & Tom Budin – Work It Out (ft. SWEEDiSH)</br>
+7. Higher Self & Tom Budin ft. SWEEDiSH – Work It Out</br>
 8. Moby – Go (HI-LO Remix)</br>
 9. MOTi x Alpharock – Legends</br>
-10. Going Deeper feat. Mingue – Hold On</br>
-11. Sam Feldt & Ferreck Dawn – Body Gold (ft. Oh Wonder)</br>
-12. Ryos feat. Karra – Where We Are</br>
-13. Mike Cervello feat. STORi – No Time</br>
+10. Going Deeper ft. Mingue – Hold On</br>
+11. Sam Feldt & Ferreck Dawn ft. Oh Wonder – Body Gold</br>
+12. Ryos ft. Karra – Where We Are</br>
+13. Mike Cervello ft. STORi – No Time</br>
 14. Out Of Cookies – Fugazy</br>
 15. twoloud & FRDY – Fix Me (Official Parookaville 2016 Anthem)</br>
 16. Bingo Players – Cry (Just A Little) [A-Trak Remix]</br>
-17. Jack Wins feat. Katt Rose – Slave 2 Love</br>
+17. Jack Wins ft. Katt Rose – Slave 2 Love</br>
 18.  Bassjackers & Jay Hardway – El Mariachi</br></p> ]]>
 </description>
-<itunes:image href="http://ia601509.us.archive.org/2/items/PhaseFlow44/logo_44.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow44/logo_44.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601509.us.archive.org/2/items/PhaseFlow44/PhaseFlow44.mp3"
+  url="http://archive.org/download/PhaseFlow44/PhaseFlow44.mp3"
   length="56652371"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow44.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow44/PhaseFlow44.mp3</guid>
 <pubDate>Sat, 25 Jun 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>  
@@ -4275,28 +4275,28 @@ Teddme played:<br>
 <p>2. Tim3bomb – Get Money</p>
 <p>3. Teddy Rose – Stella</p>
 <p>4. Seeb ft. Neev – Breathe</p>
-<p>5. DVBBS & Shaun Frank feat. Delaney Jane – La La Land (Breathe Carolina Remix)</p>
-<p>6. A-Trak feat. Phantogram – Parallel Lines (Holl & Rush Remix)</p>
+<p>5. DVBBS & Shaun Frank ft. Delaney Jane – La La Land (Breathe Carolina Remix)</p>
+<p>6. A-Trak ft. Phantogram – Parallel Lines (Holl & Rush Remix)</p>
 <p>7. Firebeatz & Fafaq – Sir Duke</p>
 <p>8. Essentials & Influ – Feelings</p>
 <p>9. Martin Garrix – Oops</p>
 <p>10. Nicky Romero – The Moment (Novell)</p>
 <p>11. Sagan – Happiness</p>
-<p>12. Avicii feat. Aloe Blacc – Wake Me Up</p>
+<p>12. Avicii ft. Aloe Blacc – Wake Me Up</p>
 <p>13. Aluna George – I'm In Control (Klosman 'Summer' Remix)</p>
 <p>14. Swanky Tunes x Far East Movement – Entertain Us (Going Deeper Remix)</p>
-<p>15. Merk & Kremont feat. Steffen Morrison – Don't Need No Money</p>
+<p>15. Merk & Kremont ft. Steffen Morrison – Don't Need No Money</p>
 <p>16. The Voyagers x Propane – Dresscode</p>
 <p>17. Kyfra & Dastic – Magic</p> ]]>
 </description>
-<itunes:image href="http://ia601505.us.archive.org/24/items/PhaseFlow43/logo_43.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow43/logo_43.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601505.us.archive.org/24/items/PhaseFlow43/PhaseFlow43.mp3"
+  url="http://archive.org/download/PhaseFlow43/PhaseFlow43.mp3"
   length="57600798"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow43.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow43/PhaseFlow43.mp3</guid>
 <pubDate>Sat, 18 Jun 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>   
@@ -4314,29 +4314,29 @@ Teddme played:<br>
 <p>1. Lucas & Steve x Pep & Rash – Inigma</p>
 <p>2. Dannic – Blaze</p>
 <p>3. Cosmo & Skoro – Pong</p>
-<p>4. Dash Berlin & DBSTF feat. Jake Reese, Waka Flocka & DJ Whoo Kid – Gold</p>
+<p>4. Dash Berlin & DBSTF ft. Jake Reese, Waka Flocka & DJ Whoo Kid – Gold</p>
 <p>5. San Holo – Still Looking</p>
 <p><strong>6. Moska vs Sebastian Ingrosso – Dark River Euphoria [EYEMVX Mashup]<strong></p>
 <p>7. Jean Beatz & Jegers – Koe</p>
 <p>8. Bob Marley x LVNDSCAPE & Bolier – Is This Love</p>
-<p>9. Kaskade & Felix Cartal feat. Ofelia K – Fakin It</p>
+<p>9. Kaskade & Felix Cartal ft. Ofelia K – Fakin It</p>
 <p>10. Jay Karama – Keep Calm</p>
 <p>11. Joachim Garraud & A Girl and A Gun – The Witch Is Dead (Vion Konger Remix)</p>
 <p>12. Rootkit – Strung Out</p>
 <p>13. R3hab – Sakura</p>
 <p>14. Skitzofrenix – Respek Di Woman (Out of Cookies Remix)</p>
-<p>15. Moguai feat. Tom Cane – You'll See Me (CALVO Remix)</p>
+<p>15. Moguai ft. Tom Cane – You'll See Me (CALVO Remix)</p>
 <p>16. Sidney Samson & Eva Simons – Escape From Love</p>
 <p>17. Alan Walker – Sing Me to Sleep</p> ]]>
 </description>
-<itunes:image href="http://ia601502.us.archive.org/13/items/PhaseFlow42/logo_42.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow42/logo_42.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601502.us.archive.org/13/items/PhaseFlow42/PhaseFlow42.mp3"
+  url="http://archive.org/download/PhaseFlow42/PhaseFlow42.mp3"
   length="57647104"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow42.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow42/PhaseFlow42.mp3</guid>
 <pubDate>Sat, 11 Jun 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item>  
@@ -4351,32 +4351,32 @@ Teddme played:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 41</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. VINAI feat. Anjulie – Into The Fire</p>
-<p>2. Rain Man feat. OLY – Bring Back The Summer (Arpex Remix)</p>
+<p>1. VINAI ft. Anjulie – Into The Fire</p>
+<p>2. Rain Man ft. OLY – Bring Back The Summer (Arpex Remix)</p>
 <p>3. MOTi – Louder</p>
 <p>4. KIIDA – Balangala (Afrojack Edit)</p>
 <p>5. Mathieu Koss – Need Your Lovin'</p>
 <p>6. Snavs & Fabian Mazur – Exhale</p>
-<p>7. DVDG feat. Frae – Need U</p>
-<p>8. Madden – Golden Light (feat. 6AM)</p>
+<p>7. DVDG ft. Frae – Need U</p>
+<p>8. Madden ft. 6AM – Golden Light</p>
 <p>9. Laidback Luke & Mike Cervello – Front 2 the Back</p>
 <p>10. Seth Hills – Raise Your Hands</p>
-<p>11. Lush & Simon X Carta Feat. Funkz – Th3 0ne</p>
-<p>12. Patrick Hagenaar feat. Sweedish – Disarm</p>
+<p>11. Lush & Simon X Carta ft. Funkz – Th3 0ne</p>
+<p>12. Patrick Hagenaar ft. Sweedish – Disarm</p>
 <p>13. Quintino & Cheat Codes – Can't Fight It</p>
 <p>14. Leroy Styles – Can't Let Go</p>
-<p>15. John Dahlback feat. Bullysongs – Walking With Shadows</p>
-<p>16. Syn Cole feat. Madame Buttons – The Daze (Cheat Codes Remix)</p>
+<p>15. John Dahlback ft. Bullysongs – Walking With Shadows</p>
+<p>16. Syn Cole ft. Madame Buttons – The Daze (Cheat Codes Remix)</p>
 <p>17. Pete Sabo & Who Knows – Like This (Sharam Jey Edit)</p> ]]>
 </description>
-<itunes:image href="http://ia601908.us.archive.org/21/items/phaseflow41/logo_41.jpg" />
+<itunes:image href="http://archive.org/download/phaseflow41/logo_41.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601908.us.archive.org/21/items/phaseflow41/PhaseFlow41.mp3"
+  url="http://archive.org/download/phaseflow41/PhaseFlow41.mp3"
   length="54913756"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow41.mp3</guid>
+<guid>http://archive.org/download/phaseflow41/PhaseFlow41.mp3</guid>
 <pubDate>Sat, 04 Jun 2016 17:00:00 GMT</pubDate>
 <itunes:duration>57:10</itunes:duration>
 </item>   
@@ -4391,10 +4391,10 @@ Teddme played:<br>
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 40 + FUNKYBEAT Guest Mix</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. Aaron Jackson feat. Megan Hamilton – Told You So</p>
+<p>1. Aaron Jackson ft. Megan Hamilton – Told You So</p>
 <p>2. Lucas & Steve – Can't Get Enough</p>
 <p>3. AmThat – Pull Up</p>
-<p>4. Don Diablo feat. DYU – Drifter</p>
+<p>4. Don Diablo ft. DYU – Drifter</p>
 <p>5. Skitzofrenix – Together</p>
 <p>6. Sergey Smile – I Ain't Going Back</p>
 <p>7. BURNS – Run Things</p>
@@ -4412,15 +4412,15 @@ Teddme played:<br>
 <p>17. Etta Matters & MAXIMALS – Glory</p>
 <p>18. Corey James vs Rob & Jack – Freak</p> ]]>
 </description>
-<itunes:image href="http://ia601500.us.archive.org/0/items/PhaseFlow40/logo_40.jpg" />
+<itunes:image href="http://archive.org/download/PhaseFlow40/logo_40.jpg" />
 <itunes:keywords>
    i, am, eyemax, phaseflow, podcast, guestmix, funkybeat, live, progressive, electro, deep, house, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
 <enclosure
-  url="http://ia601500.us.archive.org/0/items/PhaseFlow40/PhaseFlow40.mp3"
+  url="http://archive.org/download/PhaseFlow40/PhaseFlow40.mp3"
   length="151758039"
   type="audio/mpeg" />
-<guid>http://www.phaseflow.ru/PhaseFlow40.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow40/PhaseFlow40.mp3</guid>
 <pubDate>Sat, 28 May 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:03:12</itunes:duration>
 </item>
@@ -4430,7 +4430,7 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 39</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 39</p><br>
@@ -4438,30 +4438,30 @@ Teddme played:<br>
 
 <p>1. Goja – Mosh Pit</p>
 <p>2. Kaaze – Overrunning (Fuero Remix)</p>
-<p>3. Martin Solveig feat. Tkay Maidza – Do It Right</p>
+<p>3. Martin Solveig ft. Tkay Maidza – Do It Right</p>
 <p>4. Blasterjaxx – Silmarillia</p>
 <p>5. Robby East – Can't Get Over You</p>
 <p>6. BLR – NUNGWI</p>
 <p>7. Madison Mars – Doppler</p>
 <p>8. Gorgon City – Doubts</p>
-<p>9. KREAM feat. Mark Asari – Another Life</p>
+<p>9. KREAM ft. Mark Asari – Another Life</p>
 <p>10. Qulinez – Hold Me Now</p>
 <p>11. twoloud – Boston (twoloud & Denine Edit)</p>
 <p>12. R3hab & Quintino – Freak (Sam Feldt Remix)</p>
 <p>13. Lincoln Jesser – Time Will Tell</p>
 <p>14. LVNDSCAPE & Cheat Codes – Fed Up</p>
-<p>15. Inpetto & Johnny Bravo feat. Kelli Leigh – U Got A Friend</p>
+<p>15. Inpetto & Johnny Bravo ft. Kelli Leigh – U Got A Friend</p>
 <p>16. Flatdisk – Just Gotta Have It</p>
 <p>17. Plastik Funk – Love & Affection</p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia601507.us.archive.org/33/items/PhaseFlow39/logo_39.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow39/logo_39.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601507.us.archive.org/33/items/PhaseFlow39/PhaseFlow39.mp3"
+  url="http://archive.org/download/PhaseFlow39/PhaseFlow39.mp3"
   length="57648882"
   type="audio/mpeg" />
-<guid>http://ia601507.us.archive.org/33/items/PhaseFlow39/PhaseFlow39.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow39/PhaseFlow39.mp3</guid>
 <pubDate>Sat, 21 May 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4471,7 +4471,7 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 38</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 38</p><br>
@@ -4494,15 +4494,15 @@ Teddme played:<br>
 <p>16. Wanbs – Rebirth</p>
 <p>17. Swanky Tunes & Going Deeper – Drownin'</p>
 <p>18. Muzzaik & Stadiumx – So Much Love</p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia801506.us.archive.org/12/items/PhaseFlow38/logo_38.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow38/logo_38.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia801506.us.archive.org/12/items/PhaseFlow38/PhaseFlow38.mp3"
+  url="http://archive.org/download/PhaseFlow38/PhaseFlow38.mp3"
   length="57632498"
   type="audio/mpeg" />
-<guid>http://ia801506.us.archive.org/12/items/PhaseFlow38/PhaseFlow38.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow38/PhaseFlow38.mp3</guid>
 <pubDate>Sat, 14 May 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4512,7 +4512,7 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 37</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 37</p><br>
@@ -4523,25 +4523,25 @@ Teddme played:<br>
 <p>4. Eiffel 65 – Blue (Da Ba Dee) (Boostedkids & Monkey Bros Remix) [13:10]</p>
 <p>5. Akami & FUNKYBEAT – BTF Back [17:30]</p>
 <p>6. Loge21 – Drop That [20:50]</p>
-<p>7. What So Not & GANZ – Lone feat. JOY. [24:20]</p>
+<p>7. What So Not & GANZ – Lone ft. JOY. [24:20]</p>
 <p>8. Toby Green – Everytime [28:05]</p>
 <p>9. KURA – Bounce [30:40]</p>
 <p>10. Alan Walker – Faded (Kryder & Tom Staar Remix) [34:00]</p>
 <p>11. Phats & Small – Turn Around (Calvo Remix) [38:00]</p>
-<p>12. Lost Kings feat. Katelyn Tarver – You (Crankdat Remix) [42:10]</p>
+<p>12. Lost Kings ft. Katelyn Tarver – You (Crankdat Remix) [42:10]</p>
 <p>13. Galantis – No Money (MOTi Remix) [46:00]</p>
-<p>14. Headhunterz feat. KiFi – Live Before We Die (Crystal Lake Remix) [50:00]</p>
-<p>15. Afrojack & Laidback Luke feat. Hawkboy – Move To The Sound [53:40]</p>
-<p>16. Eva Shaw feat. Mally Mall & Sonny Wilson – U [56:55]</p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia601501.us.archive.org/13/items/PhaseFlow37/logo_37.jpg" />
+<p>14. Headhunterz ft. KiFi – Live Before We Die (Crystal Lake Remix) [50:00]</p>
+<p>15. Afrojack & Laidback Luke ft. Hawkboy – Move To The Sound [53:40]</p>
+<p>16. Eva Shaw ft. Mally Mall & Sonny Wilson – U [56:55]</p> ]]>
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow37/logo_37.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601501.us.archive.org/13/items/PhaseFlow37/PhaseFlow37.mp3"
+  url="http://archive.org/download/PhaseFlow37/PhaseFlow37.mp3"
   length="57701633"
   type="audio/mpeg" />
-<guid>http://ia601501.us.archive.org/13/items/PhaseFlow37/PhaseFlow37.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow37/PhaseFlow37.mp3</guid>
 <pubDate>Sat, 07 May 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4551,7 +4551,7 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 36: Love Party</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 36: Love Party Mix</p><br>
@@ -4563,25 +4563,25 @@ Teddme played:<br>
 <p>5. Tritonal – Rewind [13:35]</p>
 <p>6. Merk & Kremont vs. Sunstars – Eyes [17:35]</p>
 <p>7. Mark Villa – Venture [20:15]</p>
-<p>8. Cuebrick & APEK feat. Linney – Safe (Breathe Carolina Edit) [23:30]</p>
+<p>8. Cuebrick & APEK ft. Linney – Safe (Breathe Carolina Edit) [23:30]</p>
 <p>9. JackLNDN & Fabich – Without You [26:55]</p>
 <p>10. Junior J – I Need To Know [30:45]</p>
-<p>11. Sleepy Tom feat. Tonye – Seeing Double [34:30]</p>
+<p>11. Sleepy Tom ft. Tonye – Seeing Double [34:30]</p>
 <p>12. Bougenvilla & Out of Cookies – Break It Down [37:30]</p>
-<p>13. Shoffy feat. Lincoln Jesser – Takes My Body Higher [40:45]</p>
+<p>13. Shoffy ft. Lincoln Jesser – Takes My Body Higher [40:45]</p>
 <p>14. Calvin Harris & Rihanna – This Is What You Came For [44:50]</p>
-<p>15. Cash Cash – How To Love feat. Sofia Reyes [48:28]</p>
-<p>16. Twenty Feet Down feat. Adana – The Power of Your Love [52:35]</p>
+<p>15. Cash Cash – How To Love ft. Sofia Reyes [48:28]</p>
+<p>16. Twenty Feet Down ft. Adana – The Power of Your Love [52:35]</p>
 <p>17. Tommy Trash – Luv U Giv (NGHTMRE Remix) [56:00]</p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia601501.us.archive.org/7/items/PhaseFlow36/logo_36.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow36/logo_36.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601501.us.archive.org/7/items/PhaseFlow36/PhaseFlow36.mp3"
+  url="http://archive.org/download/PhaseFlow36/PhaseFlow36.mp3"
   length="57646584"
   type="audio/mpeg" />
-<guid>http://ia601501.us.archive.org/7/items/PhaseFlow36/PhaseFlow36.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow36/PhaseFlow36.mp3</guid>
 <pubDate>Sat, 30 Apr 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4591,12 +4591,12 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 35</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 35</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. The Magician feat. Brayton Bowman – SHY (Club Mix) </p>
+<p>1. The Magician ft. Brayton Bowman – SHY (Club Mix) </p>
 <p>2. Tim Gartz – Uptown Girl (Nick Havsen Extended Remix) [05:50]</p>
 <p>3. Fox Stevenson – Hello [10:00]</p>
 <p>4. DJ Kuba & Neitan – Drop The Beat [13:30]</p>
@@ -4605,22 +4605,22 @@ Teddme played:<br>
 <p>7. Swanky Tunes & Far East Movement – Entertain Us [24:00]</p>
 <p>8. Funkflow. – Don't Fake The Funk. [27:25]</p>
 <p>9. King Arthur & TRM – Talking About Love [30:50]</p>
-<p>10. Firebeatz & Chocolate Puma feat. Bishøp – Lullaby [35:00]</p>
+<p>10. Firebeatz & Chocolate Puma ft. Bishøp – Lullaby [35:00]</p>
 <p>11. Sikdope – Snakes [39:25]</p>
-<p>12. Sigala feat. John Newman & Nile Rodgers – Give Me Your Love [43:00]</p>
-<p>13. The Aston Shuffle feat. Nathaniel S Lewis – Only 1 [47:05]</p>
+<p>12. Sigala ft. John Newman & Nile Rodgers – Give Me Your Love [43:00]</p>
+<p>13. The Aston Shuffle ft. Nathaniel S Lewis – Only 1 [47:05]</p>
 <p>14. Kaskade & CID – Us (Frankie Shakes Remix) [51:48]</p>
 <p>15. Joel Fletcher ft. Miracle – Mufasa (Tom Budin Remix) [55:55]</p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia601509.us.archive.org/26/items/PhaseFlow35/logo_35.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow35/logo_35.jpg" />
 <itunes:keywords>
    i, am, eyemax, phaseflow, podcast, live, progressive, electro, deep, house, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
 <enclosure
-  url="http://ia601509.us.archive.org/26/items/PhaseFlow35/PhaseFlow35.mp3"
+  url="http://archive.org/download/PhaseFlow35/PhaseFlow35.mp3"
   length="57638912"
   type="audio/mpeg" />
-<guid>http://ia601509.us.archive.org/26/items/PhaseFlow35/PhaseFlow35.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow35/PhaseFlow35.mp3</guid>
 <pubDate>Sat, 23 Apr 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:00</itunes:duration>
 </item> 
@@ -4630,7 +4630,7 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 34</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 34</p><br>
@@ -4639,10 +4639,10 @@ Teddme played:<br>
 <p>2. Lush & Simon x Paris & Simo – NY 2 LA (VIP Mix) [04:10]</p>
 <p>3. Julian Jordan – Pilot [07:25]</p>
 <p>4. Maestro Harrell & Maurice West – Poseidon [10:30]</p>
-<p>5. Don Diablo – Silence (feat. Dave Thomas Junior) [13:35]</p>
-<p>6. The Chainsmokers feat. Daya – Don't Let Me Down (W&W Remix) [16:53]</p>
+<p>5. Don Diablo ft. Dave Thomas Junior – Silence [13:35]</p>
+<p>6. The Chainsmokers ft. Daya – Don't Let Me Down (W&W Remix) [16:53]</p>
 <p>7. Debris – Game Over [20:00]</p>
-<p>8. Thomas Newson & Asonn feat. Brad Mair – Home Is Where The Heart Is [23:20]</p>
+<p>8. Thomas Newson & Asonn ft. Brad Mair – Home Is Where The Heart Is [23:20]</p>
 <p>9. Jack Wins – Give It Up (Sultan + Shepard Remix) [27:00]</p>
 <p>10. Jay Hardway – Stardust [31:35]</p>
 <p>11. Vigel – Bounce To The Rhythm (Sandro Silva Edit) [36:00]</p>
@@ -4651,15 +4651,15 @@ Teddme played:<br>
 <p>14. Croatia Squad & Lika Morgan – Make Your Move [47:30]</p>
 <p>15. Sam Feldt – Been A While (Madison Mars Remix) [52:10]</p>
 <p>16. Tony Junior – Facedbased [55:25]</p>  ]]>
-</itunes:summary>
-<itunes:image href="http://ia601500.us.archive.org/14/items/PhaseFlow34/logo_34.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow34/logo_34.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure
-  url="http://ia601500.us.archive.org/14/items/PhaseFlow34/PhaseFlow34.mp3"
+  url="http://archive.org/download/PhaseFlow34/PhaseFlow34.mp3"
   length="56553472"
   type="audio/mpeg" />
-<guid>http://ia601500.us.archive.org/14/items/PhaseFlow34/PhaseFlow34.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow34/PhaseFlow34.mp3</guid>
 <pubDate>Sat, 16 Apr 2016 10:00:00 GMT</pubDate>
 <itunes:duration>58:51</itunes:duration>
 </item>  
@@ -4669,21 +4669,21 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 33</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 33</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Michael Calfan – Brothers</p>
-<p>2. Zonderling feat. Bishøp – Keep On (03:25)</p>
-<p>3. Tritonal feat. Steph Jones – Blackout (Madison Mars Remix) (07:30)</p>
+<p>2. Zonderling ft. Bishøp – Keep On (03:25)</p>
+<p>3. Tritonal ft. Steph Jones – Blackout (Madison Mars Remix) (07:30)</p>
 <p>4. Hardwell & KURA – Calavera (11:30)</p>
-<p>5. Lucky Charmes feat. Da Professor – Ready (14:50)</p>
+<p>5. Lucky Charmes ft. Da Professor – Ready (14:50)</p>
 <p>6. Decoy! – Look Around (18:15) </p>
-<p>7. Gregor Salto & Wiwek feat. Stush – How It Goes (21:45)</p>
+<p>7. Gregor Salto & Wiwek ft. Stush – How It Goes (21:45)</p>
 <p>8. TWIIG – Hero (24:35)</p>
-<p>9. Vicetone feat. Raja Kumari – Don't You Run (28:40)</p>
-<p>10. KSHMR feat. Sidnie Tipton – Wild Card (31:30)</p>
+<p>9. Vicetone ft. Raja Kumari – Don't You Run (28:40)</p>
+<p>10. KSHMR ft. Sidnie Tipton – Wild Card (31:30)</p>
 <p>11. Loopers – Going In (35:20)</p>
 <p>12. twoloud – Affected (Loge21 Remix) (39:00)</p>
 <p>13. Swanky Tunes – Give It (42:55)</p>
@@ -4691,15 +4691,15 @@ Teddme played:<br>
 <p>15. Jonas Aden – Young God (50:00)</p>
 <p>16. Tommy Trash – Body Movin (Wax Motif Remix) (53:30)</p>
 <p>17. Tiga – Make Me Fall In Love (Tiga vs Audion Pop Version) (57:50)</p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia601509.us.archive.org/15/items/PhaseFlow33/logo_33.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow33/logo_33.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure 
-    url="http://ia601509.us.archive.org/15/items/PhaseFlow33/PhaseFlow33.mp3" 
+    url="http://archive.org/download/PhaseFlow33/PhaseFlow33.mp3" 
     length="144739176" 
     type="audio/mpeg" />
-<guid>http://ia601509.us.archive.org/15/items/PhaseFlow33/PhaseFlow33.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow33/PhaseFlow33.mp3</guid>
 <pubDate>Sat, 09 Apr 2016 15:00:00 GMT</pubDate>
 <itunes:duration>01:00:16</itunes:duration>
 </item>
@@ -4711,36 +4711,36 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 32</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 32</p><br>
 <p><strong>Tracklist:</strong></p>
 <p> 1. R3hab & Quintino – Freak (VIP Remix) </p>
 <p> 2. Yves Larock & LVNDSCAPE – Rise Up 2k16  (04:15) </p>
-<p> 3. Plastik Funk feat. Sapele – Here We Go  (08:50) </p>
+<p> 3. Plastik Funk ft. Sapele – Here We Go  (08:50) </p>
 <p> 4. Matisse & Sadko ft. Titus – Get Busy   (12:33) </p>
 <p> 5. Fraanklyn – Frequency  (15:03) </p>
 <p> 6. Ummet Ozcan – Spacecats (18:50) </p>
 <p> 7. Suspect 44 – Black & White (22:55) </p>
 <p> 8. Fabich – One, Two (26:33) </p>
 <p> 9. Galantis – No Money (31:00) </p>
-<p> 10. L'Tric – 1994 Feat. Miles Graham (Odd Mob Remix) (34:44) </p>
-<p> 11. JETFIRE & Qulinez feat. Karmatek – I Feel (38:50) </p>
+<p> 10. L'Tric – 1994 ft. Miles Graham (Odd Mob Remix) (34:44) </p>
+<p> 11. JETFIRE & Qulinez ft. Karmatek – I Feel (38:50) </p>
 <p> 12. Blasterjaxx & Breathe Carolina – Soldier (42:30) </p>
 <p> 13. Jauz x Eptic – Get Down (47:00) </p>
 <p> 14. Bob Sinclar – Someone Who Needs Me (51:20) </p>
 <p> 15. Dimitri Vegas & Like Mike vs W&W – Arcade (Magic Wand Remix) (53:55) </p>
 <p> 16. Bougenvilla – Sunshower (57:00) </p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia601501.us.archive.org/16/items/PhaseFlow32/logo_32.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow32/logo_32.jpg" />
 <itunes:keywords>
    house, future house, deep house, progressive house, future house, trap</itunes:keywords>
 <enclosure 
-    url="http://ia601501.us.archive.org/16/items/PhaseFlow32/PhaseFlow32.mp3" 
+    url="http://archive.org/download/PhaseFlow32/PhaseFlow32.mp3" 
     length="145286063" 
     type="audio/mpeg" />
-<guid>http://ia601501.us.archive.org/16/items/PhaseFlow32/PhaseFlow32.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow32/PhaseFlow32.mp3</guid>
 <pubDate>Sat, 02 Apr 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:31</itunes:duration>
 </item> 
@@ -4750,20 +4750,20 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 31</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 31</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>1. DVBBS & Shaun Frank feat. Delaney Jane – La La Land </p>
+<p>1. DVBBS & Shaun Frank ft. Delaney Jane – La La Land </p>
 <p>2. Netsky & Jauz – Higher (04:16)</p>
 <p>3. KAAZE – Tell Me (07:45)</p>
 <p>4. Steff da Campo – Get Busy (11:30)</p>
-<p>5. Seven Lions feat. Lights – Falling Away (Festival Mix) (15:05)</p>
+<p>5. Seven Lions ft. Lights – Falling Away (Festival Mix) (15:05)</p>
 <p>6. Klosman & Damien N-Drix – Bzzz (19:06)</p>
 <p>7. Nom De Strip – Juno (22:35)</p>
-<p>8. Tom Budin Feat. Stevyn – Mirrors (25:45)</p>
-<p>9. Calvo feat. Gigi – Made For Us (29:00)</p>
+<p>8. Tom Budin ft. Stevyn – Mirrors (25:45)</p>
+<p>9. Calvo ft. Gigi – Made For Us (29:00)</p>
 <p>10. Bobby Rock – Get Up On This (32:45)</p>
 <p>11. Birdy – Keeping Your Head Up (Jonas Blue Radio Remix) (37:00)</p>
 <p>12. Mike Mago & Leon Lour – Higher (39:45)</p>
@@ -4771,13 +4771,13 @@ Teddme played:<br>
 <p>14. Vush & Gil Sanders X Dark Drake – Reverse (46:52)</p>
 <p>15. NOVKA – Lethal (49:05)</p>
 <p>16. Paul Vinx – Troublemaker (53:45)</p> ]]>
-</itunes:summary>
-<itunes:image href="http://ia601504.us.archive.org/33/items/PhaseFlow31/logo_31.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow31/logo_31.jpg" />
 <enclosure 
-    url="http://ia601504.us.archive.org/33/items/PhaseFlow31/PhaseFlow31.mp3" 
+    url="http://archive.org/download/PhaseFlow31/PhaseFlow31.mp3" 
     length="137686332" 
     type="audio/mpeg" />
-<guid>http://ia601504.us.archive.org/33/items/PhaseFlow31/PhaseFlow31.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow31/PhaseFlow31.mp3</guid>
 <pubDate>Sat, 26 Mar 2016 17:00:00 GMT</pubDate>
 <itunes:duration>57:20</itunes:duration>
 </item> 
@@ -4787,35 +4787,35 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 30</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[ 
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 30</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>1. Keanu Silva – Children </p>
-<p>2. Tujamo – Drop That Low (When I Dip) /04:40/ </p>
-<p>3. Calvin Harris Ft. Ellie Goulding – I Need Your Love (Rasheed D3RaR bootleg) /08:30/ </p>
-<p>4. Dannic feat. Aïrto – Light The Sky /12:40/ </p>
-<p>5. Reylax & SAG – Phoenix (Extended Mix) /15:58/ </p>
-<p>6. R3hab & BURNS – Near Me /19:40/ </p>
-<p>7. Christopher Damas ft. Kate Wild – TITAN /23:16/ </p>
-<p>8. Matroda – Chronic (Royal Blue Remix) /26:05/ </p>
-<p>9. Nurettin Colak – Snorlax /29:47/ </p>
-<p>10. Tiesto & Oliver Heldens – The Right Song (Mike Williams Remix) /33:24/ </p>
-<p>11. Andy Bianchini – Hold U /37:30/ </p>
-<p>12. SHLT – Ambush /41:15/ </p>
-<p>13. L'Tric – 1994 (feat. Miles Graham) [Don Diablo Edit] /44:50/ </p>
-<p>14. Going Deeper feat. Joshua Khane – Breathin /48:35/ </p>
-<p>15. Headhunterz – Live Before We Die (feat. KiFi) /51:45/ </p>
-<p>16. San Holo feat. the Nicholas – They Just Haven't Seen It /55:05/ </p>  
+<p>2. Tujamo – Drop That Low (When I Dip) [04:40]</p>
+<p>3. Calvin Harris Ft. Ellie Goulding – I Need Your Love (Rasheed D3RaR bootleg) [08:30]</p>
+<p>4. Dannic ft. Aïrto – Light The Sky [12:40]</p>
+<p>5. Reylax & SAG – Phoenix (Extended Mix) [15:58]</p>
+<p>6. R3hab & BURNS – Near Me [19:40]</p>
+<p>7. Christopher Damas ft. Kate Wild – TITAN [23:16]</p>
+<p>8. Matroda – Chronic (Royal Blue Remix) [26:05]</p>
+<p>9. Nurettin Colak – Snorlax [29:47]</p>
+<p>10. Tiesto & Oliver Heldens – The Right Song (Mike Williams Remix) [33:24]</p>
+<p>11. Andy Bianchini – Hold U [37:30]</p>
+<p>12. SHLT – Ambush [41:15]</p>
+<p>13. L'Tric ft. Miles Graham – 1994 (Don Diablo Edit) [44:50]</p>
+<p>14. Going Deeper ft. Joshua Khane – Breathin [48:35]</p>
+<p>15. Headhunterz ft. KiFi – Live Before We Die [51:45]</p>
+<p>16. San Holo ft. the Nicholas – They Just Haven't Seen It [55:05]</p>  
    ]]>
-</itunes:summary>
-<itunes:image href="http://ia601502.us.archive.org/18/items/PhaseFlow30/logo_30.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow30/logo_30.jpg" />
 <enclosure 
-    url="http://ia601502.us.archive.org/18/items/PhaseFlow30/PhaseFlow30.mp3" 
+    url="http://archive.org/download/PhaseFlow30/PhaseFlow30.mp3" 
     length="143672107" 
     type="audio/mpeg" />
-<guid>http://ia601502.us.archive.org/18/items/PhaseFlow30/PhaseFlow30.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow30/PhaseFlow30.mp3</guid>
 <pubDate>Sat, 19 Mar 2016 16:30:00 GMT</pubDate>
 <itunes:duration>59:50</itunes:duration>
 </item>  
@@ -4825,7 +4825,7 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 29</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 29</p><br>
@@ -4834,26 +4834,26 @@ Teddme played:<br>
   2. W&W – How Many (04:30) <br>
   3. Tony Junior & Riggi & Piros – Make You Go (07:25)<br>
   4. CVNT5 – CVNT5 (10:00)<br>
-  5. Subshock & Evangelos – Vindictae (feat. M.I) (14:15)<br>
+  5. Subshock & Evangelos ft. M.I – Vindictae (14:15)<br>
   6. Juyen Sebulba – Hot Shower (17:15)<br>
   7. Autoerotique – AUH (20:15)<br>
-  8. Ale Q and Avedon feat. Jonathan Mendelsohn – Open My Eyes (Tom Swoon Edit) (22:55)<br>
-  9. Dirtcaps & Fight Clvb feat. Sanjin – Pun This (26:15)<br>
+  8. Ale Q and Avedon ft. Jonathan Mendelsohn – Open My Eyes (Tom Swoon Edit) (22:55)<br>
+  9. Dirtcaps & Fight Clvb ft. Sanjin – Pun This (26:15)<br>
   10. Futuristic Polar Bears & Maddix – Lynx (29:25)<br>
   11. Luca Debonaire – Keep This Party Rockin (32:30)<br>
   12. Inpetto – How We Used To Do (37:40)<br>
   13. Lucky Charmes – What's Up (41:25)<br>
   14. Mercer & Mightyfools – Drop It Low (45:35)<br>
   15. Johnny Glovez – Looking Sexy (49:00)<br>
-  16. Tritonal feat. Steph Jones – Blackout (52:55)<br>
-  17. Wiwek & Skrillex – Killa (feat. Elliphant) (57:13) ]]>
-</itunes:summary>
-<itunes:image href="http://ia601509.us.archive.org/0/items/PhaseFlow29/logo_29.jpg" />
+  16. Tritonal ft. Steph Jones – Blackout (52:55)<br>
+  17. Wiwek & Skrillex ft. Elliphant – Killa (57:13) ]]>
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow29/logo_29.jpg" />
 <enclosure 
-    url="http://ia601509.us.archive.org/0/items/PhaseFlow29/PhaseFlow29.mp3" 
+    url="http://archive.org/download/PhaseFlow29/PhaseFlow29.mp3" 
     length="144689259" 
     type="audio/mpeg" />
-<guid>http://ia601509.us.archive.org/0/items/PhaseFlow29/PhaseFlow29.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow29/PhaseFlow29.mp3</guid>
 <pubDate>Sat, 12 Mar 2016 17:00:00 GMT</pubDate>
 <itunes:duration>1:00:16</itunes:duration>
 </item> 
@@ -4864,7 +4864,7 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 28</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 28</p><br>
@@ -4876,22 +4876,22 @@ Teddme played:<br>
 5. The Voyagers & Aabel – Trunk Banger (13:30) <br>
 6. Plastik Funk, Strobe, Lazn feat Sapele – Tight (16:25) <br>
 7. Dyro & Loopers – Set Me Free (20:05) <br>
-8. Kyle Watson feat. Pop Art – Dont Talk (23:30) <br>
+8. Kyle Watson ft. Pop Art – Dont Talk (23:30) <br>
 9. Cooperated Souls – Don't Leave Me (28:10) <br>
 10. Roulsen – Time To Get Down (31:15) <br>
 11. Mercer – Opium (34:35) <br>
-12. Elephante Feat. Trouze & Damon Sharpe – Age Of Innocence (Crankdat Remix) (39:00) <br>
+12. Elephante ft. Trouze & Damon Sharpe – Age Of Innocence (Crankdat Remix) (39:00) <br>
 13. Funkin Matt – Elastic (43:30) <br>
 14. R3hab & Quintino – Freak (47:00) <br>
-15. Hardwell feat. Jake Reese – Run Wild (50:30) <br>
-16. KSHMR & Felix Snow feat. Madi – Touch (55:20)]]>
-</itunes:summary>
-<itunes:image href="http://ia601504.us.archive.org/8/items/PhaseFlow28/logo_28.jpg" />
+15. Hardwell ft. Jake Reese – Run Wild (50:30) <br>
+16. KSHMR & Felix Snow ft. Madi – Touch (55:20)]]>
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow28/logo_28.jpg" />
 <enclosure 
-    url="http://ia601504.us.archive.org/8/items/PhaseFlow28/PhaseFlow28.mp3" 
+    url="http://archive.org/download/PhaseFlow28/PhaseFlow28.mp3" 
     length="141602816" 
     type="audio/mpeg" />
-<guid>http://ia601504.us.archive.org/8/items/PhaseFlow28/PhaseFlow28.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow28/PhaseFlow28.mp3</guid>
 <pubDate>Sat, 05 Mar 2016 17:00:00 GMT</pubDate>
 <itunes:duration>58:58</itunes:duration>
 </item> 
@@ -4901,34 +4901,34 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 27: Anniversary Mix</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 27: Anniversary Mix</p><br>
 <p><strong>Tracklist:</strong></p>
-  1. Tom Ferro & Gil Sanders feat. Sean Declase – Sound Of Silence (00:48)
+  1. Tom Ferro & Gil Sanders ft. Sean Declase – Sound Of Silence (00:48)
   2. Autoerotique – Ratchet (05:08)
   3. Karim Mika – Sax (Afrojack Edit) (07:45)
-  4. Saint WKND feat. Inglsh – Lost (Runaway) (Matroda Remix) (11:20)
+  4. Saint WKND ft. Inglsh – Lost (Runaway) (Matroda Remix) (11:20)
   5. twoloud – Affected (16:07)
   6. Gregory Klosman & Askery – Thug Life (19:20)
   7. Mr. Belt & Wezol, Daser – Faith (23:40)
-  8. MOTi Feat. Nabiha – Turn Me Up (ViP Mix) (27:26)
+  8. MOTi ft. Nabiha – Turn Me Up (ViP Mix) (27:26)
   9. Chocolate Puma – Listen To The Talk (31:10)
   10. Tiesto & Oliver Heldens – The Right Song (Dillon Francis Remix) (35:17)
-  11. ZHU feat. Skrillex & THEY. – Working for It (Nomero Remix) (38:45)
-  12. Mark Sixma & Futuristic Polar Bears Feat. Amba Shepherd – Cupids Casualty (41:55)
-  13. Shelco Garcia & Teenwolf feat. Philly K – Blow Up (45:15)
+  11. ZHU ft. Skrillex & THEY. – Working for It (Nomero Remix) (38:45)
+  12. Mark Sixma & Futuristic Polar Bears ft. Amba Shepherd – Cupids Casualty (41:55)
+  13. Shelco Garcia & Teenwolf ft. Philly K – Blow Up (45:15)
   14. Darius & Finlay – Do It All Night (Michael Mind Remix) (47:45)
   15. Abel Ramos & Albert Neve – Let The Bass Be Louder (52:30)
   16. BURNS – Beauty Queen (57:00)]]>
-</itunes:summary>
-<itunes:image href="http://ia601506.us.archive.org/33/items/PhaseFlow27/logo_27.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow27/logo_27.jpg" />
 <enclosure 
-    url="http://ia601506.us.archive.org/33/items/PhaseFlow27/PhaseFlow27.mp3" 
+    url="http://archive.org/download/PhaseFlow27/PhaseFlow27.mp3" 
     length="144239897" 
     type="audio/mpeg" />
-<guid>http://ia601506.us.archive.org/33/items/PhaseFlow27/PhaseFlow27.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow27/PhaseFlow27.mp3</guid>
 <pubDate>Sun, 28 Feb 2016 17:00:00 GMT</pubDate>
 <itunes:duration>1:00:06</itunes:duration>
 </item>  
@@ -4938,14 +4938,14 @@ Teddme played:<br>
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 26</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 26</p><br>]]>
 Tracklist:
   1. Jack Wins – Give It Up
   2. Vato Gonzalez – Push Riddim
-  3. Sander Kleinenberg – We Rock It (feat. Dev)
+  3. Sander Kleinenberg ft. Dev – We Rock It
   4. Lucas &amp; Steve – Make It Righ
   5. Yolanda Be Cool &amp; DCUP – From Me To You
   6. Holl &amp; Rush vs. Avicii vs. Headhunterz &amp; Carnage – Wating For Radio (Holl &amp; Rush Mashup)
@@ -4954,19 +4954,19 @@ Tracklist:
   9. Quintino – Bad Man
   10. Garmiani – Bomb A Drop
   11. Ostblockschlampen – East Clintwood
-  12. DJ Enzo.ch – Electrified (ft. Becky)
-  13. JAGGS feat. Katt Niall – Diamonds
-  14. Ellie Goulding – Love Me Like You Do vs. Shaun Frank &amp; KSHMR feat. Delaney Jane – Heaven (KSHMR Remix) [EYEMVX Mashup]
+  12. DJ Enzo.ch ft. Becky – Electrified
+  13. JAGGS ft. Katt Niall – Diamonds
+  14. Ellie Goulding – Love Me Like You Do vs. Shaun Frank &amp; KSHMR ft. Delaney Jane – Heaven (KSHMR Remix) [EYEMVX Mashup]
   15. Firebeatz &amp; Schella – Dat Disco Swindle
   16. Billy Kenny &amp; Aaron Jackson – Right Here
   17. NIGHTOWLS X SAM F – SUS 
-</itunes:summary>
-<itunes:image href="http://ia601500.us.archive.org/5/items/PhaseFlow26/logo_26.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow26/logo_26.jpg" />
 <enclosure 
-    url="http://ia601500.us.archive.org/5/items/PhaseFlow26/PhaseFlow26.mp3" 
+    url="http://archive.org/download/PhaseFlow26/PhaseFlow26.mp3" 
     length="141890343" 
     type="audio/mpeg" />
-<guid>http://ia601500.us.archive.org/5/items/PhaseFlow26/PhaseFlow26.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow26/PhaseFlow26.mp3</guid>
 <pubDate>Sat, 20 Feb 2016 17:00:00 GMT</pubDate>
 <itunes:duration>59:06</itunes:duration>
 </item>   
@@ -4977,14 +4977,14 @@ Tracklist:
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 25: St.Valentine&apos;s Night Mix
 </itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 25: St.Valentine's Night Mix </p><br>]]>
 
 Tracklist:
   1. Cheat Codes &amp; Kris Kross Amsterdam – Sex
-  2. ODESZA – It&apos;s Only (feat. Zyra)
+  2. ODESZA ft. Zyra – It&apos;s Only
   3. Sam Feldt – Been A While
   4. Joe Stone &amp; Ferreck Dawn – Man Enough vs. Lady Bee ft. Rochelle – Return Of The Mack (Oliver Heldens Remix) [EYEMVX Mashup]
   5. Nora En Pure &amp; Redondo – I Got To Do
@@ -4993,20 +4993,20 @@ Tracklist:
   8. Sonic One – Punk! (twoloud Remix)
   9. Justin Mylo – Sweet &amp; Sour
   10. Bobby Rock – MeSoHorny
-  11. Katrin &amp; DJ Cross feat. Max&apos;C – I&apos;ll Be Loving You
+  11. Katrin &amp; DJ Cross ft. Max&apos;C – I&apos;ll Be Loving You
   12. Birdy – Keeping Your Head Up (Don Diablo Remix)
   13. Galantis – Louder Harder Better (Inpetto Remix)
   14. The Chainsmokers – NYC (Halogen Remix)
   15. Pep &amp; Rash – Love The One You&apos;re With
-  16. DVBBS feat. Dante Leon – Angel
+  16. DVBBS ft. Dante Leon – Angel
   17. Julian Calor – Revive
-</itunes:summary>
-<itunes:image href="http://ia601504.us.archive.org/6/items/PhaseFlow25/logo_25.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow25/logo_25.jpg" />
 <enclosure 
-    url="http://ia601504.us.archive.org/6/items/PhaseFlow25/PhaseFlow25.mp3" 
+    url="http://archive.org/download/PhaseFlow25/PhaseFlow25.mp3" 
     length="146242083" 
     type="audio/mpeg" />
-<guid>http://ia601504.us.archive.org/6/items/PhaseFlow25/PhaseFlow25.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow25/PhaseFlow25.mp3</guid>
 <pubDate>Sat, 13 Feb 2016 17:00:00 GMT</pubDate>
 <itunes:duration>01:00:51</itunes:duration>
 </item>    
@@ -5017,7 +5017,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 24</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 24</p><br>]]>
@@ -5027,25 +5027,25 @@ Tracklist:
   2. DJ Fresh x Erik Arbores – Elevator
   3. HITS &apos;O&apos; GOOD – Right Time
   4. The C90s – Shine a Light (Flight Facilities Remix)
-  5. Riton feat. Kah-lo – Rinse &amp; Repeat
+  5. Riton ft. Kah-lo – Rinse &amp; Repeat
   6. M-22 – Good To Be Loved (Chris Lake Remix)
   7. Pierce Fulton – No More (Pierce Fulton Remix)
   8. Matroda – Chronic
-  9. Goldfish – Heart Shaped Box feat. Julia Church
+  9. Goldfish – Heart Shaped Box ft. Julia Church
   10. Croatia Squad – The D Machine
   11. R3hab &amp; Ciara – Get Up (KSHMR Remix)
   12. Amplite – I Need You
   13. Bolier &amp; Mingue – Riverbank
-  14. Shaun Frank &amp; KSHMR feat. Delaney Jane – Heaven (Two Friends Remix)
+  14. Shaun Frank &amp; KSHMR ft. Delaney Jane – Heaven (Two Friends Remix)
   15. Bali Bandits – Mr. Meow
   16. CID – NO!
-</itunes:summary>
-<itunes:image href="http://ia601501.us.archive.org/22/items/PhaseFlow24/logo_24.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow24/logo_24.jpg" />
 <enclosure 
-    url="http://ia601501.us.archive.org/22/items/PhaseFlow24/PhaseFlow24.mp3" 
+    url="http://archive.org/download/PhaseFlow24/PhaseFlow24.mp3" 
     length="143021523" 
     type="audio/mpeg" />
-<guid>http://ia601501.us.archive.org/22/items/PhaseFlow24/PhaseFlow24.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow24/PhaseFlow24.mp3</guid>
 <pubDate>Sat, 06 Feb 2016 19:00:00 GMT</pubDate>
 <itunes:duration>59:36</itunes:duration>
 </item>  
@@ -5056,7 +5056,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 23</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 23</p><br>]]>
@@ -5070,21 +5070,21 @@ Tracklist:
   6. Inpetto – I Need To Know 
   7. Fraanklyn, Simon de Jano &amp; Madwill – Thug Life 
   8. Madison Mars – Milky Way 
-  9. Patrolla vs. Adamski feat. Seal – Killer (MOTi Remix) 
-  10. Mr FijiWiji feat. Danyka Nadeau – Yours Truly (Aaron Jackson Remix) 
+  9. Patrolla vs. Adamski ft. Seal – Killer (MOTi Remix) 
+  10. Mr FijiWiji ft. Danyka Nadeau – Yours Truly (Aaron Jackson Remix) 
   11. MRVLZ – Never 
   12. Akami &amp; Funkybeat – Skirts 
   13. Karim Mika &amp; Daniel Forster – Crunk (Afrojack Edit) 
   14. Sander Kleinenberg &amp; Felix Leiter – The One 
   15. Miike Snow – Genghis Khan (Hook N Sling Remix) 
   16. Case &amp; Point – Paradigm  
-</itunes:summary>
-<itunes:image href="http://ia601509.us.archive.org/28/items/PhaseFlow23/logo_23.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow23/logo_23.jpg" />
 <enclosure 
-    url="http://ia601509.us.archive.org/28/items/PhaseFlow23/PhaseFlow23.mp3" 
+    url="http://archive.org/download/PhaseFlow23/PhaseFlow23.mp3" 
     length="142937383" 
     type="audio/mpeg" />
-<guid>http://ia601509.us.archive.org/28/items/PhaseFlow23/PhaseFlow23.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow23/PhaseFlow23.mp3</guid>
 <pubDate>Sun, 31 Jan 2016 19:00:00 GMT</pubDate>
 <itunes:duration>59:32</itunes:duration>
 </item>    
@@ -5095,7 +5095,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 22</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 22</p><br>]]>
@@ -5103,13 +5103,13 @@ Tracklist:
   Tracklist:
   1. John Dahlback – Ain&apos;t You 
   2. Adele – Hello (Marshmello Remix) 
-  3. Flume feat. Kai – Never Be Like You 
-  4. EDX feat. Mingue – Missing 
+  3. Flume ft. Kai – Never Be Like You 
+  4. EDX ft. Mingue – Missing 
   5. Crossnaders &amp; Tom Ferro – Terror 
   6. Ummet Ozcan – Wake Up The Sun 
   7. M-22 – Good to Be Loved (KREAM Remix) 
   8. 7UBO – Futurama 
-  9. Housequake feat. Tyree Cooper – Beat Ur Body (Bobby Rock Remix) 
+  9. Housequake ft. Tyree Cooper – Beat Ur Body (Bobby Rock Remix) 
   10. Dubvision – Sweet Harmony 
   11. Rootkit – Elevate 
   12. Nik Ernst – Think About It 
@@ -5117,14 +5117,14 @@ Tracklist:
   14. Gregori Hawk &amp; Antoine Delvig – Fump 
   15. AutoErotique – They Know 
   16. Jonas Aden – Temple 
-  17. Daddy&apos;s Groove &amp; Mindshake feat. Kris Kriss – WOW
-</itunes:summary>
-<itunes:image href="http://ia601507.us.archive.org/28/items/PhaseFlow22/logo_22.jpg" />
+  17. Daddy&apos;s Groove &amp; Mindshake ft. Kris Kriss – WOW
+</description>
+<itunes:image href="http://archive.org/download/PhaseFlow22/logo_22.jpg" />
 <enclosure 
-    url="http://ia601507.us.archive.org/28/items/PhaseFlow22/PhaseFlow22.mp3" 
+    url="http://archive.org/download/PhaseFlow22/PhaseFlow22.mp3" 
     length="140831892" 
     type="audio/mpeg" />
-<guid>http://ia601507.us.archive.org/28/items/PhaseFlow22/PhaseFlow22.mp3</guid>
+<guid>http://archive.org/download/PhaseFlow22/PhaseFlow22.mp3</guid>
 <pubDate>Fri, 22 Jan 2016 19:00:00 GMT</pubDate>
 <itunes:duration>58:40</itunes:duration>
 </item>    
@@ -5135,35 +5135,35 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 21</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 21</p><br>]]>
 
 Tracklist:
-  1. Major Lazer – Light It Up (Blinkie Remix) (feat. Nyla &amp; Fuse ODG)
-  2. Tank &amp; Cheetah X DBN feat. The Rise – Trust
+  1. Major Lazer ft. Nyla &amp; Fuse ODG – Light It Up (Blinkie Remix)
+  2. Tank &amp; Cheetah X DBN ft. The Rise – Trust
   3. Jay Cosmic &amp; Delora – Have It All
   4. Fedde Le Grand and Holl &amp; Rush – Feel Good
   5. SCNDL – Meant To Be
   6. Tiesto &amp; Tony Junior – Get Down
-  7. Martin Garrix – Bouncybob (feat. Justin Mylo &amp; Mesto)
+  7. Martin Garrix ft. Justin Mylo &amp; Mesto – Bouncybob
   8. Aaron Jackson Ft. Megan Hamilton – Golden Skin
   9. Torro Torro – Make a Move (Habstrakt Remix)
   10. Ephwurd – Bring It Back
   11. Prism x Funkz – Spacetunnel (Dyro Edit)
-  12. Damaged Goods feat. Voila Snow &amp; Paperwater – Leave Me Alone
+  12. Damaged Goods ft. Voila Snow &amp; Paperwater – Leave Me Alone
   13. Khrebto – The Mad Citizens
   14. Josef Salvat – Paradise (Endor Remix)
   15. NOMNOM – OK
   16. Heymen – Pounding Drum (Rivaz Remix)
-</itunes:summary>
-<itunes:image href="http://ia601505.us.archive.org/25/items/phaseflow21/logo_21.jpg" />
+</description>
+<itunes:image href="http://archive.org/download/phaseflow21/logo_21.jpg" />
 <enclosure 
-    url="http://ia601505.us.archive.org/25/items/phaseflow21/PhaseFlow21.mp3" 
+    url="http://archive.org/download/phaseflow21/PhaseFlow21.mp3" 
     length="138571778" 
     type="audio/mpeg" />
-<guid>http://ia601505.us.archive.org/25/items/phaseflow21/PhaseFlow21.mp3</guid>
+<guid>http://archive.org/download/phaseflow21/PhaseFlow21.mp3</guid>
 <pubDate>Fri, 15 Jan 2016 19:00:00 GMT</pubDate>
 <itunes:duration>57:43</itunes:duration>
 </item>  
@@ -5174,35 +5174,35 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 20: New Year Eve Mix</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 20: New Year Eve Mix</p><br>]]>
   Tracklist:
   1. Martin Solveig &amp; GTA – Intoxicated (Lucky Charmes Remix)
-  2. LVNDSCAPE &amp; Holland Park feat. Nico Santos – Waterfalls
+  2. LVNDSCAPE &amp; Holland Park ft. Nico Santos – Waterfalls
   3. Jauz &amp; Ephwurd – Rock The Party 
   4. LOOPERS – Grind
   5. Tchami – Afterlife
-  6. Laidback Luke &amp; GTA – The Chase (feat. Aruna)
+  6. Laidback Luke &amp; GTA ft. Aruna – The Chase
   7. Oliver Heldens &amp; Shaun Frank – Shades Of Grey (Nora En Pure Remix)
   8. Tiesto &amp; Oliver Heldens – Wombass (Original Mix)
-  9. Showtek &amp; Eva Shaw – N2U (ft. Martha Wash)
-  10. Don Diablo – I&apos;ll House You (feat. Jungle Brothers)?
+  9. Showtek &amp; Eva Shaw ft. Martha Wash – N2U
+  10. Don Diablo ft. Jungle Brothers – I&apos;ll House You
   11. Bougenvilla – Take It Back
   12. Pep &amp; Rash – Rumors
   13. Calvo – Need U
   14. Martin Garrix &amp; Tiesto – The Only Way Is Up
   15. Simon Valente – Stunnin&apos;
-  16. Botnek feat. Go Comet! – Tremors
+  16. Botnek ft. Go Comet! – Tremors
   17. Swanky Tunes &amp; Going Deeper – Far From Home
   18. Calvin Harris &amp; Disciples – How Deep Is Your Love 
-  19. Sam Feldt feat. Kimberly Anne – Show Me Love (EDX Indian Summer Remix)
+  19. Sam Feldt ft. Kimberly Anne – Show Me Love (EDX Indian Summer Remix)
   20. Ephwurd – Just Us
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF20.jpg" />
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF20.jpg" />
 <enclosure 
-    url="http://ia601906.us.archive.org/21/items/phaseflow20/PhaseFlow20.mp3" 
+    url="http://archive.org/download/phaseflow20/PhaseFlow20.mp3" 
     length="145520040" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow20/PhaseFlow20.mp3</guid>
@@ -5215,7 +5215,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 19</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 19</p><br>]]>
@@ -5227,13 +5227,13 @@ Tracklist:
   5. Mightyfools – Gangsta
   6. Major Lazer – Too Original (Slice N Dice Remix)
   7. JVST SAY YES &amp; Ephwurd – Switch
-  8. Project 46 – Signs (feat. Shantee) vs.Vicetone – Pitch Black (EYEMVX mashup)
+  8. Project 46 ft. Shantee – Signs vs.Vicetone – Pitch Black (EYEMVX mashup)
   9. Mike Hawkins &amp; Spencer Tarring – Burn The Maps
   10. Hotlife, Tomo Hirata &amp; Derek Hake – Got You (Fuero Remix)
   11. The Magician ft. Olly Alexander – Together (Lucas &amp; Steve Remix) 
   12. Vato Gonzalez &amp; Mucky – Violet Nights
-  13. Martin Solveig feat. Sam White – +1 (Loge21 Remix)
-  14. Hardwell &amp; Ti?sto feat. Andreas Moe – Colors (Vicetone Remix)
+  13. Martin Solveig ft. Sam White – +1 (Loge21 Remix)
+  14. Hardwell &amp; Ti?sto ft. Andreas Moe – Colors (Vicetone Remix)
   15. Keanu Silva – Pump Up The Jam
   16. Lucky Charmes – Fulfill
   17. Movenchy – Look At Me
@@ -5249,15 +5249,16 @@ Tracklist:
   27. Tony Romera – Zombie
   28. King Arthur &amp; Topher Jones – Talk About It
   29. Dropout – You Always Win
-  30. Tiesto &amp; Don Diablo feat. Thomas Troelsen – Chemicals (Wee-O Remix)
+  30. Tiesto &amp; Don Diablo ft. Thomas Troelsen – Chemicals (Wee-O Remix)
   31. Botnek &amp; I See MONSTAS – Deeper Love
   32. Scales – Love&apos;s Got Me High (Koncept Remix)
   33. Sigala – Sweet Lovin&apos; (Brookes Brothers Remix)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF19.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF19.jpg"/>
 <enclosure 
-    url="http://ia601906.us.archive.org/2/items/phaseflow19/PhaseFlow19.mp3" 
-    length="43758226" type="audio/mpeg" />
+    url="http://archive.org/download/phaseflow19/PhaseFlow19.mp3" 
+    length="43758226" 
+    type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow19/PhaseFlow19.mp3</guid>
 <pubDate>Sat, 19 Dec 2015 19:00:00 GMT</pubDate>
 <itunes:duration>01:25:18</itunes:duration>
@@ -5268,18 +5269,18 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 18: BIG</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 18: BIG</p><br>]]>
   Tracklist:
 
   1. Chris Lake &amp; Anna Lunoe – Stomper (Dr. Fresch Remix) 
-  2. Showtek &amp; Eva Shaw – N2U (ft. Martha Wash) 
+  2. Showtek &amp; Eva Shaw ft. Martha Wash – N2U 
   3. Bassjackers &amp; Reez – Rough
-  4. Hardwell feat. Mr Probz – Birds Fly (W&amp;W Festival Mix)
+  4. Hardwell ft. Mr Probz – Birds Fly (W&amp;W Festival Mix)
   5. Dropgun – Together As One 
-  6. JVST SAY YES feat. Dubloadz – Back To The Future 
+  6. JVST SAY YES ft. Dubloadz – Back To The Future 
   7. Club Cheval – Discipline
   8. KIIDA – Start
   9. Qulinez – Hookah
@@ -5289,25 +5290,25 @@ Tracklist:
   13. Apster &amp; NLW – Soundboy
   14. D.O.D. &amp; Futuristic Polar Bears – Why
   15. Yves V vs. Skytech &amp; Fafaq – Indigo (Original Mix)
-  16. RoulnDoors feat. Mr. V – How We Do It
-  17. Don Diablo – I&apos;ll House You (feat. Jungle Brothers)
+  16. RoulnDoors ft. Mr. V – How We Do It
+  17. Don Diablo ft. Jungle Brothers – I&apos;ll House You
   18. Jonas Aden &amp; Robie East – Fall Under Skies
   19. Inpetto – Lifting
-  20. Higher Self feat. Lurker – House Music Hustle
+  20. Higher Self ft. Lurker – House Music Hustle
   21. Tom Piper &amp; Wideboys – Vibe Nation
   22. Decoy! – All I Wanted
   23. Cedric Gervais – De Ja Vu
-  24. I Am Sam &amp; Archie feat. Sophia Brown – Together (Alex Preston Remix)
+  24. I Am Sam &amp; Archie ft. Sophia Brown – Together (Alex Preston Remix)
   25. BRKLYN – Steal Your Heart (Bougenvilla Remix)
   26. GYTLAZ – Space Voices
   27. Avicii – Broken Arrows (M22 Remix)
-  28. The Him feat. Son Mieux – Feels Like Home
+  28. The Him ft. Son Mieux – Feels Like Home
   29. The Aston Shuffle – High With You
-  30. On June feat. Tesity – The Devil&apos;s Tears (Sam Feldt Edit)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF18.jpg"/>
+  30. On June ft. Tesity – The Devil&apos;s Tears (Sam Feldt Edit)
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF18.jpg"/>
 <enclosure 
-    url="http://ia601908.us.archive.org/8/items/phaseflow18/PhaseFlow18.mp3" 
+    url="http://archive.org/download/phaseflow18/PhaseFlow18.mp3" 
     length="144954302" type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow18/PhaseFlow18.mp3</guid>
 <pubDate>Sat, 5 Dec 2015 19:00:00 GMT</pubDate>
@@ -5319,33 +5320,33 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 17</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
   <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 17</p><br>]]>
 
   Tracklist:
-  1. John Dish feat. Naika – You &amp; Me
+  1. John Dish ft. Naika – You &amp; Me
   2. Firebeatz – Tornado
   3. Niels van Gogh – Afropipe
-  4. Merk feat. Pete Wedge – Voices In The Night
-  5. No Mondays feat. Monstere – Let It Be You
-  6. Steve Angello feat. Gary Go – Prisoner
+  4. Merk ft. Pete Wedge – Voices In The Night
+  5. No Mondays ft. Monstere – Let It Be You
+  6. Steve Angello ft. Gary Go – Prisoner
   7. Sander van Doorn X Pep &amp; Rash – White Rabbit
   8. Kill FM – Fresh
-  9. John Dahlback feat. Alexx Mack – Count To Ten
+  9. John Dahlback ft. Alexx Mack – Count To Ten
   10. Gregori Klosman – Tell You ( Antoin Delvig Remix)
-  11. Zonderling feat. Bishop – Crazy For You 
+  11. Zonderling ft. Bishop – Crazy For You 
   12. Maiki Vanics – Vice 
   13. Swanky Tunes – Skin &amp; Bones (Going Deeper Remix)
   14. Sultan + Shepard X Felix Leiter – BWU
   15. Indifferent Guy &amp; Eva Pavlova – All Night Long
   16. The Avener – We Go Home (EDX&apos;s Paris At Night Remix)
-  17. 99 Souls feat. Destiny&apos;s Child &amp; Brandy – The Girl Is Mine
-  18. GTA – Goons</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF17.png"/>
+  17. 99 Souls ft. Destiny&apos;s Child &amp; Brandy – The Girl Is Mine
+  18. GTA – Goons</description>
+<itunes:image href="http://phaseflow.github.io/images/PF17.png"/>
 <enclosure 
-    url="http://ia801907.us.archive.org/24/items/phaseflow17/PhaseFlow17.mp3" 
+    url="http://archive.org/download/phaseflow17/PhaseFlow17.mp3" 
     length="124497654" type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow17/PhaseFlow17.mp3</guid>
 <pubDate>Sat, 21 Nov 2015 19:00:00 GMT</pubDate>
@@ -5357,7 +5358,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 16</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
   <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 16</p><br>]]>
@@ -5381,10 +5382,10 @@ Tracklist:
   16. EDX – Revered
   17. Anyma – Your Love
   18. Tchami – Untrue 
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF16.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF16.jpg"/>
 <enclosure 
-    url="http://ia601905.us.archive.org/30/items/phaseflow16/PhaseFlow16.mp3" 
+    url="http://archive.org/download/phaseflow16/PhaseFlow16.mp3" 
     length="113641852" type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow16/PhaseFlow16.mp3</guid>
 <pubDate>Sat, 7 Nov 2015 19:00:00 GMT</pubDate>
@@ -5396,7 +5397,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 15</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 15</p><br>]]>
@@ -5404,13 +5405,13 @@ Tracklist:
   1. Ephwurd – High On You
   2. Evangelos – VNGLS
   3. Mercer – Encore
-  4. Kaskade feat. llsey – Disarm You (Project 46 Mix)
-  5. Felix Jaehn feat. Lost Frequencies &amp; Linying – Eagle Eyes (Lucas &amp; Steve Remix)
+  4. Kaskade ft. llsey – Disarm You (Project 46 Mix)
+  5. Felix Jaehn ft. Lost Frequencies &amp; Linying – Eagle Eyes (Lucas &amp; Steve Remix)
   6. Tiesto &amp; Oliver Heldens – Wombass
-  7. Shaun Frank &amp; KSHMR – Heaven (feat. Delaney Jane)
+  7. Shaun Frank &amp; KSHMR ft. Delaney Jane – Heaven
   8. Swanky Tunes &amp; Going Deeper – Far From Home
   9. Gino G – Pepper
-  10. Nicky Night Time feat. Nat Dunn – Flowers
+  10. Nicky Night Time ft. Nat Dunn – Flowers
   11. Loge21 – So High
   12. Meramek – Know Me
   13. Skitzofrenix – Bounce
@@ -5418,10 +5419,10 @@ Tracklist:
   15. Kamaura – I Should Have Knew
   16. Passenger 10 – Give Me Joy (Me &amp; My Toothbrush Remix)
   17. Bolier &amp; Natalie Peris – Forever And A Day
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/logo_rmX.png"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/logo_rmX.png"/>
 <enclosure 
-    url="http://ia601906.us.archive.org/6/items/phaseflow15/PhaseFlow15.mp3" 
+    url="http://archive.org/download/phaseflow15/PhaseFlow15.mp3" 
     length="112870425" type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow15/PhaseFlow15.mp3</guid>
 <pubDate>Sat, 24 Oct 2015 19:00:00 GMT</pubDate>
@@ -5433,32 +5434,32 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 14</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 14</p><br>]]>
   Tracklist:
   1. Kill The Buzz &amp; Futuristic Polar Bears – Shake it Off
   2. DallasK – Kaya
-  3. Tank &amp; Cheetah – Luxury (feat. Niles Mason) [Shelco Garcia &amp; Teenwolf Remix]
+  3. Tank &amp; Cheetah ft. Niles Mason – Luxury (Shelco Garcia &amp; Teenwolf Remix)
   4. Jack Novak ft. Blackbear – If It Kills Me (Exit Friendzone Remix)
   5. Delayers – Make Them Bounce
   6. David Guetta &amp; GLOWINTHEDARK – Clap Your Hands
   7. Ralvero &amp; Jimmy Clash – Trivia
-  8. EPHWURD – Just Us (feat. Liinks)
+  8. EPHWURD ft. Liinks – Just Us
   9. Shaun Frank &amp; KSHMR – Heaven ft. Delaney Jane
   10. Bluckther – Higher
-  11. CID feat. Glenna – Love Is Blind
+  11. CID ft. Glenna – Love Is Blind
   12. Bodyrox – Yeah Yeah (Marc Benjamin x Lady Bee Bootleg)
   13. Philip George &amp; Anton Powers – Alone No More
-  14. Paul Harris – One Night Lover (DJ Tonka Remix) [feat. Dragonette]
-  15. Oliver Heldens &amp; Shaun Frank feat. Delaney Jane – Shades Of Grey (Nora En Pure Remix)
+  14. Paul Harris – One Night Lover (DJ Tonka Remix) [ft. Dragonette]
+  15. Oliver Heldens &amp; Shaun Frank ft. Delaney Jane – Shades Of Grey (Nora En Pure Remix)
   16. Clement Bcx – Miracle In The Middle Of My Heart
-  17. Stadiumx feat. Angelika Vee – Wonderland (NO_CTRL Tropical Remix)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/logo_rmX.png"/>
+  17. Stadiumx ft. Angelika Vee – Wonderland (NO_CTRL Tropical Remix)
+</description>
+<itunes:image href="http://phaseflow.github.io/images/logo_rmX.png"/>
 <enclosure 
-    url="http://ia601908.us.archive.org/27/items/phaseflow14/PhaseFlow14.mp3" 
+    url="http://archive.org/download/phaseflow14/PhaseFlow14.mp3" 
     length="115271504" type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow14/PhaseFlow14.mp3</guid>
 <pubDate>Sat, 10 Oct 2015 19:00:00 GMT</pubDate>
@@ -5470,7 +5471,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 13</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 13</p><br>]]>
@@ -5483,18 +5484,18 @@ Tracklist:
   6. Chocolate Puma &amp; Tommie Sunshine – Scrub The Ground ft. DJ Funk
   7. LATROIT – Everything Is Beautiful
   8. Kaskade ft. Ilsey – Disarm You (Autoerotique Remix)
-  9. Moguai feat. Cheat Codes – Hold On
+  9. Moguai ft. Cheat Codes – Hold On
   10. Jauz – Deeper Love
   11. Inpetto – Needing You So
   12. Diplo &amp; Sleepy Tom – Be Right There
   13. Camelphat – Haus
-  14. Going Deeper feat. Jacob A – The Fate
+  14. Going Deeper ft. Jacob A – The Fate
   15. Alex Session – Bread Rolls
   16. PPK – Resurrection
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF13.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF13.jpg"/>
 <enclosure 
-    url="http://ia601909.us.archive.org/28/items/phaseflow13/PhaseFlow13.mp3" 
+    url="http://archive.org/download/phaseflow13/PhaseFlow13.mp3" 
     length="131093283" type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow13/PhaseFlow13.mp3</guid>
 <pubDate>Sat, 26 Sep 2015 19:00:00 GMT</pubDate>
@@ -5506,32 +5507,32 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 12</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 12</p><br>]]>
 
   Tracklist:
-  1. Dzeko &amp; Torres feat. Delaney Jane – L&apos;Amour Toujours (Tiesto Edit)
+  1. Dzeko &amp; Torres ft. Delaney Jane – L&apos;Amour Toujours (Tiesto Edit)
   2. Dirtcaps x Tom Piper – Rudeboi (Daggers Remix)
   3. LOOPERS – Higher
   4. The Weeknd – Can&apos;t Feel My Face (Martin Garrix Club Mix)
-  5. KSHMR &amp; Bassjackers feat. Sirah – Memories
+  5. KSHMR &amp; Bassjackers ft. Sirah – Memories
   6. Aftershock – Octopus
   7. Klaas – I Don&apos;t Care (Dany Lorence Remix)
   8. Wax Motif – Krush Groove
   9. Alex Gaudino – I&apos;m Movin&apos; (Alex Gaudino &amp; Dyson Kellerman Mix)
   10. Stulp Fiction – Want Me
-  11. Botnek – Tremors Feat. Go Comet! (Kill FM Remix)
+  11. Botnek – Tremors ft. Go Comet! (Kill FM Remix)
   12. Moonbootica – June (Robby East Remix)
   13. Rita Ora – Poison (Lash Remix)
   14. Antonio Giacca – Going Crazy
-  15. SAINT WKND feat. INGLISH – Lost
+  15. SAINT WKND ft. INGLISH – Lost
   16. Nadia Ali &amp; PANG! – All In My Head
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF12.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF12.jpg"/>
 <enclosure 
-    url="http://ia601906.us.archive.org/32/items/phaseflow12/PhaseFlow12.mp3" 
+    url="http://archive.org/download/phaseflow12/PhaseFlow12.mp3" 
     length="120324249" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow12/PhaseFlow12.mp3</guid>
@@ -5544,7 +5545,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 11: The End Of The Summer Mix</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 11: The End Of The Summer Mix</p><br>]]>
@@ -5563,13 +5564,13 @@ Tracklist:
   12. Scott Forshaw &amp; Greg Stainer Ft. Brit Chick – Never Too Much
   13. Waterm?t &amp; Moguai – Portland
   14. Camelphat – Constellations
-  15. Sam Feldt feat. Kimberly Anne – Show Me Love (EDX Indian Summer Remix)
+  15. Sam Feldt ft. Kimberly Anne – Show Me Love (EDX Indian Summer Remix)
   16. Electricano – Believe Me
   17. Bee&apos;s Knees – Keeper
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF11.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF11.jpg"/>
 <enclosure 
-    url="http://ia601908.us.archive.org/2/items/phaseflow11/PhaseFlow11.mp3" 
+    url="http://archive.org/download/phaseflow11/PhaseFlow11.mp3" 
     length="138643411" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow11/PhaseFlow11.mp3</guid>
@@ -5582,13 +5583,13 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 10</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 10</p><br>]]>
   Tracklist:
   1. Tiesto &amp; The Chainsmokers – Split (Only U) 
-  2. Laidback Luke &amp; Moska feat. Terri B! – Get It Right
+  2. Laidback Luke &amp; Moska ft. Terri B! – Get It Right
   3. Inpetto ft. David Spekter – Learn to Fly
   4. John Dahlback – Raven
   5. Greg Downey &amp; Bo Bruce These Hands I Hold (Paul Oakenfold Remix) 
@@ -5596,7 +5597,7 @@ Tracklist:
   7. David Guetta &amp; Showtek – Sun Goes Down
   8. Matisse &amp; Sadko – Memories
   9. KVSH – Fated
-  10. Ephwurd – Duckface (feat. DKAY)
+  10. Ephwurd ft. DKAY – Duckface
   11. Fox Stevenson &amp; Curbi – Hoohah
   12. HI-LO – Wappy Flirt
   13. Bart B More – Want You So
@@ -5604,10 +5605,10 @@ Tracklist:
   15. The Egg – Walking Away (KLARDUST Remix) 
   16. Antonio Giacca – You Got the Love 
   17. Icona Pop – Emergency (King Arthur Remix)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF10.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF10.jpg"/>
 <enclosure 
-    url="http://ia601907.us.archive.org/26/items/phaseflow10/PhaseFlow10.mp3" 
+    url="http://archive.org/download/phaseflow10/PhaseFlow10.mp3" 
     length="140974701" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow10/PhaseFlow10.mp3</guid>
@@ -5623,34 +5624,34 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 09</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 09</p><br>]]>
 
   Tracklist: 
 
-  1. Botnek feat. Go Comet! – Tremors
-  2. Tommy Trash feat. JHart – Wake The Giant
+  1. Botnek ft. Go Comet! – Tremors
+  2. Tommy Trash ft. JHart – Wake The Giant
   3. Martin Garrix vs Matisse &amp; Sadko – Break Through The Silence
   4. Headhunterz ft. Raphaella – To Be Me [Shilo Edit]
-  5. Blinders feat. Charles – Always [3LAU Remix]
-  6. Blasterjaxx &amp; MOTi feat. Jonathan Mendelsohn – Ghost In The Machine
+  5. Blinders ft. Charles – Always [3LAU Remix]
+  6. Blasterjaxx &amp; MOTi ft. Jonathan Mendelsohn – Ghost In The Machine
   7. Univz – Vanished
   8. HI-LO – Crank It Up
   9. Robby East &amp; DEVI – Crush
   10. Don Diablo – On My Mind
   11. Funkin Matt – Rapture
   12. Slider &amp; Magnit vs T–killah – Alcoholic
-  13. Spada feat. Anna Leyne – Catchfire [EDX Miami Sunset Remix]
+  13. Spada ft. Anna Leyne – Catchfire [EDX Miami Sunset Remix]
   14. Nero – Two Minds
-  15. Bobby Rock feat. Nathan Nicholson – Baby
+  15. Bobby Rock ft. Nathan Nicholson – Baby
   16. Calvin Harris &amp; Disciples – How Deep Is Your Love
-  17. Dimitri Vegas &amp; Like Mike feat. Ne-Yo – Higher Place [Anevo Remix]
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF09.jpg"/>
+  17. Dimitri Vegas &amp; Like Mike ft. Ne-Yo – Higher Place [Anevo Remix]
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF09.jpg"/>
 <enclosure 
-    url="http://ia601908.us.archive.org/4/items/phaseflow09/PhaseFlow09.mp3" 
+    url="http://archive.org/download/phaseflow09/PhaseFlow09.mp3" 
     length="150984715" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow09/PhaseFlow09.mp3</guid>
@@ -5663,7 +5664,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 08</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 08</p><br>]]>
@@ -5672,24 +5673,24 @@ Tracklist:
 
   1. LOOPERS – The Riddle
   2. Wee-0 – Fighting For [Tiesto Edit]
-  3. 3LAU &amp; Nom De Strip Feat. Estelle – The Night [Hunter Siegel Remix]
+  3. 3LAU &amp; Nom De Strip ft. Estelle – The Night [Hunter Siegel Remix]
   4. Digital LAB &amp; Henrix – Drop Low
   5. Shelco Garcia &amp; TEENWOLF vs Juyen Sebulba vs Wallstreet – Dance
-  6. Laidback Luke &amp; Shelco Garcia &amp; Teenwolf feat. Kris Kiss – Outer Space
+  6. Laidback Luke &amp; Shelco Garcia &amp; Teenwolf ft. Kris Kiss – Outer Space
   7. Vicetone – Nothing Stopping Me [Instrumental Edit]
   8. HI-LO – Renegade Mastah
-  9. Steve Angello &amp; Laidback Luke feat. Robin S – Show Me Love [Anevo Remix]
+  9. Steve Angello &amp; Laidback Luke ft. Robin S – Show Me Love [Anevo Remix]
   10. Showtek &amp; VASSY – Satisfied [Blinders Remix]
   11. D1LSON vs. Martin Solveig &amp; GTA – My Baby vs. Intoxicated [Lucky Charmes Remix] (EYEMVX Mashup)
   12. Lucas &amp; Steve vs Matt &amp; Kendo – You And I Know
   13. Alexias – I Need You [The Mankeys Edit]
-  14. Going Deeper – Taste The Night (feat. Ryan Konline)
+  14. Going Deeper ft. Ryan Konline – Taste The Night
   15. Dropout – Slowly
-  16. Madonna – Bitch I&apos;m Madonna (feat. Nicki Minaj) [Flechette Remix]
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF08.jpg"/>
+  16. Madonna ft. Nicki Minaj – Bitch I&apos;m Madonna (Flechette Remix)
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF08.jpg"/>
 <enclosure 
-    url="http://ia601906.us.archive.org/6/items/phaseflow08/PhaseFlow08.mp3" 
+    url="http://archive.org/download/phaseflow08/PhaseFlow08.mp3" 
     length="143373484" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow08/PhaseFlow08.mp3</guid>
@@ -5702,7 +5703,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 07</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 07</p><br>]]>
@@ -5723,10 +5724,10 @@ Tracklist:
   13. Diplo &amp; Skrillex – Where Are U Now [Marshmello Remix]
   14. Borgore &amp; Addison – School Daze [Borgore &amp; Tisoki Remix]
   15. Vanic X K.Flay – The Cops
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF07.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF07.jpg"/>
 <enclosure 
-	url="http://ia601908.us.archive.org/3/items/phaseflow07/PhaseFlow07.mp3" 
+	url="http://archive.org/download/phaseflow07/PhaseFlow07.mp3" 
     length="119154182" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow07/PhaseFlow07.mp3</guid>
@@ -5739,7 +5740,7 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 06</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 06</p><br>]]>
@@ -5748,22 +5749,22 @@ Tracklist:
   1. AlunaGeorge – You Know You Like It (Tchami Remix)
   2. Nyko – CTRL
   3. Adam Lambert – Ghost Town (Daniel Campbell Remix)
-  4. Favulous feat. Cybil – You
+  4. Favulous ft. Cybil – You
   5. The Ironix – Lost In The Water (USB Players Remix)
   6. Tchami – Promesses (Pep &amp; Rash Bootleg)
   7. Axwell /\ Ingrosso – On My Way (Dave Winnel Remix)
   8. Antonio Giacca – Sensation
-  9. Armin van Buuren – Another You (feat. Mr. Probz)
+  9. Armin van Buuren ft. Mr. Probz – Another You
   10. Jacob Underwood – Hieroglyph
   11. Martin Garrix &amp; Tiesto – The Only Way Is Up
   12. Bougenvilla – Take It Back
   13. Oliver Heldens – Koala
   14. Koos – Voltage
   15. Zedd ft. Selena Gomez – I Want You To Know (Fox Stevenson Remix)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF06.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF06.jpg"/>
 <enclosure 
-    url="http://ia601908.us.archive.org/9/items/phaseflow06/PhaseFlow06.mp3" 
+    url="http://archive.org/download/phaseflow06/PhaseFlow06.mp3" 
     length="132046232" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow06/PhaseFlow06.mp3</guid>
@@ -5777,14 +5778,14 @@ Tracklist:
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 05
 </itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 05</p><br>]]>
 
   Tracklist:
 
-  1. Mike Metro Feat. Stahsi, Simon Milan – In The Dark (ODD MOB remix)
+  1. Mike Metro ft. Stahsi, Simon Milan – In The Dark (ODD MOB remix)
   2. Waysons – First Flight
   3. Muttonheads – Lone Rider
   4. Steve Angello vs Matisse &amp; Sadko – SLVR
@@ -5792,17 +5793,17 @@ Tracklist:
   6. Arston – Star Warz (Swanky Tunes Edit)
   7. XYconstant – Silverlined
   8. Curbi &amp; Bougenvilla – Tudal
-  9. KSHMR – The Spook (feat. BassKillers &amp; B3nte)
+  9. KSHMR ft. BassKillers &amp; B3nte – The Spook
   10. Patrick Reza &amp; Maya Payne – If Only (Remix)
   11. Alvita – Paradoxx
   12. Oliver Heldens – Melody (ANGEMI U Version Bootleg)
   13. Julian Calor – Signs
   14. XYLO – America (Young Bombs Remix)
-  15. Kygo – Stole The Show (feat. Parson James)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF05.jpg"/>
+  15. Kygo ft. Parson James – Stole The Show
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF05.jpg"/>
 <enclosure 
-    url="http://ia601907.us.archive.org/28/items/phaseflow05/PhaseFlow05.mp3" 
+    url="http://archive.org/download/phaseflow05/PhaseFlow05.mp3" 
     length="134619779" 
     type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow05/PhaseFlow05.mp3</guid>
@@ -5815,35 +5816,35 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 04</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 04</p><br>]]>
   
   Tracklist: 
   1. LOOPERS – Grind
-  2. Feenixpawl feat. Melissa Ramsay – Ghosts
+  2. Feenixpawl ft. Melissa Ramsay – Ghosts
   3. Robbie Rivera – Move Your Ass (Frank Caro &amp; Alemany Remix)
   4. Fabian Baroud – Jupiter
   5. Doctor Y – Show Me Love
   6. Dimitri Vangelis &amp; Wyman – Zonk
   7. Borgeous &amp; David Solano – Big Bang
   8. Axwell /\ Ingrosso – On My Way
-  9. T2 feat. Jodie – Heartbroken (Night Crime Remix)
+  9. T2 ft. Jodie – Heartbroken (Night Crime Remix)
   10. Kaskade – Never Sleep Alone
-  11. Blonde feat. Alex Newell – All Cried Out (Don Diablo Remix)
+  11. Blonde ft. Alex Newell – All Cried Out (Don Diablo Remix)
   12. Gregori Klosman ft. Sarah Mount – Time To Be Alone
   13. Watermat &amp; Tai – Frequency
   14. CamelPhat, A*M*E – Paradigm (Amtracs Temptation Mix)
   15. EDX – Want You
-  16. Cedric Zeyenne feat. Menna – Drowning
-  17. Alesso – Cool (feat. Roy English) [CRNKN Remix]
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF04.jpg"/>
+  16. Cedric Zeyenne ft. Menna – Drowning
+  17. Alesso ft. Roy English – Cool (CRNKN Remix)
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF04.jpg"/>
 <enclosure 
-	url="http://ia601207.us.archive.org/35/items/phaseflow04/PhaseFlow04.mp3" 
-    length="164784950" 
-    type="audio/mpeg" />
+	url="http://archive.org/download/phaseflow04/PhaseFlow04.mp3" 
+  length="164784950" 
+  type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow04/PhaseFlow04.mp3</guid>
 <pubDate>Sat, 18 Apr 2015 19:00:00 GMT</pubDate>
 <itunes:duration>01:08:39</itunes:duration>
@@ -5854,27 +5855,28 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 03: Live @ Megabyte Radio</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 03: Live @ Megabyte Radio</p><br>]]>
   
   Tracklist: 
-  1. Tchami – After Life (Feat. Stacy Barthe)
-  2. Showtek feat. MC Ambush – 90&apos;s By Nature(Curbi Remix)
+  1. Tchami ft. Stacy Barthe – After Life
+  2. Showtek ft. MC Ambush – 90&apos;s By Nature(Curbi Remix)
   3. Gregori Klosman – Red Lights
   4. Carly Rae Jepsen – I Really Like You (Mike Williams Future House Bootleg)
   5. Julian Calor – Cell
   6. Rick Mitchells – Tactical Nuke
   7. Gorgon City &amp; Katy Menditta – Imagination (Weiss Remix)
   8. Francesco Yates – Call (The Flexican &amp; Funkin Matt Remix)
-  9. Major Lazer x DJ Snake feat. MO – Lean On
+  9. Major Lazer x DJ Snake ft. MO – Lean On
   10. Jack U &amp; Ragga Twins – Badman Is Coming To U (EYEMVX Mashup)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF03.jpg"/>
-<enclosure url="http://ia601909.us.archive.org/1/items/phaseflow03/PhaseFlow03.mp3" 
-    length="86058881" 
-    type="audio/mpeg" />
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF03.jpg"/>
+<enclosure 
+  url="http://archive.org/download/phaseflow03/PhaseFlow03.mp3" 
+  length="86058881" 
+  type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow03/PhaseFlow03.mp3</guid>
 <pubDate>Sat, 4 Apr 2015 19:00:00 GMT</pubDate>
 <itunes:duration>35:51</itunes:duration>
@@ -5885,25 +5887,25 @@ Tracklist:
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 02</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 02</p>]]>
   Tracklist:
-  1. Mike Candys feat. Max&apos;C – Last Man On Earth
+  1. Mike Candys ft. Max&apos;C – Last Man On Earth
   2. Alex Adair – Make Me Feel Better (Don Diablo &amp; CID Remix)
   3. Ellie Goulding – Love Me Like You Do (Jasper Dietze Remix)
   4. Van Gelder – Deeper
-  5. Hardwell – Sally (feat. Harrison)
+  5. Hardwell ft. Harrison – Sally
   6. KSHMR – Megalodon
   7. Vanic X Aquilo – Losing You
   8. Tove Lo – Talking Body (Gryffin Remix)
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF02.jpg"/>
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF02.jpg"/>
 <enclosure 
-url="http://ia601905.us.archive.org/27/items/phaseflow02/PhaseFlow02.mp3" 
-length="59790522" 
-type="audio/mpeg" />
+  url="http://archive.org/download/phaseflow02/PhaseFlow02.mp3" 
+  length="59790522" 
+  type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow02/PhaseFlow02.mp3</guid>
 <pubDate>Sat, 14 Mar 2015 19:00:00 GMT</pubDate>
 <itunes:duration>31:39</itunes:duration>
@@ -5914,7 +5916,7 @@ type="audio/mpeg" />
 <itunes:author>EYEMAX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 01</itunes:subtitle>
-<itunes:summary>
+<description>
 <![CDATA[
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 01]]>
@@ -5924,9 +5926,10 @@ Tracklist:
 3. Alvita – Galaxy
 4. Halsey – Trouble (Sander Kleinenberg Bootleg)
 5. Curbi – Discharge
-</itunes:summary>
-<itunes:image href="http://www.phaseflow.ru/images/PF01.jpg"/>
-<enclosure url="http://ia601909.us.archive.org/31/items/phaseflow01/PhaseFlow01.mp3" 
+</description>
+<itunes:image href="http://phaseflow.github.io/images/PF01.jpg"/>
+<enclosure 
+  url="http://archive.org/download/phaseflow01/PhaseFlow01.mp3" 
   length="43366753" 
   type="audio/mpeg" />
 <guid>http://archive.org/download/phaseflow01/PhaseFlow01.mp3</guid>
