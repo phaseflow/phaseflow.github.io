@@ -67,32 +67,13 @@
 
     <xsl:template match="item" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 
-        <xsl:variable name="artwork" select="itunes:image/@href"/>
-        <xsl:variable name="thumbnail" select="concat(substring($artwork, 1, string-length($artwork)-4),'_thumb.jpg')" />
-
-        <ul xmlns="http://www.w3.org/1999/xhtml" >
-            <!-- style="background: url({$thumbnail}) no-repeat center; background-size: cover;"> -->
-            <img src="{$thumbnail}" style="width:100%; object-fit: cover;
-            position: absolute;left:0; right:0;z-index: 0; filter:blur(8px)"/>
-            <li class="regularitem" style="z-index: 2;
-            position: relative; margin-top:50px;">
+        <ul xmlns="http://www.w3.org/1999/xhtml">
+            <li class="regularitem">
                 
                 <h4 class="itemtitle">
                     <a href="{link}">
-                        <xsl:element name="img" namespace="http://www.w3.org/1999/xhtml">
-                            <xsl:attribute name="src">
-                                 <xsl:value-of select="$thumbnail"/>
-                            </xsl:attribute>
-                            <xsl:attribute name="alt">Link to <xsl:value-of select="title"/></xsl:attribute>
-                            <xsl:attribute name="class">img-responsive</xsl:attribute>
-                         <xsl:attribute name="style">width:100%; max-width:96px</xsl:attribute>
-                        </xsl:element>
                         <xsl:value-of select="title"/>
-                        <!-- <xsl:value-of select="$artwork"/> -->
-                        <!-- <p>
-                            <xsl:value-of select="$thumbnail"/>
-                        </p> -->
-                    </a>                    
+                    </a>
                 </h4>
 
                 <div class="mediaenclosure">
