@@ -67,14 +67,49 @@
 
     <xsl:template match="item" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 
-        <ul xmlns="http://www.w3.org/1999/xhtml">
-            <li class="regularitem">
-                
-                <h4 class="itemtitle">
+        <xsl:variable name="artwork" select="itunes:image/@href"/>
+        <!-- <xsl:variable name="thumbnail" select="concat(substring($artwork, 1, string-length($artwork)-4),'_thumb.jpg')" /> -->
+
+        <ul xmlns="http://www.w3.org/1999/xhtml" >
+            <!-- style="background: url({$thumbnail}) no-repeat center; background-size: cover;"> -->
+            <!-- <img src="{$thumbnail}" style="width:100%; object-fit: cover;
+            position: absolute;left:0; right:0;z-index: 0; filter:blur(8px)"/> -->
+            <li class="regularitem" style="z-index: 2; position: relative;">
+
+                <ul class="itemtitle" style="background: transparent;">
+                    <li style="display: inline-block;">
+                        <h4>
+                            <a href="{link}">
+                                <xsl:value-of select="title"/>
+                            </a>
+                        </h4>
+                    </li>
+                    <li style="display: inline-block; float: right; margin-top: 10px">
+                        <a target="_blank" href="{enclosure/@url}">
+                            Download
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="pictureenclosure">
                     <a href="{link}">
-                        <xsl:value-of select="title"/>
-                    </a>
-                </h4>
+                        <xsl:if test="contains($artwork, 'archive.org')">
+                            <xsl:variable name="thumbnail" select="concat(substring($artwork, 1, string-length($artwork)-4),'_thumb.jpg')" />
+                            <img src="{$thumbnail}" alt="Link to {title}" class="img-responsive" style="width:100%; max-width:192px; margin-left: 5px;" />
+                        </xsl:if>
+                        <xsl:if test="not(contains($artwork, 'archive.org'))">
+                            <img src="{$artwork}" alt="Link to {title}" class="img-responsive" style="width:100%; max-width:192px; margin-left: 5px;" />
+                        </xsl:if>
+                    </a>                    
+                </div>
+                
+                <div class="itemcontent" name="decodeable">
+                    <h5 class="itemposttime">
+                        <xsl:if test="count(child::pubDate)=1"><xsl:value-of select="substring(pubDate, 0, 17)"/></xsl:if>
+                        <xsl:if test="count(child::dc:date)=1"><xsl:value-of select="dc:date"/></xsl:if>
+                    </h5>
+                    <xsl:call-template name="outputContent"/>
+                </div>
 
                 <div class="mediaenclosure">
                     <xsl:if test="count(child::enclosure)&gt;0">
@@ -113,24 +148,6 @@
                             </xsl:element>
                         </xsl:if>
                     </xsl:if>
-                    <xsl:element name="p" namespace="http://www.w3.org/1999/xhtml">
-                        <xsl:element name="a" namespace="http://www.w3.org/1999/xhtml">
-                            <xsl:attribute name="class">pull-right</xsl:attribute>
-                            <xsl:attribute name="target">_blank</xsl:attribute>
-                            <xsl:attribute name="href">
-                                <xsl:value-of select="enclosure/@url"/>
-                            </xsl:attribute>
-                            Download
-                        </xsl:element>
-                    </xsl:element>
-
-                </div>
-                <div class="itemcontent" name="decodeable">
-                    <h5 class="itemposttime">
-                        <xsl:if test="count(child::pubDate)=1"><xsl:value-of select="substring(pubDate, 0, 17)"/></xsl:if>
-                        <xsl:if test="count(child::dc:date)=1"><xsl:value-of select="dc:date"/></xsl:if>
-                    </h5>
-                    <xsl:call-template name="outputContent"/>
                 </div>
             </li>
         </ul>
