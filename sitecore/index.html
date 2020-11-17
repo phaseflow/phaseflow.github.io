@@ -1,0 +1,304 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <style> 
+        @-webkit-keyframes error {
+            0% {
+                background-position: 0% 0%
+            }
+
+            25% {
+                background-position: 50% 50%
+            }
+
+            50% {
+                background-position: 100% 100%
+            }
+
+            75% {
+                background-position: 50% 50%
+            }
+
+            100% {
+                background-position: 0% 0%
+            }
+        }
+
+        @-moz-keyframes error {
+            0% {
+                background-position: 0% 0%
+            }
+
+            25% {
+                background-position: 50% 50%
+            }
+
+            50% {
+                background-position: 100% 100%
+            }
+
+            75% {
+                background-position: 50% 50%
+            }
+
+            100% {
+                background-position: 0% 0%
+            }
+        }
+
+        @-o-keyframes error {
+            0% {
+                background-position: 0% 0%
+            }
+
+            25% {
+                background-position: 50% 50%
+            }
+
+            50% {
+                background-position: 100% 100%
+            }
+
+            75% {
+                background-position: 50% 50%
+            }
+
+            100% {
+                background-position: 0% 0%
+            }
+        }
+
+        @keyframes error {
+            0% {
+                background-position: 0% 0%
+            }
+
+            25% {
+                background-position: 50% 50%
+            }
+
+            50% {
+                background-position: 100% 100%
+            }
+
+            75% {
+                background-position: 50% 50%
+            }
+
+            100% {
+                background-position: 0% 0%
+            }
+        }
+
+
+        html {
+            min-height: 100vh;
+            /* background-color: #fff; */
+            font-family: 'Roboto Condensed', sans-serif;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .goodnight {
+            filter: hue-rotate(180deg) invert(0.85);
+            /*
+            backdrop-filter: invert(1);
+            color: #D0D080; 
+            */
+            
+        }
+
+        body {
+            padding: 0;
+            margin: 0;
+            color: #D0D080;
+            /* Invert those colors ??? */
+
+            /* background: rgb(42, 52, 61);*/
+            background: -webkit-linear-gradient(-45deg, rgb(42, 52, 61), rgb(59, 42, 61), rgb(61, 42, 42), rgb(43, 61, 42));
+            background: -moz-linear-gradient(-45deg, rgb(42, 52, 61), rgb(59, 42, 61), rgb(61, 42, 42), rgb(43, 61, 42));
+            background: -ms-linear-gradient(-45deg, rgb(42, 52, 61), rgb(59, 42, 61), rgb(61, 42, 42), rgb(43, 61, 42));
+            background: linear-gradient(-45deg, rgb(42, 52, 61), rgb(59, 42, 61), rgb(61, 42, 42), rgb(43, 61, 42));
+
+            /* background-size: 600% 600%;
+            -webkit-animation: error 60s ease infinite;
+            -moz-animation: error 60s ease infinite;
+            -o-animation: error 60s ease infinite;
+            animation: error 60s ease infinite; */
+            /* backdrop-filter: blur(5px); */
+            
+        }
+
+        header {
+            border-bottom: 1px solid #333;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            height: 73px;
+            background-color: #000;
+        }
+
+        #headerContainer {
+            display: flex;
+            justify-content: space-between;
+            height: 100%;
+            max-width: 1188px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        #logoContainer {
+            display: flex;
+            align-items: center;
+        }
+
+        #logoImage {
+            width: 50px;
+        }
+
+        #logoTitle {
+            margin: 0 15px;
+        }
+
+        #navigationContainer {
+            display: block;
+            list-style: none;
+            height: 73px;
+            line-height: 73px;
+            margin: 0;
+        }
+
+        header ul li {
+            display: inline-block;
+            overflow: hidden;
+            height: 100%;
+            position: relative;
+        }
+
+        header ul li a {
+            display: block;
+            height: 100%;
+            width: 100%;
+            padding: 0 15px;
+            transition: all 0.2s ease-in-out;
+            box-shadow: none;
+        }
+
+        header ul li a:hover {
+            color: #fff;
+        }
+
+        #nightSwitcher {
+            color: #fff;
+            /*background-color: #111;*/
+            background: linear-gradient(0deg,#0A0A0A, #1F1F1F);
+            text-decoration: none;
+        }
+
+        #nightSwitcher:hover {
+            color: #ddd;
+            box-shadow: inset 0px -73px #333;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        #main-container {
+            margin-top: 84px;
+            margin-left: 12px;
+        }
+
+        .code {
+            font-family: 'Consolas';
+        }
+
+        a {
+            color: #d0b780;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #d0d080;
+            text-decoration: dotted;
+        }
+    </style>
+    <title>
+        Useful console commands
+    </title>
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.png" type="image/png" />
+</head>
+
+<body>
+    <header>
+        <div id="headerContainer">
+            <a id="logoContainer" href="#" disabled>
+                <img id="logoImage" src="favicon.png">                
+                <span id="logoTitle">Useful console commands</span>
+            </a>
+            <ul id="navigationContainer">
+                <li><a id="nightSwitcher" activate-night-mode>Night Mode</a></li>
+            </ul>
+        </div>
+    </header>
+    <div id="main-container">
+        <main>
+            <h2>Useful console commands | Click on the code to copy</h2>
+            <div class="link-list">
+                <ul>
+                    <li>
+                        <h4>JSS | Get page information – ID, language, version, name:</h4>
+                        <p class="code">!!window.__JSS_STATE__ 
+                            ? {itemId: __JSS_STATE__.sitecore.route.itemId.replace(/-/g,''), itemLanguage:
+                            __JSS_STATE__.sitecore.route.itemLanguage, itemVersion:
+                            __JSS_STATE__.sitecore.route.itemVersion, itemName: __JSS_STATE__.sitecore.route.name,
+                            __copy: copy(__JSS_STATE__.sitecore.route.itemId.replace(/-/g,''))}
+                            : '[ERROR] JSS_STATE is not defined'</p>
+                    </li>
+                    <li>
+                        <h4>JSS | Get page 'Center' placeholder:</h4>
+                        <p class="code">!!window.__JSS_STATE__
+                            ? __JSS_STATE__.sitecore.route.placeholders.Center
+                            : '[ERROR] JSS_STATE is not defined'</p>
+                    </li>
+                    <li>
+                        <h4>SITECORE | Make GUID be without '{}-' and in lowercase:</h4>
+                        <p class="code">.toLowerCase().replace(/[{}-]/g, '')</p>
+                    </li>
+                    <li>
+                        <h4>GIT | Make string 'Git-compliant'</h4>
+                        <p class="code">.replace(/([-\[,\],: ])+/g, '-');</p>
+                    </li>
+                </ul>
+            </div>
+        </main>
+    </div>
+</body>
+<script>
+    document.querySelectorAll('.code').forEach((elem) => {
+        elem.addEventListener('click', (e) => {
+            e.preventDefault();
+
+            document.execCommand("copy");
+            navigator.clipboard.writeText(elem.innerHTML)
+                .then(function () {
+                    console.log(`copied: \r\n"${elem.innerHTML}"`);
+                }, function () {
+                    console.log('clipboard write failed')
+                });
+        });
+    });
+
+    nightSwitcher.addEventListener('click', () => {
+        let toggle = nightSwitcher.getAttribute('activate-night-mode') == 'true';
+
+        toggle
+            ? (document.documentElement.className = document.documentElement.className.replace(/ goodnight$/, ''))
+            : (document.documentElement.className += ' goodnight')
+        nightSwitcher.setAttribute('activate-night-mode', !toggle);
+    });
+
+    //document.documentElement.className += ' goodnight';
+</script>
+
+</html>
