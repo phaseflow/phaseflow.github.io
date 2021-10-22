@@ -249,16 +249,17 @@
                     <li>
                         <h4>JSS | Get page information – ID, language, version, name:</h4>
                         <p class="code">!!window.__JSS_STATE__ 
-                            ? {itemId: __JSS_STATE__.sitecore.route.itemId.replace(/-/g,''), itemLanguage:
-                            __JSS_STATE__.sitecore.route.itemLanguage, itemVersion:
-                            __JSS_STATE__.sitecore.route.itemVersion, itemName: __JSS_STATE__.sitecore.route.name,
-                            __copy: copy(__JSS_STATE__.sitecore.route.itemId.replace(/-/g,''))}
+                            ? {itemId: JSON.parse(window.__JSS_STATE__.innerText).sitecore.route.itemId.replace(/-/g,''), 
+                            itemLanguage: JSON.parse(window.__JSS_STATE__.innerText).sitecore.route.itemLanguage,
+                            itemVersion: JSON.parse(window.__JSS_STATE__.innerText).sitecore.route.itemVersion,
+                            itemName: JSON.parse(window.__JSS_STATE__.innerText).sitecore.route.name,
+                            __copy: copy(JSON.parse(window.__JSS_STATE__.innerText).sitecore.route.itemId.replace(/-/g,''))}
                             : '[ERROR] JSS_STATE is not defined'</p>
                     </li>
                     <li>
-                        <h4>JSS | Get page 'Center' placeholder:</h4>
+                        <h4>JSS | Get page placeholders:</h4>
                         <p class="code">!!window.__JSS_STATE__
-                            ? __JSS_STATE__.sitecore.route.placeholders.Center
+                            ? JSON.parse(window.__JSS_STATE__.innerText).sitecore.route.placeholders
                             : '[ERROR] JSS_STATE is not defined'</p>
                     </li>
                     <li>
