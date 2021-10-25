@@ -31,15 +31,18 @@
     <body>
       <header>      
         <div id="headerContainer">
-          <a id="logoContainer" href="https://phaseflow.github.io">
+          <a id="logoContainer" href="/">
             <img id="logoImage"
               src="https://phaseflow.github.io/images/logo16T150.png"/>
             <span id="logoTitle">Phase Flow</span>
           </a>
           <div id="navigationContainer">
-            <div><a href="https://geo.itunes.apple.com/podcast/phase-flow/id1071923917" activate-view="summary">Apple Podcasts</a></div>
-            <div><a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9waGFzZWZsb3cuZ2l0aHViLmlvL3BvZGNhc3QueG1s" activate-view="server">Google Podcasts</a></div>
-            <div><a href="https://pca.st/wpos">Pocket Casts</a></div>
+            <!-- <div><a href="https://geo.itunes.apple.com/podcast/phase-flow/id1071923917">Apple Podcasts</a></div>
+            <div><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9waGFzZWZsb3cuZ2l0aHViLmlvL3BvZGNhc3QueG1s">Google Podcasts</a></div>
+            <div><a href="https://pca.st/wpos">Pocket Casts</a></div> -->
+            <div><a href="https://geo.itunes.apple.com/podcast/id1071923917"><img src="/images/apple_podcasts.svg" height="35" alt="Слушать в Apple Подкастах" /></a></div>
+            <div><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9waGFzZWZsb3cuZ2l0aHViLmlvL3BvZGNhc3QueG1s"><img src="/images/google_podcasts.svg" height="35" alt="Слушать в Google Подкастах" /></a></div>
+            <div><a href="https://pca.st/wpos"><img src="/images/pocket_casts.svg" height="35" alt="Слушать в Pocket Casts" /></a></div>
           </div>
         </div>        
       </header>
@@ -124,10 +127,10 @@
           <a href="{link}">
             <xsl:if test="contains($artwork, 'archive.org')">
               <xsl:variable name="thumbnail" select="concat(substring($artwork, 1, string-length($artwork)-4),'_thumb.jpg')" />
-              <img src="{$thumbnail}" alt="Link to {title}" class="img-responsive" style="width:100%; max-width:192px; margin-left: 5px;" />
+              <img src="{$thumbnail}" alt="Link to {title}" class="img-responsive" loading="lazy" style="width:100%; max-width:192px; margin-left: 5px;" />
             </xsl:if>
             <xsl:if test="not(contains($artwork, 'archive.org'))">
-              <img src="{$artwork}" alt="Link to {title}" class="img-responsive" style="width:100%; max-width:192px; margin-left: 5px;" />
+              <img src="{$artwork}" alt="Link to {title}" class="img-responsive" loading="lazy" style="width:100%; max-width:192px; margin-left: 5px;" />
             </xsl:if>
           </a>          
         </div>
