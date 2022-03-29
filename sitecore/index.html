@@ -247,6 +247,10 @@
             <div class="link-list">
                 <ul>
                     <li>
+                        <h4> JSS | Get Sitecore JSS state</h4>
+                        <p class="code">JSON.parse(!!window.__JSS_STATE__ ? window.__JSS_STATE__.innerText : '{ "sitecore" : "[ERROR] no Sitecore JSS on page" }').sitecore</p>
+                    </li>
+                    <li>
                         <h4>JSS | Get page information – ID, language, version, name:</h4>
                         <p class="code">!!window.__JSS_STATE__ 
                             ? {itemId: JSON.parse(window.__JSS_STATE__.innerText).sitecore.route.itemId.replace(/-/g,''), 
