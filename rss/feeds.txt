@@ -65,6 +65,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCjAmQ-4NL3UZX0W_nmjn4_w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCjscfmLmyeajUdxDxrlQc9g
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrNs0isexLcjp6R2vtEFvww
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7O7af501mv4Ab4oCSdPTxw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyz4WiG6RjDgf7VIIh74EWQ
 http://www.joshuawright.net/rss_joshuawright.xml
 
 
